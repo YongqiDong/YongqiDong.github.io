@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching and Thesis Supervision"
-permalink: /teaching/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 ---
 
