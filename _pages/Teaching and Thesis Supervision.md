@@ -25,6 +25,6 @@ author_profile: true
 
 
 # Mentorship
-- Undergraduate Counselor (Class 2012) | School of EIE, Beijing Jiaotong University | Jul.2012- Jul.2014
+- Undergraduate Counselor (Class 2012), School of Electronic and Information Engineering, Beijing Jiaotong University, Jul.2012-Jul.2014
 
-I have mentored and collaborated with multiple undergraduate, master, and junior PhD students over several research projects in the past years. Please refer to my [CV](https://ChenTangMark.github.io/files/Chen_Tang_CV.pdf) for detailed information. 
+I have mentored and collaborated with multiple undergraduate, master, and junior PhD students over several research projects in the past few years. Please refer to my [CV](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf) for detailed information. 
