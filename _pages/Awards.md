@@ -29,19 +29,11 @@ author_profile: true
  
 # Certificates
 - [IBM edX Deep Learning Professional Certificate](https://credentials.edx.org/credentials/77ca88a7d12d440da5a3e00392a31a21/)
-- 
-- Henan Yuan, Bachelor in Traffic and Transportation, BJTU & TU Delft Joint TTE Bachelor Program, Thesis title: <span style="color:MediumBlue">*Deep Reinforcement Learning for Driving through Roundabouts*</span>, *Oct.2022-**Ongoing***
-- Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Effects of improved lane markings on Lane Keeping Assistance systems and human detection*</span>, *Sep.2022-**Ongoing***
-  
-<br/>
-
-- Shiva Nischal Lingam, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Effects of External Human Machine Interfaces on Automated Vehicles’ Communicative Interactions With Human Drivers*](https://repository.tudelft.nl/islandora/object/uuid%3Ad5fc3d7e-7d6e-467b-a797-11b33a534117) (Grade: 8.5/10), **Won 2nd [Cuperusprijs Prize of KIVI](https://www.kivi.nl/afdelingen/verkeer-en-vervoer/cuperusprijs)**, *Jan.2021-Nov.2021*
-- Sandeep Patil, Master of Science in Mechanical Engineering (Vehicular Engineering), TU Delft, Thesis title: [*Lane Detection using SpatioTemporal Attention*](https://repository.tudelft.nl/islandora/object/uuid%3A48d67745-6c50-4f3f-ba00-96b4dc4325f5) (Grade: 7.0/10), *Oct.2020-Aug.2021*
-- Eline van der Kooij, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: [*Visibility of Lane Markings for Machine Vision*](https://repository.tudelft.nl/islandora/object/uuid%3Aee25b2c6-85ae-4a96-b56d-32880a187623) (Grade: 8.0/10), *Jul.2020-May.2021*
-- Sanny Toonen, Bachelor of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Lane recognition for automated vehicles*](https://yufeiyuan.eu/wp-content/uploads/2020/06/2020-06-298.pdf) (Grade: 7.5/10), *Jul.2020-May.2021*
-
-
-# Mentorship
-- Undergraduate Counselor (Class 2012), School of Electronic and Information Engineering, Beijing Jiaotong University, *Jul.2012-Jul.2014*
-
-I have mentored and collaborated with multiple undergraduate, master, and junior PhD students over several research projects in the past few years. Please refer to my [CV](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf) for detailed information. 
+- [Applied Deep Learning Capstone Project](https://courses.edx.org/certificates/09cb030ac684454dad5f2055b8769c17)
+- [Using GPUs to Scale and Speed-up Deep Learning](https://courses.edx.org/certificates/9b90ad18e538419ebd89390194c3b5f2)
+- [Deep Learning with Python and PyTorch](https://courses.edx.org/certificates/3e7e00d3087b4aec973f7ce3d73640e8)
+- [Deep Learning with Tensorflow](https://courses.edx.org/certificates/e1b480c0e6fd4d08849b3b8b7fe4f7ad)
+- [Deep Learning Fundamentals with Keras](https://courses.edx.org/certificates/a2445fc9b5184494b4c81dcd2f5aedcd)
+- [IDEA League Summer School: *Analysis and Modelling Road User Behaviour*](https://www.dropbox.com/s/nvere3kdjxrpetd/Dong-IDEA.pdf?dl=0)
+- [2022 International PhD Summer School on Automated Driving](https://www.dropbox.com/s/4rnb84f5bsocbqb/yongqidong_20220901_163109Certificate.pdf?dl=0)
+- [TU Delft Graduate School: Coaching Students and Project Groups](https://www.dropbox.com/s/fh5cbapj25kpukj/T3B1_Certificate.pdf?dl=0)
