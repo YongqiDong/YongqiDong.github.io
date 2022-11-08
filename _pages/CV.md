@@ -18,11 +18,22 @@ Education
 
 Professional Services 
 ======
-* **Workshop Organizer**, the [IEEE Intelligent Vehicles Symposium (IV 2023)](https://2023.ieee-iv.org/)
-* 
-* 2017.8-2018.4: Visiting Professor, School of Engineering, Sun Yat-sen University
-* 2015.8-2017.7: Postdoctoral Associate, [MIT Media Mab](https://www.media.mit.edu/), Massachusetts Institute of Technology
-* 2014.12-2015.9: Senior Research Fellow, [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH Centre
-* 2015.2-2015.3: Visiting Researcher, Optimisation group, [National ICT Australia (Now Data61)](http://www.data61.csiro.au/)
-* 2014.2-2014.6: Visiting Student, [MIT Media Mab](https://www.media.mit.edu/), Massachusetts Institute of Technology
-* 2011.8-2015.1: PhD Researcher, [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH Centre
+* **Workshop Organizer**, the [IEEE Intelligent Vehicles Symposium (IV 2023)](https://2023.ieee-iv.org/) <br/>
+
+* **Ad-hoc Reviewer Services**<br/>
+**Journals**<br/>
+ 	* IEEE Transactions on Intelligent Transportation Systems<br/>
+ 	* Journal of Advanced Transportation<br/>  
+ 	* IEEE Open Journal of Intelligent Transportation Systems<br/>
+ 	* Transportation Letters: the International Journal of Transportation Research<br/>
+ 	* Journal of Transportation Research Record: Journal of the Transportation Research Board <br/>
+  
+  **Conferences and Proceedings**<br/>
+ 	* IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
+ 	* Transportation Research Board (TRB) Annual Meeting<br/>
+ 	* World Congress on Intelligent Control and Automation (WCICA)<br/>
+ 	* COTA International Conference of Transportation Professionals (CICTP)<br/>
+* 2019.12-Present:  **Ph.D. Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
+* 2018.05-2019.09: **Research Assistant**, University of Waterloo <br/>
+* 2014.09-2018.05: **Research Assistant**, Intelligent Transportation System Lab, TNList, Tsinghua University <br/>
+* 2016.08-2016.09: **Research Intern**, [Singapore-MIT Alliance for Research and Technology (SMART)](https://smart.mit.edu/research/fm/about-fm) <br/>
