@@ -21,10 +21,6 @@ author_profile: true
 4. **Dong, Y.**, Wang, Sh., Li, L., Zhang, Z. (2018). An Empirical Study on Travel Patterns of Internet Based Ride-Sharing, *Transportation Research Part C: Emerging Technologies 86*: 1-22. [Highly cited; Q1, IF:9.022, SJR:3.211](https://doi.org/10.1016/j.trc.2017.10.022)
 
 
-1. **C. Tang**\*, Z. Xu\* and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," *IEEE Transactions on Intelligent Transportation Systems*, vol. 21, no. 9, pp. 3961-3972, Sept. 2020 
-1. Á. Cuenca, W. Zhan, J. Salt, J. Alcaina, **C. Tang** and M. Tomizuka, “A Remote Control Strategy for an Autonomous Vehicle with Slow Sensor Using Kalman Filtering and Dual-Rate Control,” *Sensors*, vol. 19, no. 13, p. 2983, Jul. 2019.
-1. X. Liu, **C. Tang**, X. Du, S. Xiong, S. Xi, Y. Liu, X. Shen, Q. Zheng, Z. Wang, Y. Wu, et al., “A Highly Sensitive Graphene Woven Fabric Strain Sensor for Wearable Wireless Musical Instruments,” *Materials Horizons*, vol. 4, no. 3, pp. 477–486, 2017
-
 ## Conference Proceedings
 1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," *European Conference on Computer Vision (ECCV)*, 2022
 1. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
