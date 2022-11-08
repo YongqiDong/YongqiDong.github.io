@@ -15,10 +15,10 @@ author_profile: true
 
 
 ## Journal
-1. **Dong, Y.**, Patil, S., van Arem, B., & Farah, H. (2022). A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection. Computer-Aided Civil and Infrastructure Engineering, 1–20. [Q1, IF:11.775, SJR:2.773](https://doi.org/10.1111/mice.12829)
-2. Farah, H., Postigo, I., Reddy, N., **Dong, Y.**, Rydergren, C., Raju, N. and Olstam, J. (2022). [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176).*IEEE Transactions on Intelligent Transportation Systems*, 2022, 
+1. **Dong, Y.**, Patil, S., van Arem, B., & Farah, H. (2022). A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection. *Computer-Aided Civil and Infrastructure Engineering*, 1–20. [Q1, IF:11.775, SJR:2.773](https://doi.org/10.1111/mice.12829)
+2. Farah, H., Postigo, I., Reddy, N., **Dong, Y.**, Rydergren, C., Raju, N. and Olstam, J. (2022). [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176). *IEEE Transactions on Intelligent Transportation Systems*, 2022, 
 3. Raju, N., Schakel, W., Reddy, N., **Dong, Y.**, Farah, H. (2022). [Car-Following Properties of a Commercial Adaptive Cruise Control System- A Pilot Field Test. Transportation Research Record: Journal of the Transportation Research Board](https://doi.org/10.1177/03611981221077085).  
-4. **Dong, Y.**, Wang, Sh., Li, L., Zhang, Z. (2018). An Empirical Study on Travel Patterns of Internet Based Ride-Sharing, Transportation Research Part C: Emerging Technologies 86: 1-22. [Highly cited; Q1, IF:9.022, SJR:3.211](https://doi.org/10.1016/j.trc.2017.10.022)
+4. **Dong, Y.**, Wang, Sh., Li, L., Zhang, Z. (2018). An Empirical Study on Travel Patterns of Internet Based Ride-Sharing, *Transportation Research Part C: Emerging Technologies 86*: 1-22. [Highly cited; Q1, IF:9.022, SJR:3.211](https://doi.org/10.1016/j.trc.2017.10.022)
 
 
 1. **C. Tang**\*, Z. Xu\* and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," *IEEE Transactions on Intelligent Transportation Systems*, vol. 21, no. 9, pp. 3961-3972, Sept. 2020 
