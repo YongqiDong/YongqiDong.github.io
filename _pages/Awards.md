@@ -5,7 +5,29 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **Project supervisor**, Course: Capstone Applied AI Project 2022-2023 [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), EEMCS, TU Delft, *Nov.2022-Apr.2023*
+# Slected Awards and Scholarships
+
+- Erasmus + mobility Grants (**Twice**)
+- [IEEE ITSS Young Professionals Travelling Fellowship](https://ieee-itss.org/yp-travelling-fellowship-program-2022/#:~:text=Young%20Professionals%20Travelling%20Fellowship%20Program%202022&text=Selected%20Young%20Professionals%20will%20receive,be%20reimbursed%20by%20IEEE%20ITSS.), Sep.2022
+- Outstanding College Graduates of Beijing (**Top 1‰**)
+- First Class Tsinghua University RONG Scholarship
+- **National Scholarship (Top 1%)**
+- First-Class Academic Fellowship (**Top 1%, Twice**)
+- Second-Class Merit Scholarship for Masters Tsinghua University
+- Second-Class Academic Fellowship (Top 3%)
+- Merit Student (Four times)
+- Second prize of Innovation Awards by School of Science
+- Honourable Mention in 2013 Interdisciplinary Contest in Modeling
+- Second Prize in the 2013 Undergraduate Electronic Design Contest in Beijing
+- Second Prize in the 2012 Undergraduate Electronic Design Contest in Beijing
+- Second Prize in the Physical Experiment Competition in Beijing
+- Bronze award in “Challenge Cup” Entrepreneurship Design Contest in Beijing
+- First Prize in Beijing Jiaotong University "Challenge Cup" Entrepreneurship Design Contest
+- First Prize in Freescale Cup University Students Intelligent Car Race (Rank **2nd**)
+- 2019 Microsoft Discover AI Challenge: Sustainable Life (Top 10%), check the [Data-Driven All-in-one Shared Mobility demo video](https://www.bilibili.com/video/BV1YK411W7DX/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302).
+
+
+Course: Capstone Applied AI Project 2022-2023 [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), EEMCS, TU Delft, *Nov.2022-Apr.2023*
 - **Taching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022*
 - **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47890), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
 - **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
