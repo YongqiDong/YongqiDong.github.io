@@ -4,7 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-# Slected Awards and Scholarships
 
 - [CV in PDF](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf)
 
@@ -19,7 +18,8 @@ Education
 
 Professional Services 
 ======
-**Workshop** Organizer 2018.5-: Assistant Professor, [Department of Civil Engineering and Applied Mechanics](https://www.mcgill.ca/civil/), McGill University
+* **Workshop Organizer**, the [IEEE Intelligent Vehicles Symposium (IV 2023)](https://2023.ieee-iv.org/)
+* 
 * 2017.8-2018.4: Visiting Professor, School of Engineering, Sun Yat-sen University
 * 2015.8-2017.7: Postdoctoral Associate, [MIT Media Mab](https://www.media.mit.edu/), Massachusetts Institute of Technology
 * 2014.12-2015.9: Senior Research Fellow, [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH Centre
