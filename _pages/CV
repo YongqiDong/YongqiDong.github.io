@@ -1,14 +1,15 @@
 ---
-title: "CV"
-permalink: /cv/
+layout: archive
+title: "Awards"
+permalink: /awards/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
-* [CV in PDF](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf)
+- [CV in PDF](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf)
+
+# Slected Awards and Scholarships
+
 
 Education
 ======
