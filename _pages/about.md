@@ -28,5 +28,14 @@ News
 - 09/2022: Our paper [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176) is published in the journal of *IEEE Transactions on Intelligent Transportation Systems*. 
 - 02/2022: My paper [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829) is published in the journal of *Computer-Aided Civil and Infrastructure Engineering* [{Video1}](https://youtu.be/p10oaCRmst0) [{Video2}](https://youtu.be/67eMeFn5oi8). 
 
+Miscellany 
+======
+I am vegetarian. I like Taichi, reading, and travelling. I regularly practice meditation to pursue the Inner Peace. I see travelling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. 
+
+*Quotes*:
+"If anything is worth doing, do it with all your heart."
+"Not everything that counts can be counted, and not everything that can be counted really counts." 
+"Live in the Present Moment. Irrespective of what happened yesterday or last year, and what may or may not happen tomorrow, the present moment is where you are---always."
+
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w&cl=ffffff&w=a"></script>
 
