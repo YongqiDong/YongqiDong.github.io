@@ -30,4 +30,4 @@ author_profile: true
 ## Workshop
 1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Explainable Autonomous Driving with Grounded Relational Inference," in *NeurIPS Workshop on Machine Learning for Autonomous Driving*, 2020
 
-_The superscript \* indicates equal contribution._
+_The superscript \# \* indicates equal contribution._
