@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Yongqi Dong 董永奇, a Ph.D. researcher at TU Delft. I am a member of the [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab) supervised by [Dr. Haneen Farah](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/farah-h) and [Prof. Bart van Arem](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/arem-b-van). Prior to this, I obtained my PhD in Mechanical Engineering at UC Berkeley, and my bachelor degree in Mechanical Engineering from Hong Kong University of Science and Technology (HKUST). I have also spent time in [Honda Research Institute](http://usa.honda-ri.com) and [Waymo](https://waymo.com) as intern.
+I am Yongqi Dong 董永奇, a Ph.D. researcher at TU Delft. I am a member of the [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab) supervised by [Dr. Haneen Farah](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/farah-h) and [Prof. Bart van Arem](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/arem-b-van). Prior to this, I obtained my Master degree in Control Science and Engineering at Tsinghua University, and my bachelor degree in Telecommunication Engineering from Beijing Jiaotong University (BJTU). I have also spent time in [Singapore-MIT Alliance for Research and Technology (SMART)](https://smart.mit.edu/research/fm/about-fm) as research intern.
 
 The goal of my research is to develop trustworthy and safe intelligent autonomous systems interacting with humans (e.g., autonomous vehicles). I am interested in improving the transparency and robustness of learning-based autonomous systems, by incorporating domain knowledge and other techniques (e.g., model-based control, explainable AI) with deep learning models in a principled manner. Applications of my research include multi-agent trajectory prediction, interaction modeling, motion planning, and vehicle control. 
 
 For more information, please refer to my [CV](https://ChenTangMark.github.io/files/Chen_Tang_CV.pdf). Please feel free to contact me for research discussion and collaboration! 
 
-**I am on the 2022-2023 academic job market.**
+**I am on the 2023-2024 academic job market.**
 
 
 News 
