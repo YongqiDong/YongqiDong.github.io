@@ -14,8 +14,6 @@ My current research centers around the areas of Automated Vehicle, Smart & Share
 
 For more information, please refer to my [CV](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf). Feel free to contact me for research discussion and possible collaboration! 
 
-//**I am on the 2023-2024 academic job market.**
-
 
 News 
 ======
