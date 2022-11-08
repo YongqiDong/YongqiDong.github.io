@@ -14,7 +14,7 @@ author_profile: true
 7. Liu, W., **Dong, Y.**, Zhang, X., Xu, L. (2022). "A Unified Model Predictive Control Method of Automated Vehicles for Lane Changing and Lane Keeping Maneuvers", To be submitted to Journal of *IEEE Transactions on Intelligent Vehicles*.
 
 
-## Journal
+## Journal Papers
 1. **Dong, Y.**, Patil, S., van Arem, B., & Farah, H. (2022). [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829). *Computer-Aided Civil and Infrastructure Engineering*, 1–20. [Q1, IF:11.775, SJR:2.773](https://doi.org/10.1111/mice.12829)
 2. Farah, H., Postigo, I., Reddy, N., **Dong, Y.**, Rydergren, C., Raju, N. and Olstam, J. (2022). [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176). *IEEE Transactions on Intelligent Transportation Systems*, 2022, 
 3. Raju, N., Schakel, W., Reddy, N., **Dong, Y.**, Farah, H. (2022). [Car-Following Properties of a Commercial Adaptive Cruise Control System- A Pilot Field Test](https://doi.org/10.1177/03611981221077085). *Transportation Research Record: Journal of the Transportation Research Board*.  
@@ -34,7 +34,7 @@ author_profile: true
 ## Workshop
 1. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti,L., and de Groot, O., "Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic," in *IEEE Intelligent Vehicles Symposium (IV 2023)*.
 
-## Patent
+## Patents
 1. **Chinese Invention Patent**: Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
 2. **European Patent**: Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (IDF OCT-22-060, to be submitted)
 
