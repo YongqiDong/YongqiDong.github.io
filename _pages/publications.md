@@ -6,7 +6,8 @@ author_profile: true
 ---
 ## Working Papers
 1. **Dong, Y.**, Farah, H., & van Arem, B. (2022). Towards Developing Socially-Compliant Automated Vehicles: State of the Practice, Experts Expectations, and a Conceptual Framework, Accepted by the *4th Symposium on Management of Future Motorway and Urban Traffic Systems 2022 (MFTS2022)*, to be submitted to Journal of *Transport Reviews*.
-2. Li, R.\#, Dong, Y.\#,*. Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss (Joint first author and corresponding author, Journal of IEEE Transactions on Vehicular Technology, Under Review).
+2. Li, R.<sup>#</sup>, **Dong, Y.**<sup>#,*</sup>. Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss, Joint first author and corresponding author, Accepted by the TRB 2023, Under Review by Journal of *IEEE Transactions on Vehicular Technology*.
+3. 
 
 ## Journal
 1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” *IEEE Robotics and Automation Letters (RA-L)* and *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
