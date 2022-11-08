@@ -13,7 +13,7 @@ name                     : &name "Chen Tang"
 description              : &description "Postdoctoral Scholar at UC Berkeley"
 url                      : https://YongqiDong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ChenTangMark.github.io"
+repository               : "YongqiDong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Tang"
+  name             : "Yongqi Dong"
   avatar           : "profile.png"
   bio              : "Postdoctoral Scholar in Mechanical Engineering at UC Berkeley"
   location         : "Berkeley, California"
