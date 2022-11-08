@@ -15,8 +15,9 @@ author_profile: true
 
  
 # Thesis Supervision
-Lanxin Zhang | Master of Science in Civil Engineering–Transport and Planning         Oct.2022- Ongoing
- Thesis title: Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection
+- Lanxin Zhang | Master of Science in Civil Engineering–Transport and Planning, | Thesis title: Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection, | Oct.2022- Ongoing
+- 
+ 
 Henan Yuan | Bachelor in Traffic and Transportation, BJTU&TUDelft TTE            Oct.2022- Ongoing
  Thesis title: Deep Reinforcement Learning for Driving through Roundabouts
 Mathijs den Otter | Master of Science in Civil Engineering–Transport and Planning     Sep.2022- Ongoing
@@ -31,12 +32,6 @@ Eline van der Kooij | Master of Science in Transport, Infrastructure & Logistics
 Sanny Toonen | Bachelor of Science in Civil Engineering–Transport and Planning       Jul.2020-May.2021
  Thesis title: Lane recognition for automated vehicles (Grade: 7.5/10)
 
-
- 
-
-
-
- 
 
 
 
