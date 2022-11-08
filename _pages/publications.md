@@ -30,18 +30,12 @@ author_profile: true
 6. Yue, Y., Pei, X., Yang, Z., **Dong, Y.**, & Yao, D. (2018). [A Trip Building and Chaining Methodology Using Traffic Surveillance Data](https://doi.org/10.1061/9780784481523.224). In *CICTP 2018: Intelligence, Connectivity, and Mobility* (pp. 2254-2262). Reston, VA: American Society of Civil Engineers.
 7. **Dong, Y.**, Zhang, Z., Fu, R., Xie, N. (2016) [Revealing New York Taxi Drivers' Operation Patterns Focusing on the Revenue Aspect](https://doi.org/10.1109/WCICA.2016.7578771). (2016) In *12th World Congress on Intelligent Control and Automation (WCICA)*, (pp. 1052-1057). IEEE. 
  	
-4. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
-5. **C. Tang**, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
-6. **C. Tang**, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," *Conference on Neural Information Processing Systems (NeurIPS)*, 2021
-7. J. Li, **C. Tang**, M. Tomizuka and W. Zhan, "Dealing with the unkonw: Pessimistic Offline Reinforcement Learning," *5th Annual Conference on Robot Learning (CoRL)*, 2021
-8. J. M. Salt Ducaju, **C. Tang**, M. Tomizuka and C. -Y. Chan, "Application Specific System Identification for Model-Based Control in Self-Driving Cars," *2020 IEEE Intelligent Vehicles Symposium (IV)*, pp. 384-390, 2020
-9. **C. Tang**, J. Chen and M. Tomizuka, "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network," *2019 International Conference on Robotics and Automation (ICRA)*, pp. 3846-3852, 2019
-10. Z. Xu, H. Chang, **C. Tang**, C. Liu and M. Tomizuka, "Toward Modularization of Neural Network Autonomous Driving Policy Using Parallel Attribute Networks," *2019 IEEE Intelligent Vehicles Symposium (IV)*, pp. 1400-1407, 2019
-11. Z. Xu\*, **C. Tang**\*, and M. Tomizuka, “Zero-shot Deep Reinforcement Learning Driving Policy Transfer for Autonomous Vehicles based on Robust Control,” *2018 21st International Conference on Intelligent Transportation Systems (ITSC)*, pp. 2865–2871, IEEE, 2018 <span style="color:blue">(Best Student Paper Runner-up)</span>
-12. J. Chen, **C. Tang**, L. Xin, S. E. Li and M. Tomizuka, "Continuous Decision Making for On-road Autonomous Driving under Uncertain and Interactive Environments," *2018 IEEE Intelligent Vehicles Symposium (IV)*, pp. 1651-1658, 2018
-13. C. Zhao, R. Xu, K. Song, D. Liu, S. Ma, **C. Tang**, C. Liang, Y. Zohar, and Y.K. Lee, "The Capillary Number Effect on the Capture Efficiency of Cancer Cells on Composite Microfluidic Filtration Chips". *2015 28th IEEE International Conference on Micro Electro Mechanical Systems (MEMS)*, pp. 459-462, 2015.
 
 ## Workshop
-1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Explainable Autonomous Driving with Grounded Relational Inference," in *NeurIPS Workshop on Machine Learning for Autonomous Driving*, 2020
+1. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti,L., and de Groot, O., "Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic," in *IEEE Intelligent Vehicles Symposium (IV 2023)*.
+
+## Patent
+1. **Chinese Invention Patent**: Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
+2. **European Patent**: Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (IDF OCT-22-060, to be submitted)
 
 _The superscript <sup>#</sup> indicates equal contribution, and \* indicates corresponding author._
