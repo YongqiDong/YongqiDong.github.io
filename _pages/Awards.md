@@ -23,21 +23,13 @@ author_profile: true
 - Second Prize in the Physical Experiment Competition in Beijing
 - Bronze award in “Challenge Cup” Entrepreneurship Design Contest in Beijing
 - First Prize in Beijing Jiaotong University "Challenge Cup" Entrepreneurship Design Contest
-- First Prize in Freescale Cup University Students Intelligent Car Race (Rank **2nd**)
-- 2019 Microsoft Discover AI Challenge: Sustainable Life (Top 10%), check the [Data-Driven All-in-one Shared Mobility demo video](https://www.bilibili.com/video/BV1YK411W7DX/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302).
-
-
-Course: Capstone Applied AI Project 2022-2023 [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), EEMCS, TU Delft, *Nov.2022-Apr.2023*
-- **Taching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022*
-- **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47890), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
-- **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
-- **Teaching and Lab Assistant**, Course: Advanced Labs in Electronic Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2016-Jul.2016*
-- **Teaching and Lab Assistant**, Course: Fundamentals of Electronics Power Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2015-Jul.2015*
-- **RSI Tutor**, Research writing and presentation tutor for 2017 Research Science InstituteProgram at Tsinghua University, [Center for Excellence in Education, USA](https://www.cee.org/),          *Jul.2017-Aug.2017*
+- First Prize in Freescale Cup University Students Intelligent Car Race (Rank **2nd**),check the [NXP Intelligent Car Racing Demo Video by Yongqi Dong @BJTU](https://www.bilibili.com/video/BV1o24y1f7Qh/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302)
+- 2019 Microsoft Discover AI Challenge: Sustainable Life (Top 10%), check the [Data-Driven All-in-one Shared Mobility demo video](https://www.bilibili.com/video/BV1YK411W7DX/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302)
 
  
-# Thesis Supervision
-- Lanxin Zhang, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection*</span>,  *Oct.2022-**Ongoing***
+# Certificates
+- [IBM edX Deep Learning Professional Certificate](https://credentials.edx.org/credentials/77ca88a7d12d440da5a3e00392a31a21/)
+- 
 - Henan Yuan, Bachelor in Traffic and Transportation, BJTU & TU Delft Joint TTE Bachelor Program, Thesis title: <span style="color:MediumBlue">*Deep Reinforcement Learning for Driving through Roundabouts*</span>, *Oct.2022-**Ongoing***
 - Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Effects of improved lane markings on Lane Keeping Assistance systems and human detection*</span>, *Sep.2022-**Ongoing***
   
