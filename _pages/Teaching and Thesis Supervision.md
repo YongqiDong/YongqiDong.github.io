@@ -15,7 +15,7 @@ author_profile: true
 
  
 # Thesis Supervision
-- Lanxin Zhang, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:lightblue">*Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection*</span>,  *Oct.2022-**Ongoing***
+- Lanxin Zhang, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection*</span>,  *Oct.2022-**Ongoing***
 - Henan Yuan, Bachelor in Traffic and Transportation, BJTU&TUDelft TTE, Thesis title: *Deep Reinforcement Learning for Driving through Roundabouts*, *Oct.2022-**Ongoing***
 - Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: *Effects of improved lane markings on Lane Keeping Assistance systems and human detection*, *Sep.2022-**Ongoing***
 - Shiva Nischal Lingam, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: *Effects of External Human Machine Interfaces on Automated Vehicles’ Communicative Interactions With Human Drivers* (Grade: 8.5/10), **Won 2nd [Cuperusprijs Prize of KIVI](https://www.kivi.nl/afdelingen/verkeer-en-vervoer/cuperusprijs)**, *Jan.2021-Nov.2021*
