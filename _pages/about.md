@@ -30,15 +30,12 @@ News
 
 Miscellany 
 ======
-I am vegetarian. I like Taichi, reading, and travelling. I regularly practice meditation to pursue the Inner Peace. I see travelling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. 
+I am vegetarian. I like Taichi, reading, and travelling. <br/> I regularly practice meditation to pursue the Inner Peace. <br/> I see travelling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. <br/>
 
-*Quotes*:
-
-"If anything is worth doing, do it with all your heart."
-
-"Not everything that counts can be counted, and not everything that can be counted really counts." 
-
-"Live in the Present Moment. Irrespective of what happened yesterday or last year, and what may or may not happen tomorrow, the present moment is where you are---always."
+***Quotes***:<br/>
+"If anything is worth doing, do it with all your heart."<br/>
+"Not everything that counts can be counted, and not everything that can be counted really counts." <br/>
+"Live in the Present Moment. Irrespective of what happened yesterday or last year, and what may or may not happen tomorrow, the present moment is where you are---always."<br/>
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w&cl=ffffff&w=a"></script>
 
