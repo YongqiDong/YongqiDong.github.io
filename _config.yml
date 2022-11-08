@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Tang's Homepage"
+title                    : "Yongqi Dong's Homepage"
 title_separator          : "-"
-name                     : &name "Chen Tang"
-description              : &description "Postdoctoral Scholar at UC Berkeley"
+name                     : &name "Yongqi Dong"
+description              : &description "PhD Researcher at TU Delft"
 url                      : https://YongqiDong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YongqiDong.github.io"
