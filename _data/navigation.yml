@@ -6,5 +6,8 @@ main:
   - title: "Research"
     url: /research/
     
+   - title: "Awards"
+    url: /awards/
+    
   - title: "Teaching and Thesis Supervision"
     url: /teaching/
