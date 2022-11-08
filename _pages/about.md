@@ -12,7 +12,8 @@ I am Yongqi Dong 董永奇, a Ph.D. researcher at TU Delft. I am a member of the
 
 My current research centers around the areas of Automated Vehicle, Smart & Shared Mobility, and Artificial Intelligence. I aim at developing innovative Deep Learning models for Automated Vehicles' sensing and Deep Reinforcement Learning models for Automated Vehicles' controlling, and thus realize *Safe, Efficient, and Socially Compliant Autonomous Driving*. I have also delved into shared mobility employing big data analytics and machine learning techniques to reveal the unique spatial-temporal patterns. My previous works have been published in high quality top journals and conferences, including *Transporation Research Part C*, *IEEE Transactions on Intelligent Transportation Systems*, and *Computer-Aided Civil and Infrastructure Engineering*, as well as *IEEE International Conference on Intelligent Transportation Systems* (ITSC) and *Transportation Research Board annual meeting* (TRB).
 
-For more information, please refer to my [CV](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf). 
+For more information, please refer to my [CV](https://yongqidong.github.io/files/Dong_YongqiCV_20221108.pdf).
+
 Feel free to contact me for research discussion and possible collaboration! 
 
 
