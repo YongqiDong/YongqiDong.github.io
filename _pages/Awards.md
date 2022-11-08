@@ -23,7 +23,7 @@ author_profile: true
 - Second Prize in the Physical Experiment Competition in Beijing
 - Bronze award in “Challenge Cup” Entrepreneurship Design Contest in Beijing
 - First Prize in Beijing Jiaotong University "Challenge Cup" Entrepreneurship Design Contest
-- First Prize in Freescale Cup University Students Intelligent Car Race (Rank **2nd**),check the [NXP Intelligent Car Racing Demo Video by Yongqi Dong @BJTU](https://www.bilibili.com/video/BV1o24y1f7Qh/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302)
+- First Prize in Freescale Cup University Students Intelligent Car Race (Rank **2nd**), check the [NXP Intelligent Car Racing Demo Video by Yongqi Dong @BJTU](https://www.bilibili.com/video/BV1o24y1f7Qh/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302)
 - 2019 Microsoft Discover AI Challenge: Sustainable Life (Top 10%), check the [Data-Driven All-in-one Shared Mobility demo video](https://www.bilibili.com/video/BV1YK411W7DX/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302)
 
  
