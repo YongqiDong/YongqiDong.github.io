@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yongqi Dong's Homepage"
 title_separator          : "-"
 name                     : &name "Yongqi Dong"
-description              : &description "PhD Researcher at TU Delft"
+description              : &description "Ph.D. Researcher at TU Delft"
 url                      : https://YongqiDong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YongqiDong.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "YongqiDong"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            : "7550867598"
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCxFze7AIJlJEKzzb1E59fhA"
+  youtube          : "https://youtube.com/@DakeOfferPhD"
   wikipedia        :
 
 
