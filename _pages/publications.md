@@ -24,17 +24,17 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 
 
 ## Conference Proceedings
-1. **Dong, Y.**, Chen, K., Peng, Y., Ma, Z. (2022). [Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network](https://doi.org/10.1109/ITSC55140.2022.9922235). *2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)*, 2022, pp. 2914-2919.
-2. **Dong, Y.**<sup>#,</sup>\*, Li, R.<sup>#</sup>,Farah, H. (2023). "Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting (TRB 2023)*.
-3. Zhang, Y., **Dong, Y.\***, (2023). "Optimization of coordinated flow restriction and skip-stopping schemes for urban rail stations considering platform carrying capacity", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting (TRB 2023)*.
-4. **Dong, Y.**<sup>#,</sup>\*, Patil, S.<sup>#</sup>, Farah, H, & Hellendoorn, J. (2023). "Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting (TRB 2023)*.
+1. **Dong, Y.**, Chen, K., Peng, Y., Ma, Z. (2022). [Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network](https://doi.org/10.1109/ITSC55140.2022.9922235). *2022 IEEE 25th International Conference on Intelligent Transportation Systems* (ITSC), 2022, pp. 2914-2919.
+2. **Dong, Y.**<sup>#,</sup>\*, Li, R.<sup>#</sup>,Farah, H. (2023). "Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting* (TRB 2023).
+3. Zhang, Y., **Dong, Y.\***, (2023). "Optimization of coordinated flow restriction and skip-stopping schemes for urban rail stations considering platform carrying capacity", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting* (TRB 2023).
+4. **Dong, Y.**<sup>#,</sup>\*, Patil, S.<sup>#</sup>, Farah, H, & Hellendoorn, J. (2023). "Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting* (TRB 2023).
 5. **Dong, Y.**, Yang, Z., Yue, Y., Pei, X., & Zhang, Z. (2018). [Revealing Travel Patterns of Sharing-bikes in a Spatial-temporal Manner using Non-negative Matrix Factorization Method](https://doi.org/10.1061/9780784481523.165). In *CICTP 2018: Intelligence, Connectivity, and Mobility* (pp. 1665-1674). Reston, VA: American Society of Civil Engineers.
 6. Yue, Y., Pei, X., Yang, Z., **Dong, Y.**, & Yao, D. (2018). [A Trip Building and Chaining Methodology Using Traffic Surveillance Data](https://doi.org/10.1061/9780784481523.224). In *CICTP 2018: Intelligence, Connectivity, and Mobility* (pp. 2254-2262). Reston, VA: American Society of Civil Engineers.
-7. **Dong, Y.**, Zhang, Z., Fu, R., Xie, N. (2016) [Revealing New York Taxi Drivers' Operation Patterns Focusing on the Revenue Aspect](https://doi.org/10.1109/WCICA.2016.7578771). (2016) In *12th World Congress on Intelligent Control and Automation (WCICA)*, (pp. 1052-1057). IEEE. 
+7. **Dong, Y.**, Zhang, Z., Fu, R., Xie, N. (2016) [Revealing New York Taxi Drivers' Operation Patterns Focusing on the Revenue Aspect](https://doi.org/10.1109/WCICA.2016.7578771). (2016) In *12th World Congress on Intelligent Control and Automation* (WCICA), (pp. 1052-1057). IEEE. 
  	
 
 ## Workshop
-1. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti,L., and de Groot, O., "Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic," in *IEEE Intelligent Vehicles Symposium (IV 2023)*.
+1. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti,L., and de Groot, O., "Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic," in *IEEE Intelligent Vehicles Symposium* (IV 2023).
 
 ## Patents
 1. **Chinese Invention Patent**: Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
