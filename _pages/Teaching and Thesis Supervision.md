@@ -16,12 +16,12 @@ author_profile: true
  
 # Thesis Supervision
 - Lanxin Zhang, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection*</span>,  *Oct.2022-**Ongoing***
-- Henan Yuan, Bachelor in Traffic and Transportation, BJTU&TUDelft TTE, Thesis title: *Deep Reinforcement Learning for Driving through Roundabouts*, *Oct.2022-**Ongoing***
-- Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: *Effects of improved lane markings on Lane Keeping Assistance systems and human detection*, *Sep.2022-**Ongoing***
-- Shiva Nischal Lingam, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: *Effects of External Human Machine Interfaces on Automated Vehicles’ Communicative Interactions With Human Drivers* (Grade: 8.5/10), **Won 2nd [Cuperusprijs Prize of KIVI](https://www.kivi.nl/afdelingen/verkeer-en-vervoer/cuperusprijs)**, *Jan.2021-Nov.2021*
-- Sandeep Patil, Master of Science in Mechanical Engineering (Vehicular Engineering), TU Delft, Thesis title: *Lane Detection using SpatioTemporal Attention* (Grade: 7.0/10), *Oct.2020-Aug.2021*
-- Eline van der Kooij, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: *Lane Detection using SpatioTemporal Attention* (Grade: 8.0/10), *Jul.2020-May.2021*
-- Sanny Toonen, Bachelor of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: *Lane recognition for automated vehicles* (Grade: 7.5/10), *Jul.2020-May.2021*
+- Henan Yuan, Bachelor in Traffic and Transportation, BJTU&TUDelft TTE, Thesis title: <span style="color:MediumBlue">*Deep Reinforcement Learning for Driving through Roundabouts*</span>, *Oct.2022-**Ongoing***
+- Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Effects of improved lane markings on Lane Keeping Assistance systems and human detection*</span>, *Sep.2022-**Ongoing***
+- Shiva Nischal Lingam, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [<span style="color:MediumBlue">*Effects of External Human Machine Interfaces on Automated Vehicles’ Communicative Interactions With Human Drivers*</span>](https://repository.tudelft.nl/islandora/object/uuid%3Ad5fc3d7e-7d6e-467b-a797-11b33a534117)(Grade: 8.5/10), **Won 2nd [Cuperusprijs Prize of KIVI](https://www.kivi.nl/afdelingen/verkeer-en-vervoer/cuperusprijs)**, *Jan.2021-Nov.2021*
+- Sandeep Patil, Master of Science in Mechanical Engineering (Vehicular Engineering), TU Delft, Thesis title: <span style="color:MediumBlue">*Lane Detection using SpatioTemporal Attention* (Grade: 7.0/10), *Oct.2020-Aug.2021*
+- Eline van der Kooij, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: <span style="color:MediumBlue">*Lane Detection using SpatioTemporal Attention* (Grade: 8.0/10), *Jul.2020-May.2021*
+- Sanny Toonen, Bachelor of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Lane recognition for automated vehicles* (Grade: 7.5/10), *Jul.2020-May.2021*
 
 
 # Mentorship
