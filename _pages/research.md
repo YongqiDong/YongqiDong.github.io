@@ -7,7 +7,7 @@ author_profile: true
 
 My ultimate goal is to employ artificial intelligence and interdisciplinary research as tools to shape a better world. For that, I have delved in the transportation domain as the use case. [The essence of transportation is to reconcile the spatio-temporal imbalance in the distribution of matter, information and energy, which is all about time and space](https://www.linkedin.com/pulse/future-autonomous-driving-transportation-science-fiction-yongqi-dong/?trackingId=7Vv1ACfy%2Ftudg0Q5UUXfFA%3D%3D). Thus, I had attach utmost importance to the spatial-temporal correlations in my research.
 
-My current research centers around three main pillars, i.e., Deep Learning for sensing and anomaly detecting, Deep Reinforcement Learning for controlling and decision-making, together with Big Data Analytics for pattern mining.
+My current research centers around three main pillars, i.e., 1) **Deep Learning for sensing and anomaly detecting**, 2) **Deep Reinforcement Learning for controlling and decision-making**, 3) **Big Data Analytics for pattern mining**.
 
 ## Deep Learning for Sensing and Anomaly Detecting
 **Sensing---Lane Detection as the Use Case**
