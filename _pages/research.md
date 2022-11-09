@@ -15,11 +15,15 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 - **_Delivery_**: Three research papers and one patent
 
 * **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published on CACIE](https://doi.org/10.1111/mice.12829))
-
 <div align="center">
-<video src="https://YongqiDong.github.io/video/NormalSCNN_UNe.mp4" controls="controls" width="529" height="369"></video>
+<video src="https://YongqiDong.github.io/video/NormalSCNN_UNe.mp4" controls="controls" width="529" height="369"></video> <br/>
 Lane detection result testing on TUSimple dataset
 </div> 
+
+* **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
+
+
+* **Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames** (Under view by IEEE-T-ITS and accepted by TRB 2023)
 
 
   * _Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss_ (Under view by IEEE-T-ITS and accepted by TRB 2023)
