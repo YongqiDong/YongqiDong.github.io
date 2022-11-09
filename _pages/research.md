@@ -15,9 +15,11 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 - **_Delivery_**: Three research papers and one patent
 
 * **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published on CACIE](https://doi.org/10.1111/mice.12829))
-[![Everything Is AWESOME](https://img.youtube.com/vi/p10oaCRmst0/0.jpg)](https://www.youtube.com/watch?v=p10oaCRmst0 "Everything Is AWESOME")
+[![Lane detection result testing on TUSimple dataset](https://img.youtube.com/vi/p10oaCRmst0/0.jpg)](https://www.youtube.com/watch?v=p10oaCRmst0 "Lane detection result testing on TUSimple dataset")
 
-
+ <div align="center">
+  <a href="https://www.youtube.com/watch?v=p10oaCRmst0"><img src="https://img.youtube.com/vi/p10oaCRmst0/0.jpg" alt="Lane detection result testing on TUSimple dataset"></a>
+</div> 
 
 
   * _Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss_ (Under view by IEEE-T-ITS and accepted by TRB 2023)
