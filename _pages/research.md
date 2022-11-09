@@ -87,11 +87,16 @@ Dynamic spatial-temporal service patterns
   - Bike-sharing could be expressed by three basis collective patterns which differs from ride-sharing of two collective patterns<br/>
   - NMF method is more appropriate than PCA in extracting spatial-temporal patterns in transportation research 
 
+<div align="center">
+<img src='/images/BikeSharing.png' width="799"><br/>
+Basis collective patterns <br/>
+<img src='/images/CAN_AnomalyDetectionResults.png' width="799"><br/>
+CAN Bus data anamoly detection results: model performance comparison<br/>
+</div> 
 
 
-  
 
-  - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
+
 
 
 
