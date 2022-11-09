@@ -12,7 +12,7 @@ My current research centers around three main pillars, i.e., 1) **Deep Learning 
 ## Deep Learning for Sensing and Anomaly Detecting
 **Sensing---Lane Detection as the Use Case**
 - **_Objective_**: To develop robust spatial-temporal neural network model to tackle lane detection in challenging scenes
-- **_Delivery_**: Three research papers and one patent
+- **_Delivery_**: **Three** research papers and **one patent**
 
 * **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published on CACIE](https://doi.org/10.1111/mice.12829))
 <div align="center">
