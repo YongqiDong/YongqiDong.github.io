@@ -5,10 +5,29 @@ permalink: /research/
 author_profile: true
 ---
 
-My ultimate research goal is to develop **trustworthy autonomous agents interacting with humans**. My current research mainly focus on designing <em> explainable autonomous driving systems</em>, where the decision-making process of autonomous vehicles is <em>tractable</em> and <em>transparent</em> for humans. Such a transparent system is a prerequisite for building trust between humans and autonomous vehicles. My research efforts towards this goal mainly lie in the following aspects:
+My ultimate goal is to employ artificial intelligence and interdisciplinary research as tools to shape a better world. For that, I have delved in the transportation domain as the use case. [The essence of transportation is to reconcile the spatio-temporal imbalance in the distribution of matter, information and energy, which is all about time and space](https://www.linkedin.com/pulse/future-autonomous-driving-transportation-science-fiction-yongqi-dong/?trackingId=7Vv1ACfy%2Ftudg0Q5UUXfFA%3D%3D). Thus, I had attach utmost importance to the spatial-temporal correlations in my research.
 
-## Diagnosing Black-box Deep-Learning Functional Modules
+My current research centers around three main pillars, i.e., Deep Learning for sensing and anomaly detecting, Deep Reinforcement Learning for controlling and decision-making, together with Big Data Analytics for pattern mining.
+
+## Deep Learning for Sensing and Anomaly Detecting
+**Sensing---Lane Detection as the Use Case**
+- **_Objective_**: To develop robust spatial-temporal neural network model to tackle lane detection in challenging scenes
+- **_Delivery_**: Three research papers and one patent
+
+* **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published on CACIE](https://doi.org/10.1111/mice.12829))
+* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=p10oaCRmst0)
+
+
+
+
+  * _Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss_ (Under view by IEEE-T-ITS and accepted by TRB 2023)
+  * _Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames_ (Under view by TR_C and accepted by TRB 2023)
+
+
 <img src="/images/nips.png" width="300" style="float: left; margin-right: 1em; margin-top: 0.5em; margin-bottom: 0.8em">
+
+
+
 Deep neural networks achieve state-of-the-art performance in multiple core autonomous driving tasks (e.g., behavior prediction and policy learning). However, their black-box nature is a crucial barrier to genuine trustworthiness. It is, therefore, essential to gain a deeper understanding of their behavior. In my research, **I utilize explainable AI techniques to develop analysis toolkits customized for deep-learning functional modules**. They serve as simple plug-ins to diagnose the models without interfering with the performance. With the help of these toolkits, we identified principled design flaws in popular trajectory prediction models that were previously ignored in the literature, motivating new designs with improved robustness and performance. For instance, we found that Variational-Autoencoder-based trajectory prediction models suffer from an issue we named <em>social posterior collapse</em>, i.e., the model is prone to ignoring all the surrounding agents when predicting the future trajectory of a target agent. Our work is the first in the literature that discovered such systematic defects in interaction modeling. Prior works only focused on the overall performance without studying whether their models encode social context as claimed. <br/>
 
 <p><b>Related Publications:</b><br>
