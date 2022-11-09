@@ -63,18 +63,18 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
 
 * **Deep Reinforcement Learning for Driving through Roundabouts** (In preparation)
 <br/>
-
+  
+## Big Data Analytics for Spatial-temporal Pattern Mining in Shared Mobility
+* **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published on TR_C](https://doi.org/10.1016/j.trc.2017.10.022))
+<div align="center">
+<img src='/images/HitchPickup.gif' width="799"><br/>
+</div> 
 <br/>
 
 
-<p style="text-align:center;"><img src="/images/interpretable-prediction.png" width="750" style="margin-top: 0.5em"></p>
-Interpretable models ensure that the systems are intelligible for humans at the design stage, which is crucial for <em>high-stakes</em> and <em>safe-critical</em> applications. Therefore, finding interpretable substitutes is a more fundamental solution to ensure transparency, in contrast to explaining black-box deep neural networks. To design interpretable trajectory prediction models, **I investigate principled methods to incorporate domain knowledge of social interaction into prediction models, inducing models reasoning interactive behavior consistently with humans.** Specifically, the proposed methods aim to introduce an interpretable latent space encoding semantically meaningful interactions among the agents. <br/>
 
-<p><b>Related Publications:</b><br>
-<font size=3> 1. <b>C. Tang</b>, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," under review for <em>IEEE Transactions on Intelligent Transportation System (T-ITS)</em>, 2022</font><br>
-<font size=3> 2. L. Sun<sup>*</sup>, <b>C. Tang</b><sup>*</sup>, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022</font><br></p>
-  
-## Designing Interpretable Hierarchical Driving Policys
+
+
 <p style="text-align:center;"><img src="/images/interpretable-policy.png" width="720" style="margin-top: 0.5em"></p>
 Another line of my research on interpretability studies interpretable driving policies. **I explored hierarchical architectures with interpretable intermediate outputs to reveal the decision-making process**. In particular, I am interested in driving policies with *trajectories* as intermediate outputs. The trajectory indicates a sequence of future states the policy aims to achieve, which implies the intended driving behavior of the policy. It helps the users better understand the decision-making process. Furthermore, such a hierarchical structure decomposes the policy into 1) a *high-level* module that plans the desired behavior represented by a trajectory; 2) a *low-level* module that realizes the desired behavior by controlling the vehicles. It allows flexible composition of different approaches when designing hierarchical policies. In particular, we showed that we could improve robustness or long-term performance by fusing learning-based (e.g., reinforcement learning, imitation learning) and model-based (e.g., robust control, optimal control) approaches in the hierarchy. 
 
