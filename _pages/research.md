@@ -36,7 +36,7 @@ Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<
 </div> 
 
 <div align="right">
-<img src='/images/tvtLANE-Challenging.png' width="999"><br/>
+<img src='/images/tvtLANE-Challenging.png' width="869"><br/>
 </div> 
 <div align="center">
 Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<br/>
