@@ -25,6 +25,9 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 <video src="https://youtu.be/p10oaCRmst0" controls="controls" width:100% height:auto></video>
 ```
 
+<video src="https://movie.cy798.cn/Blue.Planet.S02.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD/Blue.Planet.S02E01.One.Ocean.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD.mkv" controls="controls" width="720" height="405"></video>
+
+
 
   * _Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss_ (Under view by IEEE-T-ITS and accepted by TRB 2023)
   * _Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames_ (Under view by TR_C and accepted by TRB 2023)
