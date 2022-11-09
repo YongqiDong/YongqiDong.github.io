@@ -83,13 +83,9 @@ Dynamic spatial-temporal service patterns
 <br/>
 
 * **Revealing Travel Patterns of Sharing-bikes in a Spatial-temporal Manner using Non-negative Matrix Factorization Method** ([Published in CICTP 2018](https://doi.org/10.1061/9780784481523.165))<br/>
-  - On demand ride-sharing is quite different from taxi<br/>
-  - In Beijing, on the macrocosmic level, on demand ride-sharing mainly serves as an approach for home-work commuting<br/>
-  - Internet based ride-sharing drivers' intent to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers<br/>
-**Regarding Individual Behavior Patterns of Ride-sharing Driver**
-    - Two different categories are identified: the home-work commuting drivers and the random commuting drivers; 
-    - Counterintuitively, the home-work commuting ones account for a small part of the total drivers
-    - High probability to be classified into the home-work commuting category when less trips are served by the specific driver
+  - Sharing bikes provide short distance travel services around subway stations with three peaks<br/>
+  - Bike-sharing could be expressed by three basis collective patterns which differs from ride-sharing of two collective patterns<br/>
+  - NMF method is more appropriate than PCA in extracting spatial-temporal patterns in transportation research 
 
 
 
