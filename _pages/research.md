@@ -68,6 +68,7 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
 * **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published on TR_C](https://doi.org/10.1016/j.trc.2017.10.022))
 <div align="center">
 <img src='/images/taxi_pickup.gif' width="329" height="329"> <img src='/images/Ridesharing_pick.gif' width="329" height="329"> <img src='/images/fastcarpick.gif' width="329" height="329"/><br/>
+<img src='/images/taxi_drop.gif' width="329" height="329"> <img src='/images/Ridesharing_drop.gif' width="329" height="329"> <img src='/images/fastcardrop.gif' width="329" height="329"/><br/>
 </div> 
 <br/>
 
