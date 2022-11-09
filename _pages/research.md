@@ -15,7 +15,7 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 - **_Delivery_**: Three research papers and one patent
 
 * **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published on CACIE](https://doi.org/10.1111/mice.12829))
-* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=p10oaCRmst0)
+[![Everything Is AWESOME](https://img.youtube.com/vi/p10oaCRmst0/0.jpg)](https://www.youtube.com/watch?v=p10oaCRmst0 "Everything Is AWESOME")
 
 
 
