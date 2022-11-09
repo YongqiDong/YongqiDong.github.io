@@ -24,7 +24,7 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 
 
 <div align="center">
-<video src="https://youtu.be/p10oaCRmst0" controls="controls" width="999" height="639"></video>
+<video src="https://YongqiDong.github.io/video/NormalSCNN_UNe.mp4" controls="controls" width="999" height="639"></video>
 </div> 
 
 
