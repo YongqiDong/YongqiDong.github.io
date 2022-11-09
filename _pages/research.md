@@ -91,34 +91,5 @@ Dynamic spatial-temporal service patterns
 
 <div align="center">
 <img src='/images/BikeSharing.png' width="799"><br/>
-Basis collective patterns <br/>
-<img src='/images/CAN_AnomalyDetectionResults.png' width="799"><br/>
-CAN Bus data anamoly detection results: model performance comparison<br/>
+Extracting basis collective patterns of Bike-shring by Non Negative Matrix Factorization<br/>
 </div> 
-
-
-
-
-
-
-
-
-<p style="text-align:center;"><img src="/images/interpretable-policy.png" width="720" style="margin-top: 0.5em"></p>
-Another line of my research on interpretability studies interpretable driving policies. **I explored hierarchical architectures with interpretable intermediate outputs to reveal the decision-making process**. In particular, I am interested in driving policies with *trajectories* as intermediate outputs. The trajectory indicates a sequence of future states the policy aims to achieve, which implies the intended driving behavior of the policy. It helps the users better understand the decision-making process. Furthermore, such a hierarchical structure decomposes the policy into 1) a *high-level* module that plans the desired behavior represented by a trajectory; 2) a *low-level* module that realizes the desired behavior by controlling the vehicles. It allows flexible composition of different approaches when designing hierarchical policies. In particular, we showed that we could improve robustness or long-term performance by fusing learning-based (e.g., reinforcement learning, imitation learning) and model-based (e.g., robust control, optimal control) approaches in the hierarchy. 
-
-<p><b>Related Publications:</b><br>
-<font size=3> 1. Z. Xu<sup>*</sup>, <b>C. Tang</b><sup>*</sup>, and M. Tomizuka, “Zero-shot Deep Reinforcement Learning Driving Policy Transfer for Autonomous Vehicles based on Robust Control,” <em>IEEE International Conference on Intelligent Transportation Systems (ITSC)</em>, 2018 </font><br>
-<font size=3> 2. <b>C. Tang</b><sup>*</sup>, Z. Xu<sup>*</sup>, and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2020 </font><br>
-<font size=3> 3. J. Li, <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” <em>IEEE Robotics and Automation Letters (RA-L)</em> and <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022 </font><br></p>
- 
-## Improve Robustness of Learning-based Methods 
-In addition to transparency, some of my prior works listed above also improve the robustness of behavior prediction models and policy networks. For behavior prediction, one crucial aspect is designing the model architecture and training scheme to induce a generalizable scene representation (e.g., map, social context). For policy networks, one crucial aspect is dealing with external disturbances and modeling discrepancies. Please find a list of related publications below. 
-
-<p><b>Related Publications:</b><br>
-<font size=3> 1. Z. Xu<sup>*</sup>, <b>C. Tang</b><sup>*</sup>, and M. Tomizuka, “Zero-shot Deep Reinforcement Learning Driving Policy Transfer for Autonomous Vehicles based on Robust Control,” <em>IEEE International Conference on Intelligent Transportation Systems (ITSC)</em>, 2018 </font><br>
-<font size=3> 2. <b>C. Tang</b><sup>*</sup>, Z. Xu<sup>*</sup>, and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2020 </font><br>
-<font size=3> 3. <b>C. Tang</b>, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2021</font><br>
-<font size=3> 4. J. Li, <b>C. Tang</b>, W. Zhan, and M. Tomizuka, "Dealing with the unkonw: Pessimistic Offline Reinforcement Learning," <em>5th Annual Conference on Robot Learning (CoRL)</em>, 2022 </font><br>
-<font size=3> 5. J. Li, <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” <em>IEEE Robotics and Automation Letters (RA-L)</em> and <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022 </font><br>
-<font size=3> 6. C. Xu<sup>*</sup>, T. Li<sup>*</sup>, <b>C. Tang</b><sup>*</sup>, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," <em>European Conference on Computer Vision (ECCV)</em>, 2022 </font><br></p>
- 
