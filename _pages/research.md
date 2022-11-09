@@ -21,12 +21,11 @@ My current research centers around three main pillars, i.e., Deep Learning for s
   <a href="https://www.youtube.com/watch?v=p10oaCRmst0"><img src="https://img.youtube.com/vi/p10oaCRmst0/0.jpg" alt="Lane detection result testing on TUSimple dataset"></a>
 </div> 
 
-```HTML
-<video src="https://youtu.be/p10oaCRmst0" controls="controls" width:100% height:auto></video>
-```
 
-<video src="https://movie.cy798.cn/Blue.Planet.S02.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD/Blue.Planet.S02E01.One.Ocean.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD.mkv" controls="controls" width="720" height="405"></video>
 
+<div align="center">
+<video src="https://youtu.be/p10oaCRmst0" controls="controls" width="999" height="639"></video>
+</div> 
 
 
   * _Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss_ (Under view by IEEE-T-ITS and accepted by TRB 2023)
