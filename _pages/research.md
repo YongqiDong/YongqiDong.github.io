@@ -42,6 +42,15 @@ Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<
 </div> 
 <br/>
 
+**Anomaly Detecting**
+* **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published on ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235))
+<div align="center">
+<img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
+Framework of deep autoencoder based semi-supervised method<br/>
+</div> 
+
+
+
 ## Designing Domain-Knowledge-Driven Interpretable Prediction Models
 <p style="text-align:center;"><img src="/images/interpretable-prediction.png" width="750" style="margin-top: 0.5em"></p>
 Interpretable models ensure that the systems are intelligible for humans at the design stage, which is crucial for <em>high-stakes</em> and <em>safe-critical</em> applications. Therefore, finding interpretable substitutes is a more fundamental solution to ensure transparency, in contrast to explaining black-box deep neural networks. To design interpretable trajectory prediction models, **I investigate principled methods to incorporate domain knowledge of social interaction into prediction models, inducing models reasoning interactive behavior consistently with humans.** Specifically, the proposed methods aim to introduce an interpretable latent space encoding semantically meaningful interactions among the agents. <br/>
