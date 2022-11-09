@@ -31,12 +31,10 @@ Lane detection result testing on tvtLANE dataset
 <div align="center">
 <img src='/images/LLAMAS.png' width="879"><br/>
 Lane detection result testing on LLAMAS dataset <br/>
-<img src='/images/tvtLANE-Challenging.png' width="869"><br/>
-Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<br/>
 </div> 
 
 <div align="right">
-<img src='/images/tvtLANE-Challenging.png' width="869"><br/>
+<img src='/images/tvtLANE-Challenging.png' width="899"><br/>
 </div> 
 <div align="center">
 Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<br/>
