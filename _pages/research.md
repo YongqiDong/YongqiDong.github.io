@@ -79,7 +79,7 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
     
 <div align="center">
 <img src='/images/taxi_pickup.gif' width="309" height="309"> <img src='/images/Ridesharing_pick.gif' width="309" height="309"> <img src='/images/fastcarpick.gif' width="309" height="309"/><br/>
-<img src='/images/taxi_drop.gif' width="309" height="309" margin-top="100px"> <img src='/images/Ridesharing_drop.gif' width="309" height="309"> <img src='/images/fastcardrop.gif' width="309" height="309"/><br/>
+<img src='/images/taxi_drop.gif' width="309" height="309" margin-top="6px"> <img src='/images/Ridesharing_drop.gif' width="309" height="309" margin-top="6px"> <img src='/images/fastcardrop.gif' width="309" height="309" margin-top="6px" /><br/>
 Dynamic spatial-temporal service patterns
 </div> 
 <br/>
