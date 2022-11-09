@@ -72,7 +72,16 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
 Dynamic spatial-temporal service patterns
 </div> 
 <br/>
+  - On demand ride-sharing is quite different from taxi
+  - In Beijing, on the macrocosmic level, on demand ride-sharing mainly serves as an approach for home-work commuting
+  - Internet based ride-sharing drivers' intent to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers
+  **Regarding Individual Behavior Patterns of Ride-sharing Driver**
+  - Two different categories are identified: the home-work commuting drivers and the random commuting drivers; 
+  - Counterintuitively, the home-work commuting ones account for a small part of the total drivers
+  - High probability to be classified into the home-work commuting category when less trips are served by the specific driver
+  
 
+  - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
 
 
 
