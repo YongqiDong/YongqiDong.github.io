@@ -21,7 +21,9 @@ Lane detection result testing on TUSimple dataset
 </div> 
 
 * **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
-
+<div align="center">
+<br/><img src='/images/normal_result1.jpg'>
+</div> 
 
 * **Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames** (Under view by IEEE-T-ITS and accepted by TRB 2023)
 
