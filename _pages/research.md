@@ -21,6 +21,10 @@ My current research centers around three main pillars, i.e., Deep Learning for s
   <a href="https://www.youtube.com/watch?v=p10oaCRmst0"><img src="https://img.youtube.com/vi/p10oaCRmst0/0.jpg" alt="Lane detection result testing on TUSimple dataset"></a>
 </div> 
 
+```HTML
+<video src="https://youtu.be/p10oaCRmst0" controls="controls" width:100% height:auto></video>
+```
+
 
   * _Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss_ (Under view by IEEE-T-ITS and accepted by TRB 2023)
   * _Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames_ (Under view by TR_C and accepted by TRB 2023)
