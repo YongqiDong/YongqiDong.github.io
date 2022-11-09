@@ -51,9 +51,18 @@ Framework of deep autoencoder based semi-supervised method<br/><br/>
 CAN Bus data anamoly detection results: model performance comparison<br/>
 </div> 
 
+* **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** (Under view by Journal of Intelligent and Connected Vehicles and CICTP 2023)<br/>
+  - Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
+  - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
 
 
-## Designing Domain-Knowledge-Driven Interpretable Prediction Models
+## Deep Reinforcement Learning for Controlling and Decision-making
+
+* **Towards Developing Socially-Compliant Automated Vehicles: State of the Practice, Experts Expectations, and a Conceptual Framework** (To be submitted to Journal of Transport Reviews, and accepted by MFTS2022)
+<br/>
+* **Deep Reinforcement Learning for Driving through Roundabouts** (In preparation)
+<br/>
+
 <p style="text-align:center;"><img src="/images/interpretable-prediction.png" width="750" style="margin-top: 0.5em"></p>
 Interpretable models ensure that the systems are intelligible for humans at the design stage, which is crucial for <em>high-stakes</em> and <em>safe-critical</em> applications. Therefore, finding interpretable substitutes is a more fundamental solution to ensure transparency, in contrast to explaining black-box deep neural networks. To design interpretable trajectory prediction models, **I investigate principled methods to incorporate domain knowledge of social interaction into prediction models, inducing models reasoning interactive behavior consistently with humans.** Specifically, the proposed methods aim to introduce an interpretable latent space encoding semantically meaningful interactions among the agents. <br/>
 
