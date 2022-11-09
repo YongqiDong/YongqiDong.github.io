@@ -43,10 +43,10 @@ Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<
 <br/>
 
 **Anomaly Detecting**
-* **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published on ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235))<br/>
+* **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published on ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235)) [Recorded Video Presentation](https://youtu.be/melrgznLXP0)<br/>
 <div align="center">
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
-Framework of deep autoencoder based semi-supervised method<br/>
+Framework of deep autoencoder based semi-supervised method<br/><br/>
 <img src='/images/CAN_AnomalyDetectionResults.png' width="799"><br/>
 CAN Bus data anamoly detection results: model performance comparison<br/>
 </div> 
