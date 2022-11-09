@@ -51,6 +51,8 @@ Framework of deep autoencoder based semi-supervised method<br/><br/>
 CAN Bus data anamoly detection results: model performance comparison<br/>
 </div> 
 
+<br/>
+
 * **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** (Under view by Journal of Intelligent and Connected Vehicles and CICTP 2023)<br/>
   - Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
   - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
