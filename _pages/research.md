@@ -20,12 +20,15 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 Lane detection result testing on tvtLANE dataset
 </div> 
 
+<br/>
+
 * **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
 <div align="center">
 <img src='/images/normal_result1.jpg' width="879"><br/>
 <a href="https://youtu.be/p10oaCRmst0">Lane detection result testing on TUSimple dataset </a>
 </div> 
  
+<br/>
 
 * **Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames** (Under view by TR_C and accepted by TRB 2023)
 <div align="center">
@@ -34,7 +37,7 @@ Lane detection result testing on LLAMAS dataset <br/>
 </div> 
 
 <div align="right">
-<img src='/images/tvtLANE-Challenging.png' width="899"><br/>
+<img src='/images/tvtLANE-Challenging.png' width="909"><br/>
 </div> 
 <div align="center">
 Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<br/>
@@ -42,8 +45,9 @@ Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<
 
 
 
-  * _Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss_ (Under view by IEEE-T-ITS and accepted by TRB 2023)
-  * _Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames_ (Under view by TR_C and accepted by TRB 2023)
+
+
+
 
 
 <img src="/images/nips.png" width="300" style="float: left; margin-right: 1em; margin-top: 0.5em; margin-bottom: 0.8em">
