@@ -19,7 +19,7 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 <video src="https://YongqiDong.github.io/video/NormalSCNN_UNe.mp4" controls="controls" width="599" height="299" loop=true></video> <br/>
 Lane detection result testing on tvtLANE dataset
 </div> 
-<br/>
+
 
 * **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
 <div align="center">
@@ -43,7 +43,7 @@ Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<
 <br/>
 
 **Anomaly Detecting**
-* **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published on ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235)) [Recorded Video Presentation](https://youtu.be/melrgznLXP0)<br/>
+* **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published on ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235)) [Recorded Video Presentation](https://youtu.be/melrgznLXP0)
 <div align="center">
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
 Framework of deep autoencoder based semi-supervised method<br/><br/>
