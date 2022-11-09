@@ -78,7 +78,7 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
     - Results support and in line with policy making
     
 <div align="center">
-<img src='/images/taxi_pickup.gif' width="309" height="309"> <img src='/images/Ridesharing_pick.gif' width="309" height="309"> <img src='/images/fastcarpick.gif' width="309" height="309"/><br/>
+<img src='/images/taxi_pickup.gif' width="309" height="309"> <img src='/images/Ridesharing_pick.gif' width="309" height="309"> <img src='/images/fastcarpick.gif' width="309" height="309"/><br/><br/>
 <img src='/images/taxi_drop.gif' width="309" height="309"> <img src='/images/Ridesharing_drop.gif' width="309" height="309"> <img src='/images/fastcardrop.gif' width="309" height="309"/><br/>
 Dynamic spatial-temporal service patterns
 </div> 
@@ -91,5 +91,5 @@ Dynamic spatial-temporal service patterns
 
 <div align="center">
 <img src='/images/BikeSharing.png' width="799"><br/>
-Extracting basis collective patterns of bike-sharing by non-negative matrix factorization<br/>
+Extracted basis collective patterns of bike-sharing by non-negative matrix factorization<br/>
 </div> 
