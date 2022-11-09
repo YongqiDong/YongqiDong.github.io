@@ -68,8 +68,8 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
 * **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published on TR_C](https://doi.org/10.1016/j.trc.2017.10.022))<br/>
   - On demand ride-sharing is quite different from taxi<br/>
   - In Beijing, on the macrocosmic level, on demand ride-sharing mainly serves as an approach for home-work commuting<br/>
-  - Internet based ride-sharing drivers' intent to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers
-  **Regarding Individual Behavior Patterns of Ride-sharing Driver**
+  - Internet based ride-sharing drivers' intent to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers<br/>
+**Regarding Individual Behavior Patterns of Ride-sharing Driver**
   - Two different categories are identified: the home-work commuting drivers and the random commuting drivers; 
   - Counterintuitively, the home-work commuting ones account for a small part of the total drivers
   - High probability to be classified into the home-work commuting category when less trips are served by the specific driver
