@@ -19,7 +19,6 @@ My current research centers around three main pillars, i.e., Deep Learning for s
 <video src="https://YongqiDong.github.io/video/NormalSCNN_UNe.mp4" controls="controls" width="599" height="299" loop=true></video> <br/>
 Lane detection result testing on tvtLANE dataset
 </div> 
-
 <br/>
 
 * **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
@@ -27,7 +26,6 @@ Lane detection result testing on tvtLANE dataset
 <img src='/images/normal_result1.jpg' width="879"><br/>
 <a href="https://youtu.be/p10oaCRmst0">Lane detection result testing on TUSimple dataset </a>
 </div> 
- 
 <br/>
 
 * **Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames** (Under view by TR_C and accepted by TRB 2023)
@@ -42,23 +40,7 @@ Lane detection result testing on LLAMAS dataset <br/>
 <div align="center">
 Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<br/>
 </div> 
-
-
-
-
-
-
-
-
-<img src="/images/nips.png" width="300" style="float: left; margin-right: 1em; margin-top: 0.5em; margin-bottom: 0.8em">
-
-
-
-Deep neural networks achieve state-of-the-art performance in multiple core autonomous driving tasks (e.g., behavior prediction and policy learning). However, their black-box nature is a crucial barrier to genuine trustworthiness. It is, therefore, essential to gain a deeper understanding of their behavior. In my research, **I utilize explainable AI techniques to develop analysis toolkits customized for deep-learning functional modules**. They serve as simple plug-ins to diagnose the models without interfering with the performance. With the help of these toolkits, we identified principled design flaws in popular trajectory prediction models that were previously ignored in the literature, motivating new designs with improved robustness and performance. For instance, we found that Variational-Autoencoder-based trajectory prediction models suffer from an issue we named <em>social posterior collapse</em>, i.e., the model is prone to ignoring all the surrounding agents when predicting the future trajectory of a target agent. Our work is the first in the literature that discovered such systematic defects in interaction modeling. Prior works only focused on the overall performance without studying whether their models encode social context as claimed. <br/>
-
-<p><b>Related Publications:</b><br>
-<font size=3> 1. <b>C. Tang</b>, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2021</font><br>
-<font size=3> 2. <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022</font></p>
+<br/>
 
 ## Designing Domain-Knowledge-Driven Interpretable Prediction Models
 <p style="text-align:center;"><img src="/images/interpretable-prediction.png" width="750" style="margin-top: 0.5em"></p>
