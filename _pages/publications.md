@@ -34,7 +34,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
  	
 
 ## Workshop
-1. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti,L., and de Groot, O., "Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic," in *IEEE Intelligent Vehicles Symposium* (IV 2023).
+1. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O., "Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic," in *IEEE Intelligent Vehicles Symposium* (IV 2023).
 
 ## Patents
 1. **Chinese Invention Patent**: Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
