@@ -23,7 +23,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 4. **Dong, Y.**, Wang, Sh., Li, L., Zhang, Z. (2018). [An Empirical Study on Travel Patterns of Internet Based Ride-Sharing](https://doi.org/10.1016/j.trc.2017.10.022), *Transportation Research Part C: Emerging Technologies 86*: 1-22. [Highly cited; Q1, IF:9.022, SJR:3.211](https://doi.org/10.1016/j.trc.2017.10.022)
 
 
-## Conference Proceedings
+## Conference Presentations & Proceedings
 1. **Dong, Y.**, Chen, K., Peng, Y., Ma, Z. (2022). [Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network](https://doi.org/10.1109/ITSC55140.2022.9922235). *2022 IEEE 25th International Conference on Intelligent Transportation Systems* (ITSC), 2022, pp. 2914-2919.
 2. **Dong, Y.**<sup>#,</sup>\*, Li, R.<sup>#</sup>,Farah, H. (2023). "Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting* (TRB 2023).
 3. Zhang, Y., **Dong, Y.\***, (2023). "Optimization of coordinated flow restriction and skip-stopping schemes for urban rail stations considering platform carrying capacity", Accepted by the *Transportation Research Board (TRB) 102nd annual meeting* (TRB 2023).
