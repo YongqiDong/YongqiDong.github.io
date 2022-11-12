@@ -10,7 +10,7 @@ My ultimate goal is to employ artificial intelligence and interdisciplinary rese
 My current research centers around three main pillars, i.e., 1) **Deep Learning for sensing and anomaly detecting**, 2) **Deep Reinforcement Learning for controlling and decision-making**, 3) **Big Data Analytics for spatial-temporal pattern mining**.
 
 ## Deep Learning for Sensing and Anomaly Detecting
-**Sensing---Lane Detection as the Use Case**
+**Sensing---Lane Detection as the Case Study**
 - **_Objective_**: To develop robust spatial-temporal neural network model to tackle lane detection in challenging scenes
 - **_Delivery_**: **Three** research papers and **one patent**
 
@@ -70,11 +70,11 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
 * **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published on TR_C](https://doi.org/10.1016/j.trc.2017.10.022))<br/>
   - On demand ride-sharing is quite different from taxi<br/>
   - In Beijing, on the macrocosmic level, on demand ride-sharing mainly serves as an approach for home-work commuting<br/>
-  - Internet based ride-sharing drivers' intent to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers<br/>
+  - Internet based on demand ride-sharing drivers intend to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers<br/>
 **Regarding Individual Behavior Patterns of Ride-sharing Driver**
     - Two different categories are identified: the home-work commuting drivers and the random commuting drivers; 
-    - Counterintuitively, the home-work commuting ones account for a small part of the total drivers
-    - High probability to be classified into the home-work commuting category when less trips are served by the specific driver
+    - Counterintuitively, the home-work commuting ones account for only a small part of the total drivers
+    - There is high probability to be classified into the home-work commuting category when less trips are served by the specific driver
     - Results support and in line with policy making
     
 <div align="center">
@@ -86,7 +86,7 @@ Dynamic spatial-temporal service patterns
 
 * **Revealing Travel Patterns of Sharing-bikes in a Spatial-temporal Manner using Non-negative Matrix Factorization Method** ([Published in CICTP 2018](https://doi.org/10.1061/9780784481523.165))<br/>
   - Sharing bikes provide short distance travel services around subway stations with three peaks<br/>
-  - Bike-sharing could be expressed by three basis collective patterns which differs from ride-sharing of two collective patterns<br/>
+  - Bike-sharing could be expressed by three (or five) basis collective patterns which differs from ride-sharing of two collective patterns<br/>
   - NMF method is more appropriate than PCA in extracting spatial-temporal patterns in transportation research 
 
 <div align="center">
