@@ -23,10 +23,13 @@ Professional Services
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>
  	* IEEE Transactions on Intelligent Transportation Systems<br/>
- 	* Journal of Advanced Transportation <br/>
  	* IEEE Open Journal of Intelligent Transportation Systems<br/>
  	* Transportation Letters: the International Journal of Transportation Research<br/>
- 	* Journal of Transportation Research Record: Journal of the Transportation Research Board <br/>
+ 	* Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
+ 	* International Journal of Human-Computer Interaction<br/>
+ 	* Journal of Advanced Transportation<br/>
+  
+  
   
   **Conferences and Proceedings**<br/>
  	- IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
