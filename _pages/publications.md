@@ -38,6 +38,6 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 
 ## Patents
 1. **Chinese Invention Patent**: Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
-2. **European Patent**: Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (IDF OCT-22-060, to be submitted)
+2. **European Patent**: Automated lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (IDF OCT-22-060, N2033551, submitted)
 
 _The superscript <sup>#</sup> indicates equal contribution, and \* indicates corresponding author._
