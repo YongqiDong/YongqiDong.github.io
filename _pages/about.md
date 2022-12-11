@@ -37,5 +37,5 @@ I am vegetarian. I like Taichi, reading, and travelling. <br/> I regularly pract
 "Not everything that counts can be counted, and not everything that can be counted really counts." <br/>
 "Live in the Present Moment. Irrespective of what happened yesterday or last year, and what may or may not happen tomorrow, the present moment is where you are---always."<br/>
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w&cl=ffffff&w=a&t=tt"></script>
 
