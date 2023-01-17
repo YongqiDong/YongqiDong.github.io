@@ -13,7 +13,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 4. Lingam, N., de Winter, J., **Dong, Y.**, Tsapi, A., van Arem, B., Farah, H. (2022). "eHMI on the vehicle or just a traffic light? A driving simulator study", Under Review by *Journal of Applied Ergonomics*, [Preprint](https://www.researchgate.net/publication/362751474_eHMI_on_the_vehicle_or_just_a_traffic_light_A_driving_simulator_study).
 5. Lu, X.<sup>#</sup>, **Dong, Y.**<sup>#,</sup>\*, Li, R., Song, W. (2023). "Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning", Submitted to the *Journal of Intelligent and Connected Vehicles*, and accepted by the *23rd COTA International Conference of Transportation Professionals for presentation, CICTP 2023*.
 6. Zhang, Y., **Dong, Y.\***, (2023). "Optimization of coordinated flow restriction and skip-stopping schemes for urban rail stations considering platform carrying capacity", Accepted by the *TRB 2023*. Under Review by *IEEE Open Journal of Intelligent Transportation Systems*, [Preprint](https://doi.org/10.36227/techrxiv.21779894.v1)
-7. Liu, W., **Dong, Y.**, Zhang, X., Xu, L. (2022). "A Unified Model Predictive Control Method of Automated Vehicles for Lane Changing and Lane Keeping Maneuvers", To be submitted to Journal of *Vehicle System Dynamics*.
+7. Liu, W., Li, S., **Dong, Y.**, Zhang, X., Xu, L. (2022). "Unified Model Predictive Control Method of Automated Vehicles for Lane Changing and Lane Keeping Maneuvers", submitted to Journal of *IEEE Intelligent Transportation Systems Magazine*.
 
 
 ## Journal Papers
