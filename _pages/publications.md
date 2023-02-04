@@ -19,7 +19,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 
 
 ## Journal Papers
-1. **Dong, Y.**, Patil, S., van Arem, B., & Farah, H. (2022). [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829). *Computer-Aided Civil and Infrastructure Engineering*, 1–20. [Q1, IF:11.775, SJR:2.773](https://doi.org/10.1111/mice.12829)
+1. **Dong, Y.**, Patil, S., van Arem, B., Farah, H. (2022). [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829). *Computer-Aided Civil and Infrastructure Engineering*, 1–20. [Q1, IF:11.775, SJR:2.773](https://doi.org/10.1111/mice.12829)
 2. Farah, H., Postigo, I., Reddy, N., **Dong, Y.**, Rydergren, C., Raju, N. and Olstam, J. (2022). [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176). *IEEE Transactions on Intelligent Transportation Systems*, 2022, 
 3. Raju, N., Schakel, W., Reddy, N., **Dong, Y.**, Farah, H. (2022). [Car-Following Properties of a Commercial Adaptive Cruise Control System- A Pilot Field Test](https://doi.org/10.1177/03611981221077085). *Transportation Research Record: Journal of the Transportation Research Board*.  
 4. **Dong, Y.**, Wang, Sh., Li, L., Zhang, Z. (2018). [An Empirical Study on Travel Patterns of Internet Based Ride-Sharing](https://doi.org/10.1016/j.trc.2017.10.022), *Transportation Research Part C: Emerging Technologies 86*: 1-22. [Highly cited; Q1, IF:9.022, SJR:3.211](https://doi.org/10.1016/j.trc.2017.10.022)
