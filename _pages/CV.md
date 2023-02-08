@@ -33,7 +33,7 @@ Professional Services
   
   **Conferences and Proceedings**<br/>
  	- IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
- 	- IEEE Intelligent Vehicles Symposium (IV)<br/>
+ 	- IEEE Intelligent Vehicles Symposium (IV) | Associate editor<br/>
  	- Transportation Research Board Annual Meeting (TRB)<br/>
  	- World Congress on Intelligent Control and Automation (WCICA)<br/>
  	- COTA International Conference of Transportation Professionals (CICTP)<br/>
