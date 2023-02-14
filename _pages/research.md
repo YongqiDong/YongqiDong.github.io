@@ -67,6 +67,7 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
 <video src="https://YongqiDong.github.io/video/IV2023-#352-1570884150-SupplementaryVideo.mp4" controls="controls" width="599" height="299" loop=true></video> <br/>
 Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
 </div> 
+
 * **Deep Reinforcement Learning for Driving through Roundabouts** (In preparation)
 <br/>
   
