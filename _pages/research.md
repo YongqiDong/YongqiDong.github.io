@@ -64,7 +64,7 @@ CAN Bus data anamoly detection results: model performance comparison<br/>
 
 * **Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study** (Under review by IV2023, [Demo video](https://youtu.be/Ijkqo0KG1RA))
 <div align="center">
-<video src="https://YongqiDong.github.io/video/IV2023-#352-1570884150-SupplementaryVideo.mp4" controls="controls" width="999" height="399" loop=true></video> <br/>
+<video src="https://YongqiDong.github.io/video/IV2023_352_1570884150_SupplementaryVideo.mp4" controls="controls" width="936" height="521" loop=true></video> <br/>
 Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
 </div> 
 
