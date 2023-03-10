@@ -44,3 +44,6 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 2. **European Patent**: Automated lane detection through self pre-training with masked sequential auto-encoders, fine-tuning with customised PolyLoss, and post-processing with clustering and curve fitting (IDF OCT-22-060, N2033551, submitted and filed)
 
 _The superscript <sup>#</sup> indicates equal contribution, and \* indicates corresponding author._
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
