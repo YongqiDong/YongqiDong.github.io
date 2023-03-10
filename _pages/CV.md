@@ -43,4 +43,4 @@ Professional Services
 * 2016.08-2016.09: **Research Intern**, [Singapore-MIT Alliance for Research and Technology (SMART)](https://smart.mit.edu/research/fm/about-fm) <br/>
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
