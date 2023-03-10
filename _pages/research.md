@@ -99,3 +99,5 @@ Dynamic spatial-temporal service patterns
 <img src='/images/BikeSharing.png' width="799"><br/>
 Extracted basis collective patterns of bike-sharing by non-negative matrix factorization<br/>
 </div> 
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
