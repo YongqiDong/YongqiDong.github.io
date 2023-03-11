@@ -38,6 +38,6 @@ author_profile: true
 - [2022 International PhD Summer School on Automated Driving](https://www.dropbox.com/s/4rnb84f5bsocbqb/yongqidong_20220901_163109Certificate.pdf?dl=0)
 - [TU Delft Graduate School: Coaching Students and Project Groups](https://www.dropbox.com/s/fh5cbapj25kpukj/T3B1_Certificate.pdf?dl=0)
 
-<br/>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=753&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
+<br/>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=698&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
