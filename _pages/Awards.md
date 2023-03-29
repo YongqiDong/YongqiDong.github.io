@@ -28,7 +28,7 @@ author_profile: true
 
  
 # Certificates
-- [Deep Reinforcement Learning](https://www.dropbox.com/s/hi3n6kvz9xw3072/Dong_GP-OML certificate Reinforcement Learning for OM 2022.pdf?dl=0)
+- [Deep Reinforcement Learning](https://www.dropbox.com/s/hi3n6kvz9xw3072/Dong_GP-OML_certificate_Reinforcement-Learning-for-OM.pdf?dl=0)
 - [IBM edX Deep Learning Professional Certificate](https://credentials.edx.org/credentials/77ca88a7d12d440da5a3e00392a31a21/)
 - [Applied Deep Learning Capstone Project](https://courses.edx.org/certificates/09cb030ac684454dad5f2055b8769c17)
 - [Using GPUs to Scale and Speed-up Deep Learning](https://courses.edx.org/certificates/9b90ad18e538419ebd89390194c3b5f2)
