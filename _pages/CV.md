@@ -19,8 +19,10 @@ Education
 Professional Services 
 ======
 * **Workshop Organizer** <br/>
- 	* [IEEE Intelligent Vehicles Symposium (IV 2023)](https://2023.ieee-iv.org/), [Development of Socially-compliant Driving Behaviour for Automated Vehicles to Enhance Safety and Efficiency in Mixed Traffic](https://sites.google.com/berkeley.edu/iv2023/) <br/>
- 	* [IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/), [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
+ 	* IEEE Intelligent Vehicles Symposium ([IV 2023](https://2023.ieee-iv.org/)), 
+ 	  [Development of Socially-compliant Driving Behaviour for Automated Vehicles to Enhance Safety and Efficiency in Mixed Traffic](https://sites.google.com/berkeley.edu/iv2023/) <br/>
+ 	* IEEE International Conference on Intelligent Transportation Systems ([ITSC 2023](https://2023.ieee-itsc.org/))
+    [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
 
 
 * **Ad-hoc Reviewer Services**<br/>
