@@ -7,7 +7,7 @@ author_profile: true
 
 - **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61498), EEMCS, TU Delft, *Mar.2023*
 - **Project supervisor**, Course: Capstone Applied AI Project 2022-2023 [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), EEMCS, TU Delft, *Nov.2022-Apr.2023*
-- **Taching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022*
+- **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022*
 - **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47890), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
 - **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
 - **Teaching and Lab Assistant**, Course: Advanced Labs in Electronic Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2016-Jul.2016*
