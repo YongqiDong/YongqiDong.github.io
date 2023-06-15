@@ -37,7 +37,7 @@ author_profile: true
 - [Deep Learning with Tensorflow](https://courses.edx.org/certificates/e1b480c0e6fd4d08849b3b8b7fe4f7ad)
 - [Deep Learning Fundamentals with Keras](https://courses.edx.org/certificates/a2445fc9b5184494b4c81dcd2f5aedcd)
 - [IDEA League Summer School: *Analysis and Modelling Road User Behaviour*](https://www.dropbox.com/s/nvere3kdjxrpetd/Dong-IDEA.pdf?dl=0)
-- [2022 International PhD Summer School on Automated Driving](https://www.dropbox.com/s/4rnb84f5bsocbqb/yongqidong_20220901_163109Certificate.pdf?dl=0)
+- [2022 International Ph.D. Summer School on Automated Driving](https://www.dropbox.com/s/4rnb84f5bsocbqb/yongqidong_20220901_163109Certificate.pdf?dl=0)
 - [TU Delft Graduate School: Coaching Students and Project Groups](https://www.dropbox.com/s/fh5cbapj25kpukj/T3B1_Certificate.pdf?dl=0)
 
 
