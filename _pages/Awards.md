@@ -7,6 +7,7 @@ author_profile: true
 
 # Slected Awards and Scholarships
 
+- TU Delft-Transport Institute Award (**10,500 €**)
 - Erasmus + mobility Grants (**Three times**)
 - [IEEE ITSS Young Professionals Travelling Fellowship](https://ieee-itss.org/yp-travelling-fellowship-program-2022/#:~:text=Young%20Professionals%20Travelling%20Fellowship%20Program%202022&text=Selected%20Young%20Professionals%20will%20receive,be%20reimbursed%20by%20IEEE%20ITSS.), November 2022. [[Certificate]](https://drive.google.com/file/d/156tSlTas2NeUuQX51yEB96wWb9xEnzVF/view)
 - Outstanding College Graduates of Beijing (**Top 1‰**)
