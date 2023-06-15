@@ -38,7 +38,7 @@ Lane detection result testing on LLAMAS dataset <br/>
 <img src='/images/tvtLANE-Challenging.png' width="909"><br/>
 </div> 
 <div align="center">
-Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<br/>
+Lane detection result testing on tvtLANE test set #2 (12 challenging situations)<br/>
 </div> 
 <br/>
 
@@ -48,7 +48,7 @@ Lane detection result testing on tvtLANE testset #2 (12 challenging situations)<
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
 Framework of deep autoencoder based semi-supervised method<br/><br/>
 <img src='/images/CAN_AnomalyDetectionResults.png' width="799"><br/>
-CAN Bus data anamoly detection results: model performance comparison<br/>
+CAN Bus data anomaly detection results: model performance comparison<br/>
 </div> 
 
 <br/>
@@ -74,14 +74,14 @@ Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
   
 ## Big Data Analytics for Spatial-temporal Pattern Mining in Shared Mobility
 * **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published on TR_C](https://doi.org/10.1016/j.trc.2017.10.022))<br/>
-  - On demand ride-sharing is quite different from taxi<br/>
-  - In Beijing, on the macrocosmic level, on demand ride-sharing mainly serves as an approach for home-work commuting<br/>
-  - Internet based on demand ride-sharing drivers intend to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers<br/>
-**Regarding Individual Behavior Patterns of Ride-sharing Driver**
+  - On-demand ride-sharing is quite different from taxi<br/>
+  - In Beijing, on the macrocosmic level, on-demand ride-sharing mainly serves as an approach for home-work commuting<br/>
+  - Internet-based on-demand ride-sharing drivers intend to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers<br/>
+**Regarding Individual Behavior Patterns of Ride-sharing Drivers**
     - Two different categories are identified: the home-work commuting drivers and the random commuting drivers; 
     - Counterintuitively, the home-work commuting ones account for only a small part of the total drivers
     - There is high probability to be classified into the home-work commuting category when less trips are served by the specific driver
-    - Results support and in line with policy making
+    - Results support and are in line with policy-making
     
 <div align="center">
 <img src='/images/taxi_pickup.gif' width="309" height="309"> <img src='/images/Ridesharing_pick.gif' width="309" height="309"> <img src='/images/fastcarpick.gif' width="309" height="309"/><br/>
@@ -91,8 +91,8 @@ Dynamic spatial-temporal service patterns
 <br/>
 
 * **Revealing Travel Patterns of Sharing-bikes in a Spatial-temporal Manner using Non-negative Matrix Factorization Method** ([Published in CICTP 2018](https://doi.org/10.1061/9780784481523.165))<br/>
-  - Sharing bikes provide short distance travel services around subway stations with three peaks<br/>
-  - Bike-sharing could be expressed by three (or five) basis collective patterns which differs from ride-sharing of two collective patterns<br/>
+  - Sharing bikes provide short-distance travel services around subway stations with three peaks<br/>
+  - Bike-sharing could be expressed by three (or five) basis collective patterns which differ from ride-sharing of two collective patterns<br/>
   - NMF method is more appropriate than PCA in extracting spatial-temporal patterns in transportation research 
 
 <div align="center">
