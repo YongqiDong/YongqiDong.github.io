@@ -33,15 +33,20 @@ Professional Services
  	* Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
  	* International Journal of Human-Computer Interaction<br/>
  	* Journal of Advanced Transportation<br/>
+  * Journal of Internet Technology<br/>
+  * European Transport Research Review<br/>
   
   
   
   **Conferences and Proceedings**<br/>
- 	- IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
  	- IEEE Intelligent Vehicles Symposium (IV) | Associate editor<br/>
+  - IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
  	- Transportation Research Board Annual Meeting (TRB)<br/>
  	- World Congress on Intelligent Control and Automation (WCICA)<br/>
  	- COTA International Conference of Transportation Professionals (CICTP)<br/>
+  - The International Symposium on Transport Network Resilience (INSTR)<br/>
+  
+* 2023.05-Present:  **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
 * 2019.12-Present:  **Ph.D. Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
 * 2018.05-2019.09: **Research Assistant**, Waterloo Artificial Intelligence Institute, iTSS Lab, University of Waterloo <br/>
 * 2014.09-2018.05: **Research Assistant**, Intelligent Transportation System Lab, TNList, Tsinghua University <br/>
