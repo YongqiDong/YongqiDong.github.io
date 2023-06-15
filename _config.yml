@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yongqi Dong's Homepage"
 title_separator          : "-"
 name                     : &name "Yongqi Dong"
-description              : &description "Ph.D. Researcher at TU Delft"
+description              : &description "Ph.D. Researcher at TU Delft, Visiting Scholar at UC Berkeley"
 url                      : https://YongqiDong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YongqiDong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yongqi Dong"
   avatar           : "YongqiDong369VVV.jpg"
-  bio              : "Ph.D. Researcher at TU Delft"
+  bio              : "Ph.D. Researcher at TU Delft, Visiting Scholar at UC Berkeley"
   location         : "Delft, the Netherlands"
   employer         :
   pubmed           : 
