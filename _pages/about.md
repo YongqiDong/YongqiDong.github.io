@@ -39,7 +39,7 @@ News
 
 Miscellany 
 ======
-I am vegetarian. I like Taichi, reading, and traveling. <br/> I regularly practice meditation to pursue the Inner Peace. <br/> I see traveling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. <br/>
+I am a vegetarian and minimalist. I like Taichi, reading, and traveling. <br/> I regularly practice meditation to pursue the Inner Peace. <br/> I see traveling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. <br/>
 
 ***Quotes***:<br/>
 "If anything is worth doing, do it with all your heart."<br/>
