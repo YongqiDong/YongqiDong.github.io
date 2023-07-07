@@ -16,10 +16,10 @@ author_profile: true
 
  
 # Thesis Supervision
-- Lanxin Zhang, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection*</span>,  *Oct.2022-**Ongoing***
-- Henan Yuan, Bachelor in Traffic and Transportation, BJTU & TU Delft Joint TTE Bachelor Program, Thesis title: <span style="color:MediumBlue">*Deep Reinforcement Learning for Driving through Roundabouts*</span>, *Oct.2022-**Ongoing***
 - Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Effects of improved lane markings on Lane Keeping Assistance systems and human detection*</span>, *Sep.2022-**Ongoing*** <br/>
 
+- Lanxin Zhang, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection*</span>,  *Oct.2022-June.2023*
+- Henan Yuan, Bachelor in Traffic and Transportation, BJTU & TU Delft Joint TTE Bachelor Program, Thesis title: <span style="color:MediumBlue">*Deep Reinforcement Learning for Driving through Roundabouts*</span>, *Oct.2022-June.2023*
 - Shiva Nischal Lingam, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Effects of External Human Machine Interfaces on Automated Vehicles’ Communicative Interactions With Human Drivers*](https://repository.tudelft.nl/islandora/object/uuid%3Ad5fc3d7e-7d6e-467b-a797-11b33a534117) (Cum Laude), **Won 2nd [Cuperusprijs Prize of KIVI](https://www.kivi.nl/afdelingen/verkeer-en-vervoer/cuperusprijs)**, *Jan.2021-Nov.2021*
 - Sandeep Patil, Master of Science in Mechanical Engineering (Vehicular Engineering), TU Delft, Thesis title: [*Lane Detection using SpatioTemporal Attention*](https://repository.tudelft.nl/islandora/object/uuid%3A48d67745-6c50-4f3f-ba00-96b4dc4325f5), *Oct.2020-Aug.2021*
 - Eline van der Kooij, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: [*Visibility of Lane Markings for Machine Vision*](https://repository.tudelft.nl/islandora/object/uuid%3Aee25b2c6-85ae-4a96-b56d-32880a187623), *Jul.2020-May.2021*
