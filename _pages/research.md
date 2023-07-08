@@ -93,7 +93,7 @@ Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
 * **Comprehensive Comparison of Deep Reinforcement Learning for Automated Driving on Various Driving Maneuvers with Simulation** (Under Review by _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023), [Preprint](https://arxiv.org/abs/2306.11466).
 <div align="center">
 <img src='/images/DRL-Comparison.png' width="879"><br/>
-The illustration of the DRL MDP system framework
+Illustration of the DRL MDP system framework
 </div> 
 <br/>
 
