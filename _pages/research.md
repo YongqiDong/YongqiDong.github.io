@@ -99,7 +99,7 @@ Illustration of the DRL MDP system framework
 
 * **Safe, Efficient, Comfort, and Energy-saving Automated Driving through Roundabout Based on Deep Reinforcement Learning** (Under Review by _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023), [Preprint](https://arxiv.org/abs/2306.11465).
 <div align="center">
-<img src='/images/DRL-Roundabout.png' width="439"><br/>
+<img src='/images/DRL-Roundabout.png' width="529"><br/>
 The overall architecture of DRL for automated driving through roundabouts
 </div> 
 <br/>
