@@ -15,9 +15,15 @@ My current research centers around three main pillars, i.e.,
 ## Deep Learning for Sensing and Anomaly Detecting
 **Sensing---Lane Detection as the Case Study**
 - **_Objective_**: To develop robust spatial-temporal neural network model to tackle lane detection in challenging scenes
-- **_Delivery_**: **Three** research papers and **one patent**
+- **_Delivery_**: **Three** research papers, **one patent**, and **one software registration**
 
 * **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published on CACIE](https://doi.org/10.1111/mice.12829))
+<div align="center">
+<img src='/images/CACIE-ST-NN.png' width="879"><br/>
+The architecture of the proposed hybrid spatial-temporal sequence-to-one spatial-temporal neural network model
+</div> 
+<br/>
+
 <div align="center">
 <video src="https://YongqiDong.github.io/video/NormalSCNN_UNe.mp4" controls="controls" width="599" height="299" loop=true></video> <br/>
 Lane detection result testing on tvtLANE dataset
