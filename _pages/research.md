@@ -30,14 +30,14 @@ Lane detection result testing on tvtLANE dataset
 </div> 
 
 
-* **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
+* **Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames** (Under view by TR_C and accepted by TRB 2023)
+
 <div align="center">
-<img src='/images/normal_result1.jpg' width="879"><br/>
-<a href="https://youtu.be/p10oaCRmst0">Lane detection result testing on TUSimple dataset </a>
+<img src='/images/TRC-ST-Att-VVV369.png' width="879"><br/>
+The architecture of the proposed sequential neural network model with spatial-temporal attention mechanism
 </div> 
 <br/>
 
-* **Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames** (Under view by TR_C and accepted by TRB 2023)
 <div align="center">
 <img src='/images/LLAMAS.png' width="879"><br/>
 Lane detection result testing on LLAMAS dataset <br/>
@@ -48,6 +48,13 @@ Lane detection result testing on LLAMAS dataset <br/>
 </div> 
 <div align="center">
 Lane detection result testing on tvtLANE test set #2 (12 challenging situations)<br/>
+</div> 
+<br/>
+
+* **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
+<div align="center">
+<img src='/images/normal_result1.jpg' width="879"><br/>
+<a href="https://youtu.be/p10oaCRmst0">Lane detection result testing on TUSimple dataset </a>
 </div> 
 <br/>
 
