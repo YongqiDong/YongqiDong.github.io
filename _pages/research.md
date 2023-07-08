@@ -91,7 +91,18 @@ Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
 </div> 
 
 * **Comprehensive Comparison of Deep Reinforcement Learning for Automated Driving on Various Driving Maneuvers with Simulation** (Under Review by _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023), [Preprint](https://arxiv.org/abs/2306.11466).
+<div align="center">
+<img src='/images/DRL-Comparison.png' width="879"><br/>
+The illustration of the DRL MDP system framework
+</div> 
+<br/>
+
 * **Safe, Efficient, Comfort, and Energy-saving Automated Driving through Roundabout Based on Deep Reinforcement Learning** (Under Review by _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023), [Preprint](https://arxiv.org/abs/2306.11465).
+<div align="center">
+<img src='/images/DRL-Roundabout.png' width="879"><br/>
+The overall architecture of DRL for automated driving through roundabouts
+</div> 
+<br/>
 
 <br/>
   
