@@ -7,7 +7,7 @@ author_profile: true
 
 - **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61498), EEMCS, TU Delft, *Mar.2023*
 - **Project supervisor**, Course: Capstone Applied AI Project 2022-2023 [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), EEMCS, TU Delft, *Nov.2022-Apr.2023*
-- **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022*
+- **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022 & Mar.2023*
 - **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47890), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
 - **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
 - **Teaching and Lab Assistant**, Course: Advanced Labs in Electronic Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2016-Jul.2016*
@@ -29,7 +29,7 @@ author_profile: true
 # Mentorship
 - Undergraduate Counselor (Class 201204), School of Electronic and Information Engineering, Beijing Jiaotong University, *Jul.2012-Jul.2014*
 
-I have mentored and collaborated with multiple undergraduate, master, and junior PhD students over several research projects in the past few years. Please refer to my [CV](https://yongqidong.github.io/files/Dong_Yongqi-CV_2023.pdf) for detailed information. 
+I have mentored and collaborated with multiple undergraduate, master, and junior Ph.D. students over several research projects in the past few years. Please refer to my [CV](https://yongqidong.github.io/files/Dong_Yongqi-CV_2023.pdf) for detailed information. 
 
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=698&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
