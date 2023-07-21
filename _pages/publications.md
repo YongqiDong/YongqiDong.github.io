@@ -44,7 +44,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 
 ## Workshop
 1. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://sites.google.com/berkeley.edu/iv2023/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).
-1. Wang, Y., **Dong, Y.**, Rahmani, S., Martínez, I., Farah, H., Pei, X., Jia, Sh., Yu, R., Zhu M., and Stern, R. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://sites.google.com/berkeley.edu/iv2023/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).
+1. Wang, Y., **Dong, Y.**, Rahmani, S., Martínez, I., Farah, H., Pei, X., Jia, Sh., Yu, R., Zhu M., and Stern, R. (2023). "[Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/)" in *26th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2023).
 
 
 ## Patents
