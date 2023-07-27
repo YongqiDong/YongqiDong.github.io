@@ -51,7 +51,7 @@ Lane detection result testing on tvtLANE test set #2 (12 challenging situations)
 </div> 
 <br/>
 
-* **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (Under view by IEEE-T-ITS and accepted by TRB 2023)
+* **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** (**Accepted** by IEEE-T-ITS and **accepted** by TRB 2023)
 <div align="center">
 <img src='/images/Self-PreSMAE.png' width="879"><br/>
 The framework of the proposed three-phase pipeline
