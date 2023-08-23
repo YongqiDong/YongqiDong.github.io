@@ -20,7 +20,7 @@ Feel free to contact me for research discussion and possible collaboration!
 
 News 
 ======
-- 08/2023: One paper, "Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss", was **accepted** by the Journal of IEEE Transactions on Intelligent Transportation Systems. [Preprint](https://arxiv.org/abs/2305.17271) is available.
+- 08/2023: One paper, "Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss", was **accepted** by the Journal of IEEE Transactions on Intelligent Transportation Systems. [Preprint](https://doi.org/10.1109/TITS.2023.3305015) is available.
 - 07/2023: As the (co-)first author or the corresponding author, I got four papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/). Super happy~
 - 07/2023: I attended the [2023 TRB Annual Automated Road Transportation Symposium (TRB ARTS23)](https://trb.secure-platform.com/a/page/AutomatedRoadTransportationSymposium), July 9-13 2023 in San Francisco. During the reception and poster session on July 11, I presented our work titled "[Social-aware Planning and Control for Automated Vehicles Based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study](https://www.youtube.com/playlist?list=PLjur_KFMmAW8c3kvjdmj8sBpHhkWTcJaL)". 
 - 07/2023: I attended [the International Task Force on Vehicle-Highway Automation (ITFVHA)](https://itfvha.maptm.nl/) Symposium on 8 July 2023 in San Francisco and tried the Cruise Robotaxi for a 20-minute trip. It was really a fantastic experience.
