@@ -12,7 +12,7 @@ author_profile: true
 - Erasmus + mobility Grants (**Three times**)
 - [2023 Fellowships for Young Researchers, Promoting Diversity and Leadership in ITS](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/)
 - [IEEE SMC Conference Grant](https://ieeesmc2023.org/grants/)
-- [2023 IEEE TAB Committee on Standards (TCoS) seed funding](https://ta.ieee.org/operations/standards-activities/tab-committee-on-standards-seed-funding-opportunities)(**6,000 $**)
+- [2023 IEEE TAB Committee on Standards (TCoS) seed funding](https://ta.ieee.org/operations/standards-activities/tab-committee-on-standards-seed-funding-opportunities) (**6,000 $**)
 - [IEEE ITSS Young Professionals Travelling Fellowship](https://ieee-itss.org/yp-travelling-fellowship-program-2022/#:~:text=Young%20Professionals%20Travelling%20Fellowship%20Program%202022&text=Selected%20Young%20Professionals%20will%20receive,be%20reimbursed%20by%20IEEE%20ITSS.), November 2022. [[Certificate]](https://drive.google.com/file/d/156tSlTas2NeUuQX51yEB96wWb9xEnzVF/view)
 - Outstanding College Graduates of Beijing (**Top 1‰**)
 - First Class Tsinghua University RONG Scholarship
