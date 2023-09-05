@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- **Project supervisor**, Course: Interdisciplinary Advanced Artificial Intelligence Project [IFEEMCS520200](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=64317), EEMCS, TU Delft, *Sep.2023-Nov.2023*
 - **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61498), EEMCS, TU Delft, *Mar.2023*
 - **Project supervisor**, Course: Capstone Applied AI Project 2022-2023 [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), EEMCS, TU Delft, *Nov.2022-Apr.2023*
 - **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022 & Mar.2023*
