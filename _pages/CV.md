@@ -29,11 +29,11 @@ Professional Services
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>
  	* IEEE Transactions on Intelligent Transportation Systems<br/>
- 	* IEEE Open Journal of Intelligent Transportation Systems<br/>
- 	* Transportation Letters: the International Journal of Transportation Research<br/>
- 	* Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
- 	* International Journal of Human-Computer Interaction<br/>
- 	* Journal of Advanced Transportation<br/>
+  * IEEE Open Journal of Intelligent Transportation Systems<br/>
+  * Transportation Letters: the International Journal of Transportation Research<br/>
+  * Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
+  * International Journal of Human-Computer Interaction<br/>
+  * Journal of Advanced Transportation<br/>
   * Journal of Internet Technology<br/>
   * European Transport Research Review<br/>
   * ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering<br/>
