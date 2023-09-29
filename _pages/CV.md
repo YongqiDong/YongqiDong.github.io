@@ -12,6 +12,7 @@ author_profile: true
 Education
 ======
 * Ph.D. in Civil Engineering and Geosciences (Transportation), [Delft University of Technology](https://www.tudelft.nl/en/ceg/)
+* Visiting Ph.D. in the Department of Mechanical Engineering, [University of California, Berkeley](https://me.berkeley.edu/)
 * Master in Control Science and Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 * Bachelor in Telecommunication Engineering, [Beijing Jiaotong University](http://en.eie.bjtu.edu.cn/)
 
@@ -42,9 +43,9 @@ Professional Services
   **Conferences and Proceedings**<br/>
  	- IEEE Intelligent Vehicles Symposium (IV) | Associate editor<br/>
   - IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
- 	- Transportation Research Board Annual Meeting (TRB)<br/>
- 	- World Congress on Intelligent Control and Automation (WCICA)<br/>
- 	- COTA International Conference of Transportation Professionals (CICTP)<br/>
+  - Transportation Research Board Annual Meeting (TRB)<br/>
+  - World Congress on Intelligent Control and Automation (WCICA)<br/>
+  - COTA International Conference of Transportation Professionals (CICTP)<br/>
   - The International Symposium on Transport Network Resilience (INSTR)<br/>
   
 * 2023.05-Present:  **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
