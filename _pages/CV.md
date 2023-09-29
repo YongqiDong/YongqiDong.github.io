@@ -41,7 +41,7 @@ Professional Services
   
   
   **Conferences and Proceedings**<br/>
-  - IEEE Intelligent Vehicles Symposium (IV) | Associate editor<br/>
+  - IEEE Intelligent Vehicles Symposium (IV) \| Associate editor<br/>
   - IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
   - Transportation Research Board Annual Meeting (TRB)<br/>
   - World Congress on Intelligent Control and Automation (WCICA)<br/>
