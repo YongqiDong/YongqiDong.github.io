@@ -35,6 +35,7 @@ Professional Services
  	* Journal of Advanced Transportation<br/>
   * Journal of Internet Technology<br/>
   * European Transport Research Review<br/>
+  * ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering<br/>
   
   
   
