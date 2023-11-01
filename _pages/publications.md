@@ -53,10 +53,10 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 
 **European Patent**:
 1. Automated lane detection through self pre-training with masked sequential auto-encoders, fine-tuning with customized PolyLoss, and post-processing with clustering and curve fitting (IDF OCT-22-060, N2033551, submitted and filed)
-2. Socially compliant Planning and Control for Automated Vehicles using Model-backend Deep Reinforcement Learning with Driving Risk Field and Model Predictive Contouring Control (Submitted)
+2. Socially compliant Planning and Control for Automated Vehicles using Model-backend Deep Reinforcement Learning with Driving Risk Field and Model Predictive Contouring Control (OCT-23-056, N2035943, submitted and filed)
 
 ## Software copyright
-1. Spatial-Temporal Attention Integrated Sequential Neural Network Model for Vision-based Robust Lane Detection Using Multi Continuous Image Frames (submitted and filed)
+1. Spatial-Temporal Attention Integrated Sequential Neural Network Model for Vision-based Robust Lane Detection Using Multi Continuous Image Frames (i-DEPOT 142731, OCT-23-056, submitted and filed) 
 
 _The superscript <sup>#</sup> indicates equal contribution, and \* indicates corresponding author._
 
