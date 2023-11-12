@@ -34,6 +34,7 @@ Professional Services
   * Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
   * International Journal of Human-Computer Interaction<br/>
   * Journal of Advanced Transportation<br/>
+  * Applied Ergonomics<br/>
   * Journal of Internet Technology<br/>
   * European Transport Research Review<br/>
   * ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering<br/>
