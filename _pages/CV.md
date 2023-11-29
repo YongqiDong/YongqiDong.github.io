@@ -28,6 +28,7 @@ Professional Services
 
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>  
+  * International Journal of Computer Vision<br/>
   * IEEE Transactions on Intelligent Transportation Systems<br/>
   * IEEE Open Journal of Intelligent Transportation Systems<br/>
   * Transportation Letters: the International Journal of Transportation Research<br/>
