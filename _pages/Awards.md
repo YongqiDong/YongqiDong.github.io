@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Slected Awards and Scholarships
+# Selected Awards and Scholarships
 
 - TU Delft-Transport Institute Award (**10,500 €**)
 - [Chinese Government Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing)
