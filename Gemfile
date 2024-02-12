@@ -8,14 +8,15 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem install bundler  
+#gem install bundler  
 # bundle install  
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 bundle update
-gem "jekyll"
+#gem "jekyll"
+gem "jekyll", "~> 4.2"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
