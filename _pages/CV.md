@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-- [CV in PDF](https://yongqidong.github.io/files/Dong_Yongqi-CV.pdf)
+- [CV in PDF](https://yongqidong.github.io/files/Dong_Yongqi-CV_2023.pdf)
 
 
 
