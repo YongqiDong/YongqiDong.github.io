@@ -18,7 +18,7 @@ author_profile: true
 
  
 # Thesis Supervision
-- Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Effects of improved lane markings on Lane Keeping Assistance systems and human detection*</span>, *Nov.2022-Dec.2023*<br/>
+- Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: <span style="color:MediumBlue">*Effects of improved lane markings on Lane Keeping Assistance systems and human detection*</span>, *Nov.2022-Dec.2023* <br/>
 
 - Lanxin Zhang, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Semi-supervised Machine Learning for Abnormal Driving Behaviour Detection*](https://repository.tudelft.nl/islandora/object/uuid:e9f1a2a7-58af-42d0-a80f-70c25833b380),  *Oct.2022-Jun.2023* 
 - Henan Yuan, Bachelor in Traffic and Transportation, BJTU & TU Delft Joint TTE Bachelor Program, Thesis title: *Deep Reinforcement Learning for Driving through Roundabouts*, *Oct.2022-Jun.2023*
