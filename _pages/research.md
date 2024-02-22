@@ -84,7 +84,7 @@ CAN Bus data anomaly detection results: model performance comparison<br/>
 
 * **Towards Developing Socially-Compliant Automated Vehicles: State of the Practice, Experts Expectations, and a Conceptual Framework** (To be submitted to Journal of Transport Reviews, and accepted by MFTS2022)
 
-* **Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study** (Accepted by IEEE SMC 2023, [Demo video](https://youtu.be/XLpwgmsyg_M))
+* **Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study** ([Published on IEEE SMC 2023](http://dx.doi.org/10.1109/SMC53992.2023.10394462), [Demo video](https://youtu.be/XLpwgmsyg_M))
 <div align="center">
 <video src="https://YongqiDong.github.io/video/SupplementaryVideo-SMCSocialAwareDrivingThroughRoundabout.mp4" controls="controls" width="936" height="521" loop=true></video> <br/>
 Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
