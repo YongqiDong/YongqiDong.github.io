@@ -90,14 +90,14 @@ CAN Bus data anomaly detection results: model performance comparison<br/>
 Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
 </div> 
 
-* **Comprehensive Comparison of Deep Reinforcement Learning for Automated Driving on Various Driving Maneuvers with Simulation** (Under Review by _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023), [Preprint](https://arxiv.org/abs/2306.11466).
+* **Comprehensive Training and Evaluation on Deep Reinforcement Learning for Automated Driving in Various Simulated Driving Maneuvers** ([Published on _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422159))
 <div align="center">
 <img src='/images/DRL-Comparison.png' width="879"><br/>
 Illustration of the DRL MDP system framework
 </div> 
 <br/>
 
-* **Safe, Efficient, Comfort, and Energy-saving Automated Driving through Roundabout Based on Deep Reinforcement Learning** (Under Review by _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023), [Preprint](https://arxiv.org/abs/2306.11465).
+* **Safe, Efficient, Comfort, and Energy-Saving Automated Driving Through Roundabout Based on Deep Reinforcement Learning** ([Published on _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422488))
 <div align="center">
 <img src='/images/DRL-Roundabout.png' width="529"><br/>
 The overall architecture of DRL for automated driving through roundabouts
