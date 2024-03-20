@@ -12,7 +12,7 @@ author_profile: true
 - Erasmus + mobility Grants (**Three times**)
 - [2023 Fellowships for Young Researchers, Promoting Diversity and Leadership in ITS](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/)
 - [IEEE SMC Conference Grant](https://ieeesmc2023.org/grants/)
-- [2023 IEEE TAB Committee on Standards (TCoS) seed funding](https://ta.ieee.org/operations/standards-activities/tab-committee-on-standards-seed-funding-opportunities) (**6,000 $**)
+- [2023 IEEE TAB Committee on Standards (TCoS) Seed Funding](https://ta.ieee.org/operations/standards-activities/tab-committee-on-standards-seed-funding-opportunities) (**6,000 $**)
 - [IEEE ITSS Young Professionals Travelling Fellowship](https://ieee-itss.org/yp-travelling-fellowship-program-2022/#:~:text=Young%20Professionals%20Travelling%20Fellowship%20Program%202022&text=Selected%20Young%20Professionals%20will%20receive,be%20reimbursed%20by%20IEEE%20ITSS.), November 2022. [[Certificate]](https://drive.google.com/file/d/156tSlTas2NeUuQX51yEB96wWb9xEnzVF/view)
 - Outstanding College Graduates of Beijing (**Top 1‰**)
 - First Class Tsinghua University RONG Scholarship
@@ -21,12 +21,12 @@ author_profile: true
 - Second-Class Merit Scholarship for Masters Tsinghua University
 - Second-Class Academic Fellowship (Top 3%)
 - Merit Student (Four times)
-- Second prize of Innovation Awards by School of Science
-- Honourable Mention in 2013 Interdisciplinary Contest in Modeling
+- Second Prize of Innovation Awards by the School of Science
+- Honourable Mention in the 2013 Interdisciplinary Contest in Modeling
 - Second Prize in the 2013 Undergraduate Electronic Design Contest in Beijing
 - Second Prize in the 2012 Undergraduate Electronic Design Contest in Beijing
 - Second Prize in the Physical Experiment Competition in Beijing
-- Bronze award in “Challenge Cup” Entrepreneurship Design Contest in Beijing
+- Bronze Award in “Challenge Cup” Entrepreneurship Design Contest in Beijing
 - First Prize in Beijing Jiaotong University "Challenge Cup" Entrepreneurship Design Contest
 - First Prize in Freescale Cup University Students Intelligent Car Race (Rank **2nd**), check the [NXP Intelligent Car Racing Demo Video by Yongqi Dong @BJTU](https://www.bilibili.com/video/BV1o24y1f7Qh/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302)
 - 2019 Microsoft Discover AI Challenge: Sustainable Life (Top 10%), check the [Data-Driven All-in-one Shared Mobility Demo Video](https://www.bilibili.com/video/BV1YK411W7DX/?share_source=copy_web&vd_source=4b920bc132ebce9bcf05d03d3bf70302)
