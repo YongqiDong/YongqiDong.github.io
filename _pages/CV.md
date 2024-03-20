@@ -50,7 +50,7 @@ Professional Services
   - COTA International Conference of Transportation Professionals (CICTP)<br/>
   - The International Symposium on Transport Network Resilience (INSTR)<br/>
   
-* 2023.05-Present:  **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
+* 2023.05-2023.10:  **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
 * 2019.12-Present:  **Ph.D. Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
 * 2018.05-2019.09: **Research Assistant**, Waterloo Artificial Intelligence Institute, iTSS Lab, University of Waterloo <br/>
 * 2014.09-2018.05: **Research Assistant**, Intelligent Transportation System Lab, TNList, Tsinghua University <br/>
