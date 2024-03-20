@@ -17,7 +17,7 @@ My current research centers around three main pillars, i.e., <br/>
 - **_Objective_**: To develop robust spatial-temporal neural network model to tackle lane detection in challenging scenes
 - **_Delivery_**: **Three** research papers, **one patent**, and **one software registration**
 
-* **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published on CACIE](https://doi.org/10.1111/mice.12829))
+* **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published in CACIE](https://doi.org/10.1111/mice.12829))
 <div align="center">
 <img src='/images/CACIE-ST-NN.png' width="879"><br/>
 The architecture of the proposed hybrid spatial-temporal sequence-to-one spatial-temporal neural network model
@@ -26,7 +26,7 @@ The architecture of the proposed hybrid spatial-temporal sequence-to-one spatial
 
 <div align="center">
 <video src="https://YongqiDong.github.io/video/NormalSCNN_UNe.mp4" controls="controls" width="599" height="299" loop=true></video> <br/>
-Lane detection result testing on tvtLANE dataset
+Lane detection results testing on tvtLANE dataset
 </div> 
 
 
@@ -47,11 +47,11 @@ Lane detection result testing on LLAMAS dataset <br/>
 <img src='/images/tvtLANE-Challenging.png' width="909"><br/>
 </div> 
 <div align="center">
-Lane detection result testing on tvtLANE test set #2 (12 challenging situations)<br/>
+Lane detection results testing on tvtLANE test set #2 (12 challenging situations)<br/>
 </div> 
 <br/>
 
-* **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** ([Published on IEEE-T-ITS](https://doi.org/10.1109/TITS.2023.3305015) and [presented on TRB 2023](https://research.tudelft.nl/en/publications/robust-lane-detection-through-self-pre-training-with-masked-seque))
+* **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** ([Published in IEEE-T-ITS](https://doi.org/10.1109/TITS.2023.3305015) and [presented at TRB 2023](https://research.tudelft.nl/en/publications/robust-lane-detection-through-self-pre-training-with-masked-seque))
 <div align="center">
 <img src='/images/Self-PreSMAE.png' width="879"><br/>
 The framework of the proposed three-phase pipeline
@@ -65,7 +65,7 @@ The framework of the proposed three-phase pipeline
 <br/>
 
 **Anomaly Detecting**
-* **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published on ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235), [Recorded Video Presentation](https://youtu.be/melrgznLXP0))
+* **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published in ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235), [Recorded Video Presentation](https://youtu.be/melrgznLXP0))
 <div align="center">
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
 Framework of deep autoencoder based semi-supervised method<br/><br/>
@@ -84,20 +84,20 @@ CAN Bus data anomaly detection results: model performance comparison<br/>
 
 * **Towards Developing Socially-Compliant Automated Vehicles: State of the Practice, Experts Expectations, and a Conceptual Framework** (To be submitted to Journal of Transport Reviews, and accepted by MFTS2022)
 
-* **Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study** ([Published on IEEE SMC 2023](http://dx.doi.org/10.1109/SMC53992.2023.10394462), [Demo video](https://youtu.be/XLpwgmsyg_M))
+* **Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study** ([Published in IEEE SMC 2023](http://dx.doi.org/10.1109/SMC53992.2023.10394462), [Demo video](https://youtu.be/XLpwgmsyg_M))
 <div align="center">
 <video src="https://YongqiDong.github.io/video/SupplementaryVideo-SMCSocialAwareDrivingThroughRoundabout.mp4" controls="controls" width="936" height="521" loop=true></video> <br/>
 Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
 </div> 
 
-* **Comprehensive Training and Evaluation on Deep Reinforcement Learning for Automated Driving in Various Simulated Driving Maneuvers** ([Published on _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422159))
+* **Comprehensive Training and Evaluation on Deep Reinforcement Learning for Automated Driving in Various Simulated Driving Maneuvers** ([Published in _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422159))
 <div align="center">
 <img src='/images/DRL-Comparison.png' width="879"><br/>
 Illustration of the DRL MDP system framework
 </div> 
 <br/>
 
-* **Safe, Efficient, Comfort, and Energy-Saving Automated Driving Through Roundabout Based on Deep Reinforcement Learning** ([Published on _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422488))
+* **Safe, Efficient, Comfort, and Energy-Saving Automated Driving Through Roundabout Based on Deep Reinforcement Learning** ([Published in _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422488))
 <div align="center">
 <img src='/images/DRL-Roundabout.png' width="529"><br/>
 The overall architecture of DRL for automated driving through roundabouts
@@ -107,14 +107,14 @@ The overall architecture of DRL for automated driving through roundabouts
 <br/>
   
 ## Big Data Analytics for Spatial-temporal Pattern Mining in Shared Mobility
-* **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published on TR_C](https://doi.org/10.1016/j.trc.2017.10.022))<br/>
+* **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published in TR_C](https://doi.org/10.1016/j.trc.2017.10.022))<br/>
   - On-demand ride-sharing is quite different from taxi<br/>
   - In Beijing, on the macrocosmic level, on-demand ride-sharing mainly serves as an approach for home-work commuting<br/>
-  - Internet-based on-demand ride-sharing drivers intend to make longer trips than taxi, and detour further to pick up passengers than hitchhike drivers<br/>
+  - Internet-based on-demand ride-sharing drivers intend to make longer trips than taxis, and detour further to pick up passengers than hitchhike drivers<br/>
 **Regarding Individual Behavior Patterns of Ride-sharing Drivers**
     - Two different categories are identified: the home-work commuting drivers and the random commuting drivers; 
     - Counterintuitively, the home-work commuting ones account for only a small part of the total drivers
-    - There is high probability to be classified into the home-work commuting category when less trips are served by the specific driver
+    - There is a high probability of being classified into the home-work commuting category when fewer trips are served by the specific driver
     - Results support and are in line with policy-making
     
 <div align="center">
