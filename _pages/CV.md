@@ -11,7 +11,7 @@ author_profile: true
 
 Education
 ======
-* Ph.D. in Civil Engineering and Geosciences (Transportation), [Delft University of Technology](https://www.tudelft.nl/en/ceg/)
+* Ph.D. in Civil Engineering and Geosciences (Transport & Planning, Automated Driving), [Delft University of Technology](https://www.tudelft.nl/en/ceg/)
 * Visiting Ph.D. in the Department of Mechanical Engineering, [University of California, Berkeley](https://me.berkeley.edu/)
 * Master in Control Science and Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 * Bachelor in Telecommunication Engineering, [Beijing Jiaotong University](http://en.eie.bjtu.edu.cn/)
