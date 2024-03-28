@@ -9,7 +9,7 @@ author_profile: true
 
 - TU Delft-Transport Institute Award (**10,500 €**)
 - [Chinese Government Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing)
-- [2024 IEEE ITSS New Initiatives Proposal Funding](https://ieee-itss.org/call-for-2024-new-initiatives-proposals/#:~:text=IEEE%20ITSS%20is%20opening%20its,completed%20by%20December%2031%2C%202024)(**5,000 $**)
+- [2024 IEEE ITSS New Initiatives Proposal Funding](https://ieee-itss.org/call-for-2024-new-initiatives-proposals/#:~:text=IEEE%20ITSS%20is%20opening%20its,completed%20by%20December%2031%2C%202024) (**5,000 $**)
 - Erasmus + mobility Grants (**Three times**)
 - [2023 Fellowships for Young Researchers, Promoting Diversity and Leadership in ITS](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/)
 - [IEEE SMC Conference Grant](https://ieeesmc2023.org/grants/)
