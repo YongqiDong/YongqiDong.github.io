@@ -14,7 +14,7 @@ author_profile: true
 - **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
 - **Teaching and Lab Assistant**, Course: Advanced Labs in Electronic Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2016-Jul.2016*
 - **Teaching and Lab Assistant**, Course: Fundamentals of Electronics Power Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2015-Jul.2015*
-- **RSI Tutor**, Research writing and presentation tutor for 2017 Research Science Institute Program at Tsinghua University, [Center for Excellence in Education, USA](https://www.cee.org/),          *Jul.2017-Aug.2017*
+- **RSI Tutor**, Research writing and presentation tutor for the 2017 Research Science Institute Program at Tsinghua University, [Center for Excellence in Education, USA](https://www.cee.org/),          *Jul.2017-Aug.2017*
 
  
 # Thesis Supervision
