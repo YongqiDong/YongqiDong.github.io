@@ -75,14 +75,18 @@ CAN Bus data anomaly detection results: model performance comparison<br/>
 
 <br/>
 
-* **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** (Accepted by CICTP 2023)<br/>
+* **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** (Accepted by TRB2024 and CICTP 2023 for presentation)<br/>
   - Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
   - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
 
+* **Data-driven Semi-supervised Machine Learning with Surrogate Safety Measures for Abnormal Driving Behavior Detection** (Accepted by and presented at TRB2024)<br/>
+  - Objective: To efficiently detect abnormal driving behaviour using semi-supervised ML with partly labelled data
+  - Developed a Hierarchical Extreme Learning Machines (HELM) based semi-supervised ML method
+  - Introduced and verified Surrogate Safety Measures (SSMs) as the prominent input features for enhancing the detection performance
 
 ## Deep Reinforcement Learning for Controlling and Decision-making
 
-* **Towards Developing Socially-Compliant Automated Vehicles: State of the Practice, Experts Expectations, and a Conceptual Framework** (To be submitted to Journal of Transport Reviews, and accepted by MFTS2022)
+* **Towards Developing Socially-Compliant Automated Vehicles: State of the Practice, Experts Expectations, and a Conceptual Framework** (To be submitted to Journal of Transport Reviews, accepted by and presented at MFTS2022)
 
 * **Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study** ([Published in IEEE SMC 2023](http://dx.doi.org/10.1109/SMC53992.2023.10394462), [Demo video](https://youtu.be/XLpwgmsyg_M))
 <div align="center">
