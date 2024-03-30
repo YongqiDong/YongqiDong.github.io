@@ -52,7 +52,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 1. Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
 
 **European Patent**:
-1. Automated lane detection through self pre-training with masked sequential auto-encoders, fine-tuning with customized PolyLoss, and post-processing with clustering and curve fitting (IDF OCT-22-060, N2033551, submitted and filed)
+1. Automated lane detection through self supervised pre-training with masked sequential auto-encoders, fine-tuning with customized PolyLoss, and post-processing with clustering and curve fitting (IDF OCT-22-060, N2033551, submitted and filed)
 2. Socially compliant Planning and Control for Automated Vehicles using Model-backend Deep Reinforcement Learning with Driving Risk Field and Model Predictive Contouring Control (OCT-23-056, N2035943, submitted and filed)
 
 ## Software copyright
