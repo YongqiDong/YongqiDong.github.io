@@ -64,7 +64,7 @@ The framework of the proposed three-phase pipeline
 </div> 
 <br/>
 
-**Anomaly Detecting**
+**Anomaly Detection**
 * **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published in ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235), [Recorded Video Presentation](https://youtu.be/melrgznLXP0))
 <div align="center">
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
