@@ -54,7 +54,7 @@ Professional Services
 * 2019.12-Present:  **Ph.D. Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
 * 2018.05-2019.09: **Research Assistant**, Waterloo Artificial Intelligence Institute, iTSS Lab, University of Waterloo <br/>
 * 2014.09-2018.05: **Research Assistant**, Intelligent Transportation System Lab, TNList, Tsinghua University <br/>
-* 2016.08-2016.09: **Research Intern**, [Singapore-MIT Alliance for Research and Technology (SMART)](https://smart.mit.edu/research/fm/about-fm) <br/>
+* 2016.08-2016.09: **Research Intern**, [Singapore-MIT Alliance for Research and Technology (SMART)](https://smart.mit.edu/) <br/>
 
 
 <br/>
