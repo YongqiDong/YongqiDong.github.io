@@ -18,7 +18,7 @@ author_profile: true
 
  
 # Thesis Supervision
-- Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: _Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_, *Jan.2024-ongoing <br/>
+- Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: _Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_, *Jan.2024-ongoing* <br/>
 
 - Mathijs den Otter, Master of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: *Impact of Improved Lane Marking Properties on the Performance of Lane Keeping Assistance Systems in Varying Circumstances*, *Nov.2022-Dec.2023* <br/>
 
