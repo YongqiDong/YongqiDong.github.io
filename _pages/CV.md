@@ -32,6 +32,7 @@ Professional Services
   * IEEE Transactions on Intelligent Transportation Systems<br/>
   * IEEE Open Journal of Intelligent Transportation Systems<br/>
   * Transportation Letters: the International Journal of Transportation Research<br/>
+  * Journal of Intelligent Transportation Systems: Technology, Planning, and Operations<br/>   	
   * Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
   * International Journal of Human-Computer Interaction<br/>
   * Journal of Advanced Transportation<br/>
