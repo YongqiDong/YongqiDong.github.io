@@ -19,6 +19,10 @@ Education
 
 Professional Services 
 ======
+* **Technical Committee Chair** <br/>
+ 	* Automated Mobility in Mixed Traffic | IEEE ITSS| May.2024 <br/> 
+ 	   Establishing the interdisciplinary community of "Automated Mobility in Mixed Traffic"     (in process) <br/>
+     
 * **Workshop Organizer** <br/>
  	* IEEE Intelligent Vehicles Symposium ([IV 2023](https://2023.ieee-iv.org/)) <br/> 
  	   [Development of Socially-compliant Driving Behaviour for Automated Vehicles to Enhance Safety and Efficiency in Mixed Traffic](https://sites.google.com/berkeley.edu/iv2023/) <br/>
