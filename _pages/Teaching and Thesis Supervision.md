@@ -37,3 +37,18 @@ I have mentored and collaborated with multiple undergraduate, master, and junior
 
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=698&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
+
+<!-- Customized ClustrMaps Embed Code -->
+<div id="clustrmaps-widget" style="width: 400px; height: 300px; border: 1px solid #ccc;">
+    <script type="text/javascript" src="//clustrmaps.com/api/clustrmaps.js?d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w"></script>
+    <script type="text/javascript">
+        ClustrMaps.load('clustrmaps-widget', {
+            mapType: 'terrain',
+            pinColor: '#FF0000',
+            backgroundColor: '#FFFFFF',
+            showVisitorCount: true,
+            timeRange: 'all' // Ensure this option is set for all-time data
+        });
+    </script>
+</div>
+
