@@ -58,7 +58,8 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 2. Socially compliant Planning and Control for Automated Vehicles using Model-backend Deep Reinforcement Learning with Driving Risk Field and Model Predictive Contouring Control (OCT-23-056, N2035943, submitted and filed)
 
 ## Software copyright
-1. Spatial-Temporal Attention Integrated Sequential Neural Network Model for Vision-based Robust Lane Detection Using Multi Continuous Image Frames (i-DEPOT 142731, OCT-23-056, submitted and filed) 
+1. Spatial-Temporal Attention Integrated Sequential Neural Network Model for Vision-based Robust Lane Detection Using Multi Continuous Image Frames (i-DEPOT 142731, OCT-23-056, submitted and filed)
+2. Vision-Based Lane Detection System With Self-supervised Pre-training Through Masked Sequential Auto-encoders (VLD_SP-MSAE) (Computer Software Copyright Registration in China, 2024R11L1180902, submitted and under review)
 
 _The superscript <sup>#</sup> indicates equal contribution, and \* indicates corresponding author._
 
