@@ -5,18 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- **Project supervisor**, Course: Fundamentals of Artificial Intelligence Programme (2023/2024) [IFEEMCS520100](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=67107), EEMCS, TU Delft, *Sep.2023-Nov.2023*
-- **Project supervisor**, Course: Interdisciplinary Advanced Artificial Intelligence Project (2023/2024) [IFEEMCS520200](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=64317), EEMCS, TU Delft, *Sep.2023-Nov.2023*
-- **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61498), EEMCS, TU Delft, *Mar.2023*
-- **Project supervisor**, Course: Capstone Applied AI Project [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), 2022-2023 & 2023-2024  EEMCS, TU Delft, *Nov.2022-Feb.2023 & Nov.2023- Feb.2024*
-- **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022 & Mar.2023*
-- **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47890), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
-- **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
-- **Teaching and Lab Assistant**, Course: Advanced Labs in Electronic Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2016-Jul.2016*
-- **Teaching and Lab Assistant**, Course: Fundamentals of Electronics Power Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2015-Jul.2015*
-- **RSI Tutor**, Research writing and presentation tutor for the 2017 Research Science Institute Program at Tsinghua University, [Center for Excellence in Education, USA](https://www.cee.org/),          *Jul.2017-Aug.2017*
+# Potential Research Cooperation Opportunity
+**(Master Thesis Project Topics)**  
+- [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
+- [Few-shot learning and domain adaption for lane detection with pre-trained large model](https://yongqidong.github.io/files/ResearchTopics/Few-shot_learning_and_domain_adaption_for_lane_detection_with_pretrained_large_model.pdf) <br/>
+- [Deep learning for abnormal driving behaviour detection, prediction, and prevention](https://yongqidong.github.io/files/ResearchTopics/Deep-learning-for-abnormal-driving-behaviour-detection-prediction-and-prevention.pdf) <br/>
+- [How could automated vehicles (AVs) be socially compliant in mixed traffic? Insights for social AVs](https://yongqidong.github.io/files/ResearchTopics/How_could_automated_vehicles_(AVs)_be_socially_compliant_in_mixed_traffic-Insights_for_social_AVs.pdf) <br/>
+- [Deep Multi-agent Reinforcement Learning for Vehicle-Traffic Light Federated Control and Optimization](https://yongqidong.github.io/files/ResearchTopics/Deep_Multi-agent_Reinforcement_Learning_for_Vehicle-Traffic_Light_Federated_Control_and_Optimization.pdf) <br/>
 
- 
+
 # Thesis Supervision
 - Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: _Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_, *Jan.2024-ongoing* <br/>
 
@@ -31,17 +28,20 @@ author_profile: true
 - Eline van der Kooij, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: [*Visibility of Lane Markings for Machine Vision*](https://repository.tudelft.nl/islandora/object/uuid%3Aee25b2c6-85ae-4a96-b56d-32880a187623), *Jul.2020-May.2021*
 - Sanny Toonen, Bachelor of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Lane recognition for automated vehicles*](https://yufeiyuan.eu/wp-content/uploads/2020/06/2020-06-298.pdf), *Jul.2020-May.2021*
 
-# Potential Research Cooperation Opportunity
-**(Master Thesis Project Topics)**  
-- [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
-- [Few-shot learning and domain adaption for lane detection with pre-trained large model](https://yongqidong.github.io/files/ResearchTopics/Few-shot_learning_and_domain_adaption_for_lane_detection_with_pretrained_large_model.pdf) <br/>
-- [Deep learning for abnormal driving behaviour detection, prediction, and prevention](https://yongqidong.github.io/files/ResearchTopics/Deep-learning-for-abnormal-driving-behaviour-detection-prediction-and-prevention.pdf) <br/>
-- [How could automated vehicles (AVs) be socially compliant in mixed traffic? Insights for social AVs](https://yongqidong.github.io/files/ResearchTopics/How_could_automated_vehicles_(AVs)_be_socially_compliant_in_mixed_traffic-Insights_for_social_AVs.pdf) <br/>
-- [Deep Multi-agent Reinforcement Learning for Vehicle-Traffic Light Federated Control and Optimization](https://yongqidong.github.io/files/ResearchTopics/Deep_Multi-agent_Reinforcement_Learning_for_Vehicle-Traffic_Light_Federated_Control_and_Optimization.pdf) <br/>
 
+# Courses and Project Supervision
+- **Project supervisor**, Course: Fundamentals of Artificial Intelligence Programme (2023/2024) [IFEEMCS520100](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=67107), EEMCS, TU Delft, *Sep.2023-Nov.2023*
+- **Project supervisor**, Course: Interdisciplinary Advanced Artificial Intelligence Project (2023/2024) [IFEEMCS520200](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=64317), EEMCS, TU Delft, *Sep.2023-Nov.2023*
+- **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61498), EEMCS, TU Delft, *Mar.2023*
+- **Project supervisor**, Course: Capstone Applied AI Project [T13150TU](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61851&_NotifyTextSearch_), 2022-2023 & 2023-2024  EEMCS, TU Delft, *Nov.2022-Feb.2023 & Nov.2023- Feb.2024*
+- **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022 & Mar.2023*
+- **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47890), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
+- **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
+- **Teaching and Lab Assistant**, Course: Advanced Labs in Electronic Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2016-Jul.2016*
+- **Teaching and Lab Assistant**, Course: Fundamentals of Electronics Power Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2015-Jul.2015*
+- **RSI Tutor**, Research writing and presentation tutor for the 2017 Research Science Institute Program at Tsinghua University, [Center for Excellence in Education, USA](https://www.cee.org/),          *Jul.2017-Aug.2017*
 
-
-
+ 
 # Mentorship
 - Undergraduate Counselor (Class 201204), School of Electronic and Information Engineering, Beijing Jiaotong University, *Jul.2012-Jul.2014*
 
