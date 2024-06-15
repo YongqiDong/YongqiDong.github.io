@@ -33,8 +33,9 @@ author_profile: true
 
 # Potential Research Cooperation Opportunity
 (Master Thesis Project Topics)
-- [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/Dong_Yongqi-CV.pdf) <br/>
-- Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model <br/>
+- [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
+- Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model <br/> YongqiDong.github.io/files
+
 
 
 
