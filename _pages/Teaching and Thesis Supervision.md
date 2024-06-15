@@ -29,7 +29,7 @@ author_profile: true
 - Sanny Toonen, Bachelor of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Lane recognition for automated vehicles*](https://yufeiyuan.eu/wp-content/uploads/2020/06/2020-06-298.pdf), *Jul.2020-May.2021*
 
 
-# Courses and Project Supervision
+# Course and Project Supervision
 - **Project supervisor**, Course: Fundamentals of Artificial Intelligence Programme (2023/2024) [IFEEMCS520100](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=67107), EEMCS, TU Delft, *Sep.2023-Nov.2023*
 - **Project supervisor**, Course: Interdisciplinary Advanced Artificial Intelligence Project (2023/2024) [IFEEMCS520200](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=64317), EEMCS, TU Delft, *Sep.2023-Nov.2023*
 - **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=61498), EEMCS, TU Delft, *Mar.2023*
