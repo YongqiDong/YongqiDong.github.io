@@ -32,7 +32,7 @@ author_profile: true
 - Sanny Toonen, Bachelor of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Lane recognition for automated vehicles*](https://yufeiyuan.eu/wp-content/uploads/2020/06/2020-06-298.pdf), *Jul.2020-May.2021*
 
 # Potential Research Cooperation Opportunity
-(Master Thesis Project Topics)
+**(Master Thesis Project Topics)**  
 - [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
 - [Few-shot learning and domain adaption for lane detection with pre-trained large model](https://yongqidong.github.io/files/ResearchTopics/Few-shot_learning_and_domain_adaption_for_lane_detection_with_pretrained_large_model.pdf) <br/>
 - [Deep learning for abnormal driving behaviour detection, prediction, and prevention](https://yongqidong.github.io/files/ResearchTopics/Deep-learning-for-abnormal-driving-behaviour-detection-prediction-and-prevention.pdf) <br/>
