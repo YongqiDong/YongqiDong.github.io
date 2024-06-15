@@ -31,6 +31,12 @@ author_profile: true
 - Eline van der Kooij, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: [*Visibility of Lane Markings for Machine Vision*](https://repository.tudelft.nl/islandora/object/uuid%3Aee25b2c6-85ae-4a96-b56d-32880a187623), *Jul.2020-May.2021*
 - Sanny Toonen, Bachelor of Science in Civil Engineering–Transport and Planning, TU Delft, Thesis title: [*Lane recognition for automated vehicles*](https://yufeiyuan.eu/wp-content/uploads/2020/06/2020-06-298.pdf), *Jul.2020-May.2021*
 
+# Potential Research Cooperation Opportunities
+(Master Thesis Project)
+- [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/Dong_Yongqi-CV.pdf) <br/>
+- Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model <br/>
+
+
 
 # Mentorship
 - Undergraduate Counselor (Class 201204), School of Electronic and Information Engineering, Beijing Jiaotong University, *Jul.2012-Jul.2014*
