@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Potential Research Cooperation Opportunity
+# <span style="color:blue"> Potential Research Cooperation Opportunity</span>
 **(Master Thesis Project Topics)**  
 - [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
 - [Few-shot learning and domain adaption for lane detection with pre-trained large model](https://yongqidong.github.io/files/ResearchTopics/Few-shot_learning_and_domain_adaption_for_lane_detection_with_pretrained_large_model.pdf) <br/>
