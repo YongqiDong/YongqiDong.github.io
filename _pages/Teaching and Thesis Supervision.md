@@ -10,7 +10,7 @@ author_profile: true
 - [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
 - [Few-shot learning and domain adaption for lane detection with pre-trained large model](https://yongqidong.github.io/files/ResearchTopics/Few-shot_learning_and_domain_adaption_for_lane_detection_with_pretrained_large_model.pdf) <br/>
 - [Deep learning for abnormal driving behaviour detection, prediction, and prevention](https://yongqidong.github.io/files/ResearchTopics/Deep-learning-for-abnormal-driving-behaviour-detection-prediction-and-prevention.pdf) <br/>
-- [How could automated vehicles (AVs) be socially compliant in mixed traffic? Insights for social AVs](https://yongqidong.github.io/files/ResearchTopics/How_could_automated_vehicles_(AVs)_be_socially_compliant_in_mixed_traffic-Insights_for_social_AVs.pdf) <br/>
+- [How could automated vehicles (AVs) be socially compliant in mixed traffic? Insights for social AVs](https://yongqidong.github.io/files/ResearchTopics/How_could_automated_vehicles_(AVs)_be_socially_compliant_in_mixed_traffic_Insights_for_social_AVs.pdf) <br/>
 - [Deep Multi-agent Reinforcement Learning for Vehicle-Traffic Light Federated Control and Optimization](https://yongqidong.github.io/files/ResearchTopics/Deep_Multi-agent_Reinforcement_Learning_for_Vehicle-Traffic_Light_Federated_Control_and_Optimization.pdf) <br/>
 
 
