@@ -15,7 +15,7 @@ My group is <mark style="background-color: SpringGreen">actively seeking PhD stu
 - Deep Learning/Reinforcement Learning/Large Language Models for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
   
-**(Master Thesis Project Topics)**  
+**Opening Master Thesis Project Topics**  
 - [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
 - [Few-shot learning and domain adaption for lane detection with pre-trained large model](https://yongqidong.github.io/files/ResearchTopics/Few-shot_learning_and_domain_adaption_for_lane_detection_with_pretrained_large_model.pdf) <br/>
 - [Deep learning for abnormal driving behaviour detection, prediction, and prevention](https://yongqidong.github.io/files/ResearchTopics/Deep-learning-for-abnormal-driving-behaviour-detection-prediction-and-prevention.pdf) <br/>
@@ -23,7 +23,7 @@ My group is <mark style="background-color: SpringGreen">actively seeking PhD stu
 - [Deep Multi-agent Reinforcement Learning for Vehicle-Traffic Light Federated Control and Optimization](https://yongqidong.github.io/files/ResearchTopics/Deep_Multi-agent_Reinforcement_Learning_for_Vehicle-Traffic_Light_Federated_Control_and_Optimization.pdf) <br/>
 
 
-# Thesis Supervision
+# Past and On-going Thesis Supervision
 - Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: _Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_, *Jan.2024-ongoing* <br/>
 
 - Cesar Flores Reyna, Master of Science in Sustainable Mobility Transitions, within the EIT program, TU/e, Thesis title: _Investigating a Benchmarking Framework for the Large-Scale Micro Simulator (LSMS) Platform in  Freeways under Dynamic Speed Limits_, *Jan.2024-ongoing* <br/>
