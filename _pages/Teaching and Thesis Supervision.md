@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # <span style="color:blue"> Potential Research Cooperation Opportunity</span>
-My group is <mark style="background-color: SpringGreen">actively seeking PhD students and visiting (CSC-funded) PhDs/RAs/Scholars</mark> in the wide domain of Transportation & Traffic Engineering and Intelligent Transportation Systems.  
+My group is <mark style="background-color: SpringGreen">actively seeking PhD students, visiting (CSC-funded) PhDs/RAs/Scholars, and Master's students (thesis projects)</mark> in the wide domain of Transportation & Traffic Engineering and Intelligent Transportation Systems.  
 Typical research areas include:
 - Connected Automated Vehicles
 - Mixed Traffic
