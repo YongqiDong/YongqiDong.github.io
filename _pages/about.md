@@ -20,6 +20,8 @@ Typical research areas include:
 - Deep Learning/Reinforcement Learning/Large Language Models for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
 
+Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aachen.de) for research discussion and possible collaboration! 
+
 <br/>
 
 Bio 
@@ -31,7 +33,6 @@ I obtained my Master's degree in Control Science and Engineering from Tsinghua U
 My current research centres around the areas of Automated Vehicles, Smart & Shared Mobility, and Artificial Intelligence. I aim to develop innovative Deep Learning models for Automated Vehicles' sensing and Deep Reinforcement Learning models for Automated Vehicles' controlling, and thus realize ***Safe, Efficient, and Socially Compliant Automated Driving***. I have also delved into shared mobility employing big data analytics and machine learning techniques to reveal the unique spatial-temporal patterns. My previous works have been published in high-quality top journals and conferences, including *Transportation Research Part C*, *IEEE Transactions on Intelligent Transportation Systems*, and *Computer-Aided Civil and Infrastructure Engineering*, as well as *IEEE International Conference on Intelligent Transportation Systems* (ITSC), _IEEE International Conference on Systems, Man, and Cybernetics_ (SMC), and *Transportation Research Board annual meeting* (TRB).
 
 For more information, please refer to my [CV](https://yongqidong.github.io/files/Dong_Yongqi-CV.pdf).<br/>
-Feel free to contact me for research discussion and possible collaboration! 
 
 
 News 
