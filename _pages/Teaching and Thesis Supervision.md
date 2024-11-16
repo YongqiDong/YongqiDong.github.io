@@ -23,6 +23,8 @@ Typical research areas include:
 - [How could automated vehicles (AVs) be socially compliant in mixed traffic? Insights for social AVs](https://yongqidong.github.io/files/ResearchTopics/How_could_automated_vehicles_(AVs)_be_socially_compliant_in_mixed_traffic_Insights_for_social_AVs.pdf) <br/>
 - [Deep Multi-agent Reinforcement Learning for Vehicle-Traffic Light Federated Control and Optimization](https://yongqidong.github.io/files/ResearchTopics/Deep_Multi-agent_Reinforcement_Learning_for_Vehicle-Traffic_Light_Federated_Control_and_Optimization.pdf) <br/>
 
+Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aachen.de) for research discussion and possible collaboration! 
+
 
 # Past and On-going Thesis Supervision
 - Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: _Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_, *Jan.2024-ongoing* <br/>
