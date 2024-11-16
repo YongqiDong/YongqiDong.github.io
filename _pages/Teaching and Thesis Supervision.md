@@ -12,6 +12,7 @@ Typical research areas include:
 - Mixed Traffic
 - Driving Risk Modelling
 - Transport & Traffic Safety
+- Socially compliant decision-making
 - Shared Smart & Sustainable Mobility
 - Deep Learning/Reinforcement Learning/Large Language Models for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
