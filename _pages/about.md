@@ -10,14 +10,14 @@ redirect_from:
 
 I am Yongqi Dong 董永奇, a Research Group Leader (AI & Automated Mobility) at RWTH Aachen University, PhD researcher at TU Delft, and previously a visiting scholar at UC Berkeley. With a broad interdisciplinary background, my ultimate goal is to employ Artificial Intelligence (AI) and multi-disciplinary research as tools to shape a better world. To achieve this, I have focused on the transportation domain and explored various aspects of shared and automated mobility. 
 
-Our group is <mark>actively seeking PhD students and visiting PhDs/RAs/scholars (e.g., CSC-funded)</mark> in the wide domain of Transportation & Traffic Engineering and Intelligent Transportation Systems. Typical research areas include:
-_- Connected Automated Vehicles
+Our group is <mark style="background-color: green">actively seeking PhD students and visiting PhDs/RAs/scholars (e.g., CSC-funded)</mark> in the wide domain of Transportation & Traffic Engineering and Intelligent Transportation Systems. Typical research areas include:
+- Connected Automated Vehicles
 - Mixed Traffic
 - Driving Risk Modelling
 - Transport & Traffic Safety
 - Shared Smart & Sustainable Mobility
 - Deep Learning/Reinforcement Learning/Large Language Models for Automated Mobility
-- Explainable AI Applications in Mobility & Interdisciplinary Problems_
+- Explainable AI Applications in Mobility & Interdisciplinary Problems
 
 
 
