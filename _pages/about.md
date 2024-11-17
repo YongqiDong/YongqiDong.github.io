@@ -15,7 +15,7 @@ Our group is <mark style="background-color: SpringGreen">actively seeking PhD st
 - Mixed Traffic
 - Driving Risk Modelling
 - Transport & Traffic Safety
-- Socially compliant decision-making
+- Socially Compliant Decision-making
 - Shared Smart & Sustainable Mobility
 - Smart Logistics & Delivery Robots
 - Lane Detection, Object Detection & Tracking
