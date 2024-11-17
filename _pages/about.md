@@ -19,6 +19,8 @@ Typical research areas include:
 - Socially compliant decision-making
 - Shared Smart & Sustainable Mobility
 - Smart Logistics & Delivery Robots
+- Lane Detection, Object Detection & Tracking
+- Multi-modal Data Fusion & Data Mining in Transportation Research
 - Deep Learning/Reinforcement Learning/Large Language Models for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
 
