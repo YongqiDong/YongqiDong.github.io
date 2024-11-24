@@ -43,7 +43,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 6. Liu, W., Li, S., **Dong, Y.**, Zhang, X., & Xu, L. (2023). "Unified Model Predictive Control Method of Automated Vehicles for Lane Changing and Lane Keeping Maneuvers", under review by the _Journal of Intelligent Transportation Systems_.
 
 
-## Workshop
+## Workshops
 1. **Dong, Y.**, Rahmani, S., Martínez, I., Wang, Y., Kattan, L., Pei, X., and Farah, H. (2024). "[Automated Mobility in Emerging Mixed Traffic
 ](https://www.itsc2024.mixedtraffic.org/)" in *27th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2024).
 2. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://sites.google.com/berkeley.edu/iv2023/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).  
@@ -54,11 +54,11 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 **Chinese Invention Patent**: 
 1. Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
 
-**European and Dutch Patent**:
+**European and Dutch Patents**:
 1. Automated lane detection (IDF OCT-22-060, **granted** on May 25, 2024, Patent number 2033551)
 2. Socially compliant Planning and Control for Automated Vehicles using Model-backend Deep Reinforcement Learning with Driving Risk Field and Model Predictive Contouring Control (OCT-23-056, N2035943, submitted and filed)
 
-## Software copyright
+## Software copyrights
 1. Spatial-Temporal Attention Integrated Sequential Neural Network Model for Vision-based Robust Lane Detection Using Multi Continuous Image Frames (i-DEPOT 142731, OCT-23-056, approved and registered)
 2. Vision-Based Lane Detection System With Self-supervised Pre-training Through Masked Sequential Auto-encoders (VLD_SP-MSAE) (Computer Software Copyright Registration in China, approved and registered)
 
