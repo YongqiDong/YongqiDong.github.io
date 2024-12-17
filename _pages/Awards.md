@@ -35,7 +35,7 @@ author_profile: true
 
  
 # Certificates
-- [TRAIL Research School Diploma](https://yongqidong.github.io/files/DongYongqi-TRAIL_Diploma.pdf)
+- [TRAIL Research School Diploma-Certificate of Education](https://yongqidong.github.io/files/DongYongqi-TRAIL_Diploma.pdf)
 - [Deep Reinforcement Learning](https://www.dropbox.com/s/hi3n6kvz9xw3072/Dong_GP-OML_certificate_Reinforcement-Learning-for-OM.pdf?dl=0)
 - [IBM edX Deep Learning Professional Certificate](https://credentials.edx.org/credentials/77ca88a7d12d440da5a3e00392a31a21/)
 - [Applied Deep Learning Capstone Project](https://courses.edx.org/certificates/09cb030ac684454dad5f2055b8769c17)
