@@ -31,7 +31,7 @@ Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aa
 
 
 # Past and On-going Thesis Supervision
-- Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: _Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_, *Jan.2024-Nov.2024* <br/>
+- Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: [_Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_](https://repository.tudelft.nl/record/uuid:6c59ac02-e110-434b-9e93-3999c23dbcf7), *Jan.2024-Nov.2024* <br/>
 
 - Cesar Flores Reyna, Master of Science in Sustainable Mobility Transitions, within the EIT program, TU/e, Thesis title: _Investigating a Benchmarking Framework for the Large-Scale Micro Simulator (LSMS) Platform in  Freeways under Dynamic Speed Limits_, *Jan.2024-Nov.2024* <br/>
 
