@@ -43,7 +43,9 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 4. Zhang, Y., & **Dong, Y.\*** (2025). "Optimization of coordinated flow restriction and skip-stopping schemes for urban rail stations considering platform carrying capacity", **accepted** by *TRB 2023*, under review by *Journal of Advanced Transportation*, [Preprint](https://doi.org/10.36227/techrxiv.21779894.v1).
 5. Ji, J., Lu, R., Belkessa, L., **Dong, Y.**, Wang, L., Madadi, B., Varotto, S., Saunier, N., MacFarlane, G., & Wu, C., (2025). "Exploring Artifacts Availability in Transportation Research Using Large Language Models", **under review** by International Symposium on Transportation Data & Modelling (ISTDM) 2025.  
 
-
+## Thesis
+Dong, Y. (2025). Safe, Efficient, and Socially Compliant Automated Driving in Mixed Traffic: _Sensing, Anomaly Detection, Planning and Control_. [Dissertation (TU Delft), Delft University of Technology]. TRAIL Research School on Transport, Infrastructure and Logistics. [https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913](https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913).  
+   
 ## Workshops
 1. **Dong, Y.**, Rahmani, S., Martínez, I., Wang, Y., Kattan, L., Pei, X., and Farah, H. (2024). "[Automated Mobility in Emerging Mixed Traffic
 ](https://www.itsc2024.mixedtraffic.org/)" in *27th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2024).
