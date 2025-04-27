@@ -44,7 +44,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 4. Ji, J., Lu, R., Belkessa, L., **Dong, Y.**, Wang, L., Madadi, B., Varotto, S., Saunier, N., MacFarlane, G., & Wu, C., (2025). "Exploring Artifacts Availability in Transportation Research Using Large Language Models", **accepted** by _20255 Transportation Research Symposium (TRS)_, _2025 International Symposium on Transportation Data & Modelling (ISTDM)_, and _2025 Modelling Mobility Conference (MoMo)_ for presentation.  
 
 ## Thesis
-  **Dong, Y.** (2025). Safe, Efficient, and Socially Compliant Automated Driving in Mixed Traffic: _Sensing, Anomaly Detection, Planning and Control_. [Dissertation (TU Delft), Delft University of Technology]. TRAIL Research School on Transport, Infrastructure and Logistics. [https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913](https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913).  
+   **Dong, Y.** (2025). Safe, Efficient, and Socially Compliant Automated Driving in Mixed Traffic: _Sensing, Anomaly Detection, Planning and Control_. [Dissertation (TU Delft), Delft University of Technology]. TRAIL Research School on Transport, Infrastructure and Logistics. [https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913](https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913).  
  
    
 ## Workshops
