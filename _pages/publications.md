@@ -57,7 +57,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 ## Patents
 **European and Dutch Patents**:
 1. **Dong, Y.**, & Li, R. (2024). Automated Lane Detection (Dutch Patent No. [NL2033551](https://mijnoctrooi.rvo.nl/fo-eregister-view/search/details/2033551_NP/0/0/1/10/0/0/0/null/null?locale=en)). Netherlands: Netherlands Patent Office.
-2. Dong, Y., Zhang, L., Farah, H., & Van Arem, B. (2025). Socially-compliant Automated Driving in Mixed Traffic (Dutch Patent No. NL2035943, submitted & filed, OCT-23-056).  
+2. **Dong, Y.**, Zhang, L., Farah, H., & Van Arem, B. (2025). Socially-compliant Automated Driving in Mixed Traffic (Dutch Patent No. NL2035943, submitted & filed, OCT-23-056).  
 
 **Chinese Invention Patent**: 
 1. Ruan, H., **Dong, Y.**, Wang, W., & Wang, F. (2016). Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light (Chinese Patent No. [CN103236211B](https://patents.google.com/patent/CN103236211B/en)). China: China National Intellectual Property Administration.
