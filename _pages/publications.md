@@ -45,6 +45,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 
 ## Thesis
    **Dong, Y.** (2025). Safe, Efficient, and Socially Compliant Automated Driving in Mixed Traffic: _Sensing, Anomaly Detection, Planning and Control_. [Dissertation (TU Delft), Delft University of Technology]. TRAIL Research School on Transport, Infrastructure and Logistics. [https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913](https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913).  
+   
  
    
 ## Workshops
