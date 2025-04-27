@@ -55,16 +55,18 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 
 
 ## Patents
-**Chinese Invention Patent**: 
-1. Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light, Application ID: 201310123700.5, Date: 2013.08.07, Publication Patent Number CN103236211B, Publication Patent Date: 2016.07.06.
-
 **European and Dutch Patents**:
-1. Automated lane detection (IDF OCT-22-060, **granted** on May 25, 2024, Patent number 2033551)
-2. Socially compliant Planning and Control for Automated Vehicles using Model-backend Deep Reinforcement Learning with Driving Risk Field and Model Predictive Contouring Control (OCT-23-056, N2035943, submitted and filed)
+1. **Dong, Y.**, & Li, R. (2024). Automated Lane Detection (Dutch Patent No. [NL2033551](https://mijnoctrooi.rvo.nl/fo-eregister-view/search/details/2033551_NP/0/0/1/10/0/0/0/null/null?locale=en)). Netherlands: Netherlands Patent Office.
+2. Dong, Y., Zhang, L., Farah, H., & Van Arem, B. (2025). Socially-compliant Automated Driving in Mixed Traffic (Dutch Patent No. NL2035943, submitted & filed, OCT-23-056).  
+
+**Chinese Invention Patent**: 
+1. Ruan, H., **Dong, Y.**, Wang, W., & Wang, F. (2016). Intelligent Demonstration Instrument of Simple Harmonic Oscillation Composition and Five Polarization States of Light (Chinese Patent No. [CN103236211B](https://patents.google.com/patent/CN103236211B/en)). China: China National Intellectual Property Administration.
+
+
 
 ## Software copyrights
-1. Spatial-Temporal Attention Integrated Sequential Neural Network Model for Vision-based Robust Lane Detection Using Multi Continuous Image Frames (i-DEPOT 142731, OCT-23-056, approved and registered)
-2. Vision-Based Lane Detection System With Self-supervised Pre-training Through Masked Sequential Auto-encoders (VLD_SP-MSAE) (Computer Software Copyright Registration in China, approved and registered)
+1. Spatial-Temporal Attention Integrated Sequential Neural Network Model for Vision-based Robust Lane Detection Using Multi Continuous Image Frames ([i-DEPOT 142731](https://yongqidong.github.io/files/i-DEPOT_142731_SoftwareCopyright.pdf), OCT-23-056, **approved and registered**)
+2. Vision-Based Lane Detection System With Self-supervised Pre-training Through Masked Sequential Auto-encoders (VLD_SP-MSAE) (Computer Software Copyright Registration in China, **approved and registered**)
 
 _The superscript <sup>#</sup> indicates equal contribution, and \* indicates corresponding author._
 
