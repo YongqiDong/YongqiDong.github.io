@@ -63,11 +63,11 @@ I am a vegetarian and minimalist. I like Taichi, reading, and travelling. <br/> 
   color: lightgray;
 }
 .archived a {
-  color: inherit;           /* 链接也跟随灰色 */
+  color: inherit;           
   text-decoration: underline;
 }
 .archived a.highlight {
-  color: blue !important;   /* 强制蓝色高亮 */
+  color: blue !important;  
 }
 </style>
 
