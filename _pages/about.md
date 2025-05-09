@@ -56,8 +56,6 @@ I am a vegetarian and minimalist. I like Taichi, reading, and travelling. <br/> 
 "Not everything that counts can be counted, and not everything that can be counted really counts." <br/>
 "Live in the Present Moment. Irrespective of what happened yesterday or last year, and what may or may not happen tomorrow, the present moment is where you are---always."<br/>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>  
-
 <br/>
 
 Archived Highlights 
@@ -96,4 +94,6 @@ Archived Highlights
 - 09/2022: Our paper [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176) is published in the journal of *IEEE Transactions on Intelligent Transportation Systems*. 
 - 02/2022: My paper [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829) is published in the journal of *Computer-Aided Civil and Infrastructure Engineering* [{Video1}](https://youtu.be/p10oaCRmst0) [{Video2}](https://youtu.be/67eMeFn5oi8). 
 </p>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>  
 
