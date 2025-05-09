@@ -46,6 +46,22 @@ News
 - 03/2025: Following an extensive but slow review period of over two years, we recently achieved acceptance for **three** journal manuscripts. It appears that the **volunteer-based** peer review system may benefit from certain modifications to enhance its overall efficiency...
 - 03/2025: I am happy to announce that, after nearly one year of waiting, my PhD defence date is finally officially settled on **Monday 12 May 2025 at 17:30 o’clock**, in Aula, the Senate Hall, TU Delft. More details can be found in the [invitation](https://yongqidong.github.io/files/YongqiDong_DefenceInvitation.pdf). The defence will be a public event, peopele are encouraged to attend in-person, but there will also be an [online live stream](https://nmclive.tudelft.nl/mediasite/play/d139086d83b34eb3814a4d21fca50fdc1d) starting from 5/12/2025 4:55:00 PM (CET) at: [https://nmclive.tudelft.nl/mediasite/play/d139086d83b34eb3814a4d21fca50fdc1d](https://nmclive.tudelft.nl/mediasite/play/d139086d83b34eb3814a4d21fca50fdc1d). My PhD thesis has already been published online as open access  at [https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913](https://doi.org/10.4233/uuid:12a9aff5-0cb6-46ab-a2d1-ae927d564913).  
 - 12/2024: I am delighted to announce that after four years of intermittent learning through high-quality courses and participating in the [TRAIL Research School](https://www.tudelft.nl/en/rstrail) events, I have finally obtained the [TRAIL Research School Diploma-Certificate of Education](https://yongqidong.github.io/files/DongYongqi-TRAIL_Diploma.pdf). And I just recently got my [TU Delft Form B & C & D](https://www.tudelft.nl/io/onderzoek/graduate-school/process-forms#:~:text=Form%20B,Form%20D) signed, which means just waiting for the denfense. These achievements mark a significant milestone in my educational journey.
+
+Miscellany 
+======
+I am a vegetarian and minimalist. I like Taichi, reading, and travelling. <br/> I regularly practice meditation to pursue the Inner Peace. <br/> I see travelling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. <br/>
+
+***Quotes***:<br/>
+"If anything is worth doing, do it with all your heart."<br/>
+"Not everything that counts can be counted, and not everything that can be counted really counts." <br/>
+"Live in the Present Moment. Irrespective of what happened yesterday or last year, and what may or may not happen tomorrow, the present moment is where you are---always."<br/>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>  
+
+Archived Highlights 
+======
+
+<p style="color: #999999;">
 - 09/2024: On September 24, our 2nd edition of the amazing workshop on "[<span style="color:blue">***Automated Mobility in Emerging Mixed Traffic***</span>](https://www.itsc2024.mixedtraffic.org/)" was successfully hosted at Salon 5 during the [IEEE ITSC 2024](https://ieee-itsc.org/2024/) in Edmonton, Canada. It is a great honor to have keynote talks from [Maria Laura Delle Monache](https://ce.berkeley.edu/people/faculty/delle-monache), [Dan Work](https://engineering.vanderbilt.edu/bio/?pid=daniel-work), [Cathy Wu](https://idss.mit.edu/staff/cathy-wu/), and [Lina Kattan](https://profiles.ucalgary.ca/lina-kattan), followed by very insightful panel discussions. With encouragement and very positive feedback, we are excited to announce that we plan to hold the 3rd edition of this workshop next year at [ITSC2025](https://ieee-itsc.org/2025/). Look forward to seeing you in November 2025 in Gold Coast, Australia during ITSC 2025. Please stay updated through our workshop and interdisciplinary research committee websites ([https://www.itsc2024.mixedtraffic.org/](https://www.itsc2024.mixedtraffic.org/) and [https://www.mixedtraffic.org/](https://www.mixedtraffic.org/)), as well as the emailing list at [https://groups.google.com/g/emerging-mixed-traffic](https://groups.google.com/g/emerging-mixed-traffic).
 - 07/2024: Our workshop on "[<span style="color:blue">***Automated Mobility in Emerging Mixed Traffic***</span>](https://www.itsc2024.mixedtraffic.org/)" has been approved to be held on September 24, 2024, in Edmonton, Canada, during the [IEEE ITSC 2024](https://ieee-itsc.org/2024/). If you want to present relevant published or submitted high-quality journal papers, or share pertinent resources (e.g., datasets, simulation and data analysis tools), please contact us by emailing Y.Dong-4@tudelft.nl to reserve a time slot. [Available slots are very limited.]
 - 07/2024: Our paper titled [_eHMI on the Vehicle or on the Infrastructure? A Driving Simulator Study_](https://doi.org/10.59490/ejtir.2024.24.2.7273) is accepted and published in the European Journal of Transport and Infrastructure Research. DOI: [ejtir.2024.24.2.7273](https://doi.org/10.59490/ejtir.2024.24.2.7273). Another paper titled [_Towards Understanding Worldwide Cross-cultural Differences in Implicit Driving Cues: Review, Comparative Analysis, and Research Roadmap_](https://arxiv.org/abs/2405.01119) is accepted by the _2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)_.
@@ -77,14 +93,5 @@ News
 - 09/2022: I attended the [TRAIL Ph.D. Congress 2022](https://rstrail.nl/program-trail-phd-congress-2022/) and presented my work there.
 - 09/2022: Our paper [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176) is published in the journal of *IEEE Transactions on Intelligent Transportation Systems*. 
 - 02/2022: My paper [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829) is published in the journal of *Computer-Aided Civil and Infrastructure Engineering* [{Video1}](https://youtu.be/p10oaCRmst0) [{Video2}](https://youtu.be/67eMeFn5oi8). 
+</p>
 
-Miscellany 
-======
-I am a vegetarian and minimalist. I like Taichi, reading, and travelling. <br/> I regularly practice meditation to pursue the Inner Peace. <br/> I see travelling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. <br/>
-
-***Quotes***:<br/>
-"If anything is worth doing, do it with all your heart."<br/>
-"Not everything that counts can be counted, and not everything that can be counted really counts." <br/>
-"Live in the Present Moment. Irrespective of what happened yesterday or last year, and what may or may not happen tomorrow, the present moment is where you are---always."<br/>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
