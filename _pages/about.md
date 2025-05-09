@@ -60,7 +60,7 @@ I am a vegetarian and minimalist. I like Taichi, reading, and travelling. <br/> 
 
 <style>
 .archived {
-  color: lightgray;
+  color: #999999;
 }
 .archived a {
   color: inherit;           
