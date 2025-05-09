@@ -58,6 +58,19 @@ I am a vegetarian and minimalist. I like Taichi, reading, and travelling. <br/> 
 
 <br/>
 
+# Archived Highlights
+
+<div style="color: lightgray;">
+
+- **09/2024**: On September 24, our 2nd edition of the amazing workshop on <span style="color:blue">[***Automated Mobility in Emerging Mixed Traffic***](https://www.itsc2024.mixedtraffic.org/)</span> was successfully hosted at Salon 5 during the <span style="color:blue">[IEEE ITSC 2024](https://ieee-itsc.org/2024/)</span> in Edmonton, Canada. It is a great honor to have keynote talks from <span style="color:blue">[Maria Laura Delle Monache](https://ce.berkeley.edu/people/faculty/delle-monache)</span>, <span style="color:blue">[Dan Work](https://engineering.vanderbilt.edu/bio/?pid=daniel-work)</span>, <span style="color:blue">[Cathy Wu](https://idss.mit.edu/staff/cathy-wu/)</span>, and <span style="color:blue">[Lina Kattan](https://profiles.ucalgary.ca/lina-kattan)</span>, followed by very insightful panel discussions. With encouragement and very positive feedback, we are excited to announce that we plan to hold the 3rd edition of this workshop next year at <span style="color:blue">[ITSC2025](https://ieee-itsc.org/2025/)</span>. Look forward to seeing you in November 2025 in Gold Coast, Australia during ITSC 2025. Please stay updated through our workshop and interdisciplinary research committee websites (<span style="color:blue">[https://www.itsc2024.mixedtraffic.org/](https://www.itsc2024.mixedtraffic.org/)</span> and <span style="color:blue">[https://www.mixedtraffic.org/](https://www.mixedtraffic.org/)</span>), as well as the emailing list at <span style="color:blue">[https://groups.google.com/g/emerging-mixed-traffic](https://groups.google.com/g/emerging-mixed-traffic)</span>).
+
+- **07/2024**: Our workshop on <span style="color:blue">[***Automated Mobility in Emerging Mixed Traffic***](https://www.itsc2024.mixedtraffic.org/)</span> has been approved to be held on September 24, 2024, in Edmonton, Canada, during the <span style="color:blue">[IEEE ITSC 2024](https://ieee-itsc.org/2024/)</span>. If you want to present relevant published or submitted high-quality journal papers, or share pertinent resources (e.g., datasets, simulation and data analysis tools), please contact us by emailing Y.Dong-4@tudelft.nl to reserve a time slot. [Available slots are very limited.]
+
+- **07/2024**: Our paper titled <span style="color:blue">[_eHMI on the Vehicle or on the Infrastructure? A Driving Simulator Study_](https://doi.org/10.59490/ejtir.2024.24.2.7273)</span> is accepted and published in the European Journal of Transport and Infrastructure Research. DOI: <span style="color:blue">[ejtir.2024.24.2.7273](https://doi.org/10.59490/ejtir.2024.24.2.7273)</span>. Another paper titled <span style="color:blue">[_Towards Understanding Worldwide Cross-cultural Differences in Implicit Driving Cues: Review, Comparative Analysis, and Research Roadmap_](https://arxiv.org/abs/2405.01119)</span> is accepted by the _2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)_.
+
+</div>
+
+
 Archived Highlights 
 ======
 
