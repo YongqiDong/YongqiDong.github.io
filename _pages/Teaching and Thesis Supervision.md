@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # <span style="color:blue"> Potential Research Cooperation Opportunity</span>
-My group is <mark style="background-color: SpringGreen">actively seeking PhD students, visiting (CSC-funded) PhDs/RAs/Scholars, and Master's students (thesis projects)</mark> in the wide domain of Transportation & Traffic Engineering, Intelligent Transportation Systems, AI, Data Science, and Digital Twins. Typical research areas include:
+My group is <mark style="background-color: SpringGreen">actively seeking PhD students, (self-funded) visiting (e.g., CSC, <a href="https://www.daad.de/en/the-daad/postdocnet/short-term-research-stay/">DAAD</a>, <a href="https://www.rwth-aachen.de/cms/root/studium/im-studium/stipendien-foerderung/~fhgwb/advanced-research-opportunities-program/">RWTH-AROP</a>) PhDs/RAs/Scholars, and Master's students (thesis projects)</mark> in the wide domain of Transportation & Traffic Engineering, Intelligent Transportation Systems, AI, Data Science, and Digital Twins. Typical research areas include:
 - Connected Automated Vehicles
 - Mixed-Autonomy Traffic 
 - Driving Risk Modelling
