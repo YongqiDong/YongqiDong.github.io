@@ -10,7 +10,7 @@ redirect_from:
 
 I am Yongqi Dong, a Research Group Leader (AI & Automated Mobility) at RWTH Aachen University, PhD researcher at TU Delft, and previously a visiting scholar at UC Berkeley. With a broad interdisciplinary background, my ultimate goal is to employ Artificial Intelligence (AI) and multi-disciplinary research as tools to shape a better world. To achieve this, I have focused on the transportation domain and explored various aspects of shared and automated mobility. 
 
-Our group is <mark style="background-color: SpringGreen">actively seeking PhD students, (self-funded) visiting (e.g., CSC, [DAAD](https://www.daad.de/en/the-daad/postdocnet/short-term-research-stay/), [RWTH-AROP](https://www.rwth-aachen.de/cms/root/studium/im-studium/stipendien-foerderung/~fhgwb/advanced-research-opportunities-program/)) PhDs/RAs/Scholars, and Master's students (thesis projects)</mark> in the wide domain of Transportation & Traffic Engineering, Intelligent Transportation Systems, AI, Data Science, and Digital Twins. Typical research areas include:
+Our group is <mark style="background-color: SpringGreen">actively seeking PhD students, (self-funded) visiting (e.g., CSC, <a href= "https://www.daad.de/en/the-daad/postdocnet/short-term-research-stay/">DAAD</a>, [RWTH-AROP](https://www.rwth-aachen.de/cms/root/studium/im-studium/stipendien-foerderung/~fhgwb/advanced-research-opportunities-program/)) PhDs/RAs/Scholars, and Master's students (thesis projects)</mark> in the wide domain of Transportation & Traffic Engineering, Intelligent Transportation Systems, AI, Data Science, and Digital Twins. Typical research areas include:
 - Connected Automated Vehicles
 - Mixed-Autonomy Traffic 
 - Driving Risk Modelling
