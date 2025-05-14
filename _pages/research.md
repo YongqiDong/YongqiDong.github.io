@@ -74,10 +74,10 @@ The framework of the proposed three-phase pipeline
 Seven types of anomalies<br/><br/>
 
 <img src='/images/UM.png' width="879"><br/>
-The illustration of the Uniform Masking method pipeline for MiM of lane rendering images<br/>
+The illustration of the Uniform Masking method pipeline for MiM of lane rendering images<br/><br/>
 
 <img src='/images/BEiT.png' width="879"><br/>
-The illustration of the BEiT method pipeline for MiM of lane rendering images<br/>
+The illustration of the BEiT method pipeline for MiM of lane rendering images<br/><br/>
 
 <img src='/images/LRAnomalyResults.png' width="879"><br/>
 The model performance regarding different metrics<br/>
