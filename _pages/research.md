@@ -66,7 +66,7 @@ The framework of the proposed three-phase pipeline
 
 **Anomaly Detection**
 
-* **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** (Published in TRR; Accepted by TRB2024 and CICTP 2023 for presentation)<br/>
+* **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** ([Published in TRR](https://doi.org/10.1177/03611981251333341); Accepted by TRB2024 and CICTP 2023 for presentation)<br/>
   - Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
   - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
 <div align="center">
@@ -87,7 +87,19 @@ The model performance regarding different metrics<br/>
   - Objective: To efficiently detect abnormal driving behaviour using semi-supervised ML with partly labelled data
   - Developed a Hierarchical Extreme Learning Machines (HELM) based semi-supervised ML method
   - Introduced and verified Surrogate Safety Measures (SSMs) （2D-TTC) as the prominent input features for enhancing the detection performance
+<div align="center">
+<img src='/images/LanerenderingAnomalies.png' width="909"><br/>
+Seven types of anomalies<br/><br/>
 
+<img src='/images/UM.png' width="879"><br/>
+The illustration of the Uniform Masking method pipeline for MiM of lane rendering images<br/><br/>
+
+<img src='/images/BEiT.png' width="879"><br/>
+The illustration of the BEiT method pipeline for MiM of lane rendering images<br/><br/>
+
+<img src='/images/LRAnomalyResults.png' width="879"><br/>
+The model performance regarding different metrics<br/>
+</div> 
 
 
 * **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published in ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235), [Recorded Video Presentation](https://youtu.be/melrgznLXP0))
