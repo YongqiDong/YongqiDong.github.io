@@ -73,10 +73,10 @@ The framework of the proposed three-phase pipeline
 <img src='/images/LanerenderingAnomalies.png' width="909"><br/>
 Seven types of anomalies<br/><br/>
 
-<img src='/images/UM.png' width="879"><br/>
+<img src='/images/UM.png' width="909"><br/>
 The illustration of the Uniform Masking method pipeline for MiM of lane rendering images<br/><br/>
 
-<img src='/images/BEiT.png' width="879"><br/>
+<img src='/images/BEiT.png' width="909"><br/>
 The illustration of the BEiT method pipeline for MiM of lane rendering images<br/><br/>
 
 <img src='/images/LRAnomalyResults.png' width="879"><br/>
@@ -88,10 +88,10 @@ The model performance regarding different metrics<br/>
   - Developed a Hierarchical Extreme Learning Machines (HELM) based semi-supervised ML method
   - Introduced and verified Surrogate Safety Measures (SSMs) （2D-TTC) as the prominent input features for enhancing the detection performance
 <div align="center">
-<img src='/images/HELM.png' width="1009"><br/>
+<img src='/images/HELM.png' width="909"><br/>
 The framework of HELM-based semi-supervised machine learning method<br/><br/>
 
-<img src='/images/DrivingAnomalyResults.png' width="999"><br/>
+<img src='/images/DrivingAnomalyResults.png' width="909"><br/>
 Comparison model performance results under different settings<br/><br/>
 
 </div> 
