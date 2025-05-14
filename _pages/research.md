@@ -78,6 +78,9 @@ The illustration of the Uniform Masking method pipeline for MiM of lane renderin
 
 <img src='/images/BEiT.png' width="879"><br/>
 The illustration of the BEiT method pipeline for MiM of lane rendering images<br/>
+
+<img src='/images/LRAnomalyResults.png' width="879"><br/>
+The model performance regarding different metrics<br/>
 </div> 
 
 * **Data-driven Semi-supervised Machine Learning with Safety Indicators for Abnormal Driving Behavior Detection** ([Published in TRR](https://doi.org/10.1177/03611981241306752); Accepted by and presented at TRB2024)<br/>
