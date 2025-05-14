@@ -99,7 +99,7 @@ Comparison model performance results under different settings<br/><br/>
 
 * **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published in ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235), [Recorded Video Presentation](https://youtu.be/melrgznLXP0))
 <div align="center">
-<img src='/images/DAE_Semi_ML_Framework.jpg' width="909"><br/>
+<img src='/images/DAE_Semi_ML_Framework.jpg' width="809"><br/>
 Framework of deep autoencoder based semi-supervised method<br/><br/>
 <img src='/images/CAN_AnomalyDetectionResults.png' width="909"><br/>
 CAN Bus data anomaly detection results: model performance comparison<br/>
@@ -119,7 +119,7 @@ Social-aware Planning and Control for Automated Vehicles based on DRF-SVO-MPCC
 
 * **Comprehensive Training and Evaluation on Deep Reinforcement Learning for Automated Driving in Various Simulated Driving Maneuvers** ([Published in _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422159))
 <div align="center">
-<img src='/images/DRL-Comparison.png' width="879"><br/>
+<img src='/images/DRL-Comparison.png' width="909"><br/>
 Illustration of the DRL MDP system framework
 </div> 
 <br/>
@@ -157,7 +157,7 @@ Dynamic spatial-temporal service patterns
   - The NMF method is more appropriate than PCA in extracting spatial-temporal patterns in transportation research 
 
 <div align="center">
-<img src='/images/BikeSharing.png' width="799"><br/>
+<img src='/images/BikeSharing.png' width="809"><br/>
 Extracted basis collective patterns of bike-sharing by non-negative matrix factorization<br/>
 </div> 
 
