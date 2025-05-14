@@ -70,14 +70,16 @@ The framework of the proposed three-phase pipeline
   - Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
   - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
 <div align="center">
-<img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
-Framework of deep autoencoder based semi-supervised method<br/><br/>
-<img src='/images/CAN_AnomalyDetectionResults.png' width="799"><br/>
-CAN Bus data anomaly detection results: model performance comparison<br/>
+<img src='/images/LanerenderingAnomalies.png' width="799"><br/>
+Seven types of anomalies<br/><br/>
+
+<img src='/images/UM.png' width="799"><br/>
+The illustration of the Uniform Masking method pipeline for MiM of lane rendering images<br/>
+
+<img src='/images/BEiT.png' width="799"><br/>
+The illustration of the BEiT method pipeline for MiM of lane rendering images<br/>
 </div> 
 
-
-<br/>
 * **Data-driven Semi-supervised Machine Learning with Safety Indicators for Abnormal Driving Behavior Detection** ([Published in TRR](https://doi.org/10.1177/03611981241306752); Accepted by and presented at TRB2024)<br/>
   - Objective: To efficiently detect abnormal driving behaviour using semi-supervised ML with partly labelled data
   - Developed a Hierarchical Extreme Learning Machines (HELM) based semi-supervised ML method
