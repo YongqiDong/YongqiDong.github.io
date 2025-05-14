@@ -101,7 +101,7 @@ Comparison model performance results under different settings<br/><br/><br/>
 <div align="center">
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="809"><br/>
 Framework of deep autoencoder based semi-supervised method<br/><br/>
-<img src='/images/CAN_AnomalyDetectionResults.png' width="863"><br/>
+<img src='/images/CAN_AnomalyDetectionResults.png' width="809"><br/>
 CAN Bus data anomaly detection results: model performance comparison<br/><br/>
 </div> 
 
