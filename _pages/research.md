@@ -65,6 +65,27 @@ The framework of the proposed three-phase pipeline
 <br/>
 
 **Anomaly Detection**
+
+* **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** (Published in TRR; Accepted by TRB2024 and CICTP 2023 for presentation)<br/>
+  - Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
+  - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
+<div align="center">
+<img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
+Framework of deep autoencoder based semi-supervised method<br/><br/>
+<img src='/images/CAN_AnomalyDetectionResults.png' width="799"><br/>
+CAN Bus data anomaly detection results: model performance comparison<br/>
+</div> 
+
+
+<br/>
+* **Data-driven Semi-supervised Machine Learning with Safety Indicators for Abnormal Driving Behavior Detection** ([Published in TRR](https://doi.org/10.1177/03611981241306752); Accepted by and presented at TRB2024)<br/>
+  - Objective: To efficiently detect abnormal driving behaviour using semi-supervised ML with partly labelled data
+  - Developed a Hierarchical Extreme Learning Machines (HELM) based semi-supervised ML method
+  - Introduced and verified Surrogate Safety Measures (SSMs) （2D-TTC) as the prominent input features for enhancing the detection performance
+
+
+
+<br/>
 * **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published in ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235), [Recorded Video Presentation](https://youtu.be/melrgznLXP0))
 <div align="center">
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
@@ -73,16 +94,7 @@ Framework of deep autoencoder based semi-supervised method<br/><br/>
 CAN Bus data anomaly detection results: model performance comparison<br/>
 </div> 
 
-<br/>
 
-* **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning** (Accepted by TRB2024 and CICTP 2023 for presentation)<br/>
-  - Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
-  - Developed and implemented a 4-phase pipeline incorporating data pre-processing, self-supervised pre-training with the masked image modelling (MiM) method, customized fine-tuning with cross-entropy loss (or its variants), and post-processing
-
-* **Data-driven Semi-supervised Machine Learning with Surrogate Safety Measures for Abnormal Driving Behavior Detection** (Accepted by and presented at TRB2024)<br/>
-  - Objective: To efficiently detect abnormal driving behaviour using semi-supervised ML with partly labelled data
-  - Developed a Hierarchical Extreme Learning Machines (HELM) based semi-supervised ML method
-  - Introduced and verified Surrogate Safety Measures (SSMs) as the prominent input features for enhancing the detection performance
 
 ## Deep Reinforcement Learning for Controlling and Decision-making
 
