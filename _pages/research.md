@@ -73,7 +73,7 @@ The framework of the proposed three-phase pipeline
 <img src='/images/LanerenderingAnomalies.png' width="909"><br/>
 Seven types of anomalies<br/><br/>
 
-<img src='/images/UM.png' width="879"><br/>
+<img src='/images/UM.png' width="863"><br/>
 The illustration of the Uniform Masking method pipeline for MiM of lane rendering images<br/><br/>
 
 <img src='/images/BEiT.png' width="909"><br/>
@@ -126,11 +126,10 @@ Illustration of the DRL MDP system framework
 
 * **Safe, Efficient, Comfort, and Energy-Saving Automated Driving Through Roundabout Based on Deep Reinforcement Learning** ([Published in _the 26th IEEE International Conference on Intelligent Transportation Systems_, ITSC 2023](http://dx.doi.org/10.1109/ITSC57777.2023.10422488))
 <div align="center">
-<img src='/images/DRL-Roundabout.png' width="789"><br/>
+<img src='/images/DRL-Roundabout.png' width="909"><br/>
 The overall architecture of DRL for automated driving through roundabouts
 </div> 
 <br/>
-
   
 ## Big Data Analytics for Spatial-temporal Pattern Mining in Shared Mobility
 * **An Empirical Study on Travel Patterns of Internet Based Ride-Sharing** ([Published in TR_C](https://doi.org/10.1016/j.trc.2017.10.022))<br/>
