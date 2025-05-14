@@ -19,7 +19,7 @@ My current research centres around three main pillars, i.e., <br/>
 
 * **A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection** ([Published in CACIE](https://doi.org/10.1111/mice.12829))
 <div align="center">
-<img src='/images/CACIE-ST-NN.png' width="879"><br/>
+<img src='/images/CACIE-ST-NN.png' width="909"><br/>
 The architecture of the proposed hybrid spatial-temporal sequence-to-one spatial-temporal neural network model
 </div> 
 <br/>
@@ -33,14 +33,14 @@ Lane detection results testing on the tvtLANE dataset
 * **Sequential Neural Network Model with Spatial-Temporal Attention Mechanism for Robust Lane Detection Using Multi Continuous Image Frames** (Under view by TR_C and accepted by TRB 2023)
 
 <div align="center">
-<img src='/images/TRC-ST-Att-VVV369.png' width="879"><br/>
+<img src='/images/TRC-ST-Att-VVV369.png' width="909"><br/>
 The architecture of the proposed sequential neural network model with spatial-temporal attention mechanism
 </div> 
 <br/>
 
 <div align="center">
-<img src='/images/LLAMAS.png' width="879"><br/>
-Lane detection result testing on LLAMAS dataset <br/>
+<img src='/images/LLAMAS.png' width="909"><br/>
+Lane detection results testing on LLAMAS dataset <br/>
 </div> 
 
 <div align="right">
@@ -53,14 +53,14 @@ Lane detection results testing on tvtLANE test set #2 (12 challenging situations
 
 * **Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss** ([Published in IEEE-T-ITS](https://doi.org/10.1109/TITS.2023.3305015) and [presented at TRB 2023](https://research.tudelft.nl/en/publications/robust-lane-detection-through-self-pre-training-with-masked-seque))
 <div align="center">
-<img src='/images/Self-PreSMAE.png' width="879"><br/>
+<img src='/images/Self-PreSMAE.png' width="909"><br/>
 The framework of the proposed three-phase pipeline
 </div> 
 <br/>
 
 <div align="center">
 <img src='/images/normal_result1.jpg' width="879"><br/>
-<a href="https://youtu.be/p10oaCRmst0">Lane detection result testing on TUSimple dataset </a>
+<a href="https://youtu.be/p10oaCRmst0">Lane detection results testing on TUSimple dataset </a>
 </div> 
 <br/>
 
@@ -79,7 +79,7 @@ The illustration of the Uniform Masking method pipeline for MiM of lane renderin
 <img src='/images/BEiT.png' width="909"><br/>
 The illustration of the BEiT method pipeline for MiM of lane rendering images<br/><br/>
 
-<img src='/images/LRAnomalyResults.png' width="879"><br/>
+<img src='/images/LRAnomalyResults.png' width="909"><br/>
 The model performance regarding different metrics<br/>
 </div> 
 
@@ -99,9 +99,9 @@ Comparison model performance results under different settings<br/><br/>
 
 * **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network** ([Published in ITSC 2022](https://doi.org/10.1109/ITSC55140.2022.9922235), [Recorded Video Presentation](https://youtu.be/melrgznLXP0))
 <div align="center">
-<img src='/images/DAE_Semi_ML_Framework.jpg' width="799"><br/>
+<img src='/images/DAE_Semi_ML_Framework.jpg' width="909"><br/>
 Framework of deep autoencoder based semi-supervised method<br/><br/>
-<img src='/images/CAN_AnomalyDetectionResults.png' width="799"><br/>
+<img src='/images/CAN_AnomalyDetectionResults.png' width="909"><br/>
 CAN Bus data anomaly detection results: model performance comparison<br/>
 </div> 
 
