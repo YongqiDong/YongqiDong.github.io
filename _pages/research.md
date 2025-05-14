@@ -80,7 +80,7 @@ The illustration of the Uniform Masking method pipeline for MiM of lane renderin
 The illustration of the BEiT method pipeline for MiM of lane rendering images<br/><br/>
 
 <img src='/images/LRAnomalyResults.png' width="909"><br/>
-The model performance regarding different metrics<br/>
+The model performance regarding different metrics<br/><br/><br/>
 </div> 
 
 * **Data-driven Semi-supervised Machine Learning with Safety Indicators for Abnormal Driving Behavior Detection** ([Published in TRR](https://doi.org/10.1177/03611981241306752); Accepted by and presented at TRB2024)<br/>
@@ -92,7 +92,7 @@ The model performance regarding different metrics<br/>
 The framework of HELM-based semi-supervised machine learning method<br/><br/>
 
 <img src='/images/DrivingAnomalyResults.png' width="909"><br/>
-Comparison model performance results under different settings<br/><br/>
+Comparison model performance results under different settings<br/><br/><br/>
 
 </div> 
 
@@ -102,7 +102,7 @@ Comparison model performance results under different settings<br/><br/>
 <img src='/images/DAE_Semi_ML_Framework.jpg' width="809"><br/>
 Framework of deep autoencoder based semi-supervised method<br/><br/>
 <img src='/images/CAN_AnomalyDetectionResults.png' width="863"><br/>
-CAN Bus data anomaly detection results: model performance comparison<br/>
+CAN Bus data anomaly detection results: model performance comparison<br/><br/>
 </div> 
 
 
