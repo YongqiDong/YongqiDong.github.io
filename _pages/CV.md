@@ -45,6 +45,8 @@ Professional Services
   * Applied Ergonomics<br/>
   * Journal of Internet Technology<br/>
   * European Transport Research Review<br/>
+  * Discover Artificial Intelligence<br/>
+  * International Journal of Computational Intelligence Systems<br/>
   * ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering<br/>
   
   
