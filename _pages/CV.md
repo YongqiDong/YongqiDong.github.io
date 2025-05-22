@@ -20,7 +20,7 @@ Education
 Professional Services 
 ======
 * **Technical Committee Chair** <br/>
- 	* [Automated Mobility in Mixed Traffic](https://ieee-itss.org/chapters-committees/automated-mobility-in-mixed-traffic/) | IEEE ITSS | _May.2024-Present_ <br/> 
+ 	* [Automated Mobility in Mixed Traffic | IEEE ITSS](https://ieee-itss.org/chapters-committees/automated-mobility-in-mixed-traffic/) | _May.2024-Present_ <br/> 
  	   Establishing the interdisciplinary TC community of "[Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/)" <br/>
      
 * **Workshop Organizer** <br/>
