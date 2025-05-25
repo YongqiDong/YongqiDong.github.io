@@ -30,7 +30,9 @@ My group is <mark style="background-color: SpringGreen">actively seeking PhD stu
 Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aachen.de) for research discussion and possible collaboration! 
 
 
-# Past and On-going Thesis Supervision
+# Past and Ongoing Thesis Supervision
+- Bashar Saadeh, Master of Science in Traffic Engineering and Mobility, RWTH Aachen University, Thesis title: _**Developing socially compliant automated vehicles in mixed traffic: Insights from a questionnaire-based survey**_, *Nov.2024-Ongoing* <br/>
+
 - Yuteng Zhang, Master of Science in Transport, Infrastructure & Logistics, TU Delft, Thesis title: [_Coordinated Planning and Control for Connected and Automated Vehicles' On-ramp Merging in Mixed Traffic Through Value Decomposition-based Multiagent Deep Reinforcement Learning_](https://repository.tudelft.nl/record/uuid:6c59ac02-e110-434b-9e93-3999c23dbcf7), *Jan.2024-Nov.2024* <br/>
 
 - Cesar Flores Reyna, Master of Science in Sustainable Mobility Transitions, within the EIT program, TU/e, Thesis title: _Investigating a Benchmarking Framework for the Large-Scale Micro Simulator (LSMS) Platform in  Freeways under Dynamic Speed Limits_, *Jan.2024-Nov.2024* <br/>
