@@ -35,6 +35,7 @@ Professional Services
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>  
   * International Journal of Computer Vision<br/>
+  * IEEE Intelligent Transportation Systems Magazine<br/>
   * IEEE Transactions on Intelligent Transportation Systems<br/>
   * IEEE Open Journal of Intelligent Transportation Systems<br/>
   * Transportation Letters: the International Journal of Transportation Research<br/>
@@ -61,8 +62,9 @@ Professional Services
   - The International Symposium on Transport Network Resilience (INSTR)<br/>
   
 * 2024.06-Present: **Research Group Leader**, AI & Automated Mobility Group, RWTH Aachen University<br/>
-* 2023.05-2023.10:  **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
-* 2019.12-2024.06:  **Ph.D. Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
+* 2025.05-Present: **Guest Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
+* 2023.05-2023.10: **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
+* 2019.12-2024.06: **Ph.D. Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
 * 2018.05-2019.09: **Research Assistant**, Waterloo Artificial Intelligence Institute, iTSS Lab, University of Waterloo <br/>
 * 2014.09-2018.05: **Research Assistant**, Intelligent Transportation System Lab, TNList, Tsinghua University <br/>
 * 2016.08-2016.09: **Research Intern**, [Singapore-MIT Alliance for Research and Technology (SMART)](https://smart.mit.edu/) <br/>
