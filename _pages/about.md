@@ -110,7 +110,7 @@ Archived Highlights
 - 09/2022: I received the [IEEE ITSS Young Professionals Travelling Fellowship](https://ieee-itss.org/yp-travelling-fellowship-program-2022/#:~:text=Young%20Professionals%20Travelling%20Fellowship%20Program%202022&text=Candidates%20can%20send%20applications%20by,account%20cooperative%20and%20automated%20mobility). I will present the topic *Multi-goal Proactive Traffic Management for Mixed Traffic of Automated Vehicles and Human-driven Vehicles* on 25 November 2022, in Chania, Greece.
 - 09/2022: I attended the [TRAIL Ph.D. Congress 2022](https://rstrail.nl/program-trail-phd-congress-2022/) and presented my work there.
 - 09/2022: Our paper [Aspects to Consider for Modeling Automated Driving in Microscopic Traffic Simulations: State of the Practice and Research Needs](https://doi.org/10.1109/TITS.2022.3200176) is published in the journal of *IEEE Transactions on Intelligent Transportation Systems*. 
-- 02/2022: My paper [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829) is published in the journal of *Computer-Aided Civil and Infrastructure Engineering*, demo videos are provided in [{Video1}](https://youtu.be/p10oaCRmst0) and [{Video2}](https://youtu.be/67eMeFn5oi8). 
+- 02/2022: My paper [A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection](https://doi.org/10.1111/mice.12829) is published in the journal of *Computer-Aided Civil and Infrastructure Engineering*, demo videos are available at [{Video1}](https://youtu.be/p10oaCRmst0) and [{Video2}](https://youtu.be/67eMeFn5oi8). 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>  
 
