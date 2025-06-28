@@ -50,7 +50,8 @@ News
 
 Miscellany 
 ======
-I am a vegetarian (especially when self-cooking) and a minimalist. I like Taichi, reading, and travelling. <br/> I regularly practice meditation to pursue the Inner Peace. <br/> I see travelling, reading, and meditation all as ways to explore the world, externally and internally, and they help stimulate my research inspirations. <br/>
+Inspired by [Vivian Kong (江旻憓)](https://en.wikipedia.org/wiki/Vivian_Kong) and [her style](https://www.instagram.com/reel/CdSILC1Iadt/), I follow a mostly vegetarian lifestyle, especially when cooking by myself, and embrace minimalism. I enjoy practicing Tai Chi, meditation, reading, and traveling in nature. <br/> 
+I view travelling, reading, and meditation all as pathways to explore the world, both externally and internally, and they spark inspiration for my research. <br/>
 
 ***Quotes***:<br/>
 "If anything is worth doing, do it with all your heart."<br/>
