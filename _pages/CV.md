@@ -35,9 +35,11 @@ Professional Services
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>  
   * International Journal of Computer Vision<br/>
+  * Accident Analysis & Prevention
   * IEEE Intelligent Transportation Systems Magazine<br/>
   * IEEE Transactions on Intelligent Transportation Systems<br/>
   * IEEE Open Journal of Intelligent Transportation Systems<br/>
+  * Transportation Research Part C: Emerging Technologies
   * Transportation Letters: the International Journal of Transportation Research<br/>
   * Journal of Intelligent Transportation Systems: Technology, Planning, and Operations<br/>   	
   * Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
