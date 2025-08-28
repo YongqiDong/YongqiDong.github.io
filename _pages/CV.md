@@ -35,6 +35,7 @@ Professional Services
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>  
   * International Journal of Computer Vision<br/>
+  * Pattern Recognition
   * Accident Analysis & Prevention
   * IEEE Intelligent Transportation Systems Magazine<br/>
   * IEEE Transactions on Intelligent Transportation Systems<br/>
