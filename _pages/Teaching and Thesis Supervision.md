@@ -49,7 +49,7 @@ Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aa
 
 # Course and Project Supervision
 - **Project supervisor**, Course: Fundamentals of Artificial Intelligence Programme (2023/2024) [IFEEMCS520100](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=67107), EEMCS, TU Delft, *Sep.2023-Nov.2023*
-- **Project supervisor**, Course: Interdisciplinary Advanced Artificial Intelligence Project (2023/2024) [IFEEMCS520200](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=64317), EEMCS, TU Delft, *Sep.2023-Nov.2023*
+- **Project supervisor**, Course: Interdisciplinary Advanced Artificial Intelligence Project (2023/2024) [IFEEMCS520200](https://www.tudelft.nl/en/ai/education/ai-education-students/advanced-interdisciplinary-ai-project-2024-2025), EEMCS, TU Delft, *Sep.2023-Nov.2023*
 - **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://studiegids.tudelft.nl/courses/study-guide/educations/14274), EEMCS, TU Delft, *Mar.2023*
 - **Project supervisor**, Course: Capstone Applied AI Project [T13150TU](https://studiegids.tudelft.nl/courses/study-guide/educations/13678), 2022-2023 & 2023-2024  EEMCS, TU Delft, *Nov.2022-Feb.2023 & Nov.2023- Feb.2024*
 - **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022 & Mar.2023*
