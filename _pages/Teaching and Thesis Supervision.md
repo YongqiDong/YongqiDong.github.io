@@ -53,7 +53,7 @@ Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aa
 - **Guest lecturer**, Course: Computational Intelligence [CSE2530](https://studiegids.tudelft.nl/courses/study-guide/educations/14274), EEMCS, TU Delft, *Mar.2023*
 - **Project supervisor**, Course: Capstone Applied AI Project [T13150TU](https://studiegids.tudelft.nl/courses/study-guide/educations/13678), 2022-2023 & 2023-2024  EEMCS, TU Delft, *Nov.2022-Feb.2023 & Nov.2023- Feb.2024*
 - **Teaching Assistant & Instructor**, Course: Advanced Lecture "Trends in Transportation", TU Delft and BJTU joint Bachelor program,    *Mar.2022 & Mar.2023*
-- **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47890), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
+- **Teaching Assistant**, Course: Intelligent Vehicles for Safe and Efficient Traffic [CIE5805](https://studiegids.tudelft.nl/courses/study-guide/educations/18924), Transport and Planning, TU Delft,          *Apr.2020-Aug.2020 & Apr.2021-Aug.2021*
 - **Teaching Assistant**, Course: Data Ethics, Department of Automation, Tsinghua University,          *Sep.2016-Jan.2017*
 - **Teaching and Lab Assistant**, Course: Advanced Labs in Electronic Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2016-Jul.2016*
 - **Teaching and Lab Assistant**, Course: Fundamentals of Electronics Power Technology, Electrical and Electronic Lab Center, Tsinghua University,          *Mar.2015-Jul.2015*
