@@ -63,7 +63,7 @@ Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aa
 # Mentorship
 - Undergraduate Counselor (Class 201204), School of Electronic and Information Engineering, Beijing Jiaotong University, *Jul.2012-Jul.2014*
 
-I have mentored and collaborated with multiple undergraduate, master, and junior Ph.D. students over several research projects in the past few years. Please refer to my [CV](https://yongqidong.github.io/files/Dong_Yongqi-CV.pdf) for detailed information. 
+I have mentored and collaborated with multiple undergraduate, master's, and junior Ph.D. students over several research projects in the past few years. Please refer to my [CV](https://yongqidong.github.io/files/Dong_Yongqi-CV.pdf) for detailed information. 
 
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=698&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
