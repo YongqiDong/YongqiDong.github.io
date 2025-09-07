@@ -17,7 +17,9 @@ My group is <mark style="background-color: SpringGreen">actively seeking PhD stu
 - Smart Logistics & Delivery Robots
 - Lane Detection, Object Detection & Tracking
 - Multi-modal Data Fusion & Data Mining in Transportation Research
-- Deep Learning/Reinforcement Learning/Large Language Models for Automated Mobility
+- Vision-Language Model (VLM) and Vision-Language-Action (VLA)
+- Retrieval-Augmented Generation (RAG) for Domain Knowledge Embedding
+- Deep Learning/Reinforcement Learning/VLM & VLA + RAG for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
   
 **Opening Master Thesis Project Topics**  
