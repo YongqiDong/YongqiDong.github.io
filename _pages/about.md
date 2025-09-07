@@ -21,7 +21,9 @@ Our group is <mark style="background-color: SpringGreen">actively seeking PhD st
 - Smart Logistics & Delivery Robots
 - Lane Detection, Object Detection & Tracking
 - Multi-modal Data Fusion & Data Mining in Transportation Research
-- Deep Learning/Reinforcement Learning/Large Language Models for Automated Mobility
+- Vision-Language Model (VLM) and Vision-Language-Action (VLA)
+- Retrieval-Augmented Generation (RAG) for Domain Knowledge Embedding
+- Deep Learning/Reinforcement Learning/VLM & VLA + RAG for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
 
 Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aachen.de) for research discussion and possible collaboration! 
