@@ -20,7 +20,7 @@ Education
 Professional Services 
 ======
 * **Special Issue Guest Editor** <br/>
- 	* [IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS) Special Issue Guest Editor ](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
+ 	* [IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS) Special Issue Guest Editor](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
  	   Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
 
 * **Technical Committee Chair** <br/>
