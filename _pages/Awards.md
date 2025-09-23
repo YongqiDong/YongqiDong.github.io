@@ -7,6 +7,7 @@ author_profile: true
 
 # Selected Awards and Scholarships
 
+- 2025 Entrepreneurs Next Star & Million Prize Global Challenge (German AI+ Deep-Tech) Third Price (6,000 €)
 - TU Delft-Transport Institute Interdisciplinary Research Award (**10,500 €**)
 - [Chinese Government Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing)
 - [2024 IEEE ITSS New Initiatives Proposal Funding](https://ieee-itss.org/call-for-2024-new-initiatives-proposals/#:~:text=IEEE%20ITSS%20is%20opening%20its,completed%20by%20December%2031%2C%202024) (**5,000 $**)
