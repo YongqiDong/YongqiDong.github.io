@@ -7,11 +7,11 @@ author_profile: true
 
 # Selected Awards and Scholarships
 
-- 2025 Entrepreneurs Next Star & Million Prize Global Challenge (German AI+ Deep-Tech) Third Price (6,000 €)
+- 2025 Entrepreneurs Next Star & Million Prize Global Challenge (German AI+ Deep-Tech) Third Price (**6,000 €**)
 - TU Delft-Transport Institute Interdisciplinary Research Award (**10,500 €**)
-- [Chinese Government Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing) (5,000 $)
+- [Chinese Government Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing) (**5,000 $**)
 - [2024 IEEE ITSS New Initiatives Proposal Funding](https://ieee-itss.org/call-for-2024-new-initiatives-proposals/#:~:text=IEEE%20ITSS%20is%20opening%20its,completed%20by%20December%2031%2C%202024) (**5,000 $**)
-- Erasmus + mobility Grants (**Several times**)
+- Erasmus + mobility Grants (**Two times**)
 - 2024 IEEE ITSC Conference Support Program for Fostering Diversity (Award of 700 $)
 - [2023 Fellowships for Young Researchers, Promoting Diversity and Leadership in ITS](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/)
 - [IEEE SMC Conference Grant](https://ieeesmc2023.org/grants/)
@@ -21,7 +21,7 @@ author_profile: true
 - First Class Tsinghua University RONG Scholarship
 - **National Scholarship (Top 1%)**
 - First-Class Academic Fellowship (**Top 1%, Twice**)
-- Second-Class Merit Scholarship for Masters Tsinghua University
+- Second-Class Merit Scholarship for Master's Students at Tsinghua University
 - Second-Class Academic Fellowship (Top 3%)
 - Merit Student (Four times)
 - Second Prize of Innovation Awards by the School of Science
