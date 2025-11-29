@@ -50,6 +50,7 @@ Professional Services
   * Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
   * International Journal of Human-Computer Interaction<br/>
   * Journal of Advanced Transportation<br/>
+  * IET Intelligent Transport Systems<br/>
   * Applied Ergonomics<br/>
   * Journal of Internet Technology<br/>
   * European Transport Research Review<br/>
