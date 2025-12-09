@@ -30,7 +30,8 @@ Professional Services
 * **Workshop Organizer** <br/>
  	* IEEE Intelligent Vehicles Symposium ([IV 2023](https://2023.ieee-iv.org/)) <br/> 
  	   [Development of Socially-compliant Driving Behaviour for Automated Vehicles to Enhance Safety and Efficiency in Mixed Traffic](https://sites.google.com/view/mixedtraffic-iv2023/) <br/>
- 	* IEEE International Conference on Intelligent Transportation Systems ([ITSC 2024](https://ieee-itsc.org/2024/) and [ITSC 2023](https://2023.ieee-itsc.org/) ) <br/>
+ 	* IEEE International Conference on Intelligent Transportation Systems ([ITSC 2025](https://www.itsc2025.mixedtraffic.org/), [ITSC 2024](https://ieee-itsc.org/2024/), and [ITSC 2023](https://2023.ieee-itsc.org/) ) <br/>
+     [Automated Mobility in Mixed Traffic: Emerging Mixed Autonomy in the Era of AI](https://www.itsc2025.mixedtraffic.org/) <br/>
      [Automated Mobility in Emerging Mixed Traffic](https://www.itsc2024.mixedtraffic.org/) <br/>
      [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
 
