@@ -7,6 +7,7 @@ author_profile: true
 
 # Selected Awards and Scholarships
 
+- 2025-2026 RWTH Aachen Theodore von Kármán Fellowship for Outgoing Scholars (**7,362 €**)
 - 2025 Entrepreneurs Next Star & Million Prize Global Challenge (German AI+ Deep-Tech) Third Price (**6,000 €**)
 - TU Delft-Transport Institute Interdisciplinary Research Award (**10,500 €**)
 - [Chinese Government Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing) (**5,000 $**)
