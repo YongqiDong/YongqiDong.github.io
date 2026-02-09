@@ -9,8 +9,10 @@ author_profile: true
 
 - 2025-2026 RWTH Aachen Theodore von Kármán Fellowship for Outgoing Scholars (**7,362 €**)
 - 2025 Entrepreneurs Next Star & Million Prize Global Challenge (German AI+ Deep-Tech) Third Price (**6,000 €**)
+- 2025 Outstanding Innovation & Entrepreneurship Award for Chinese Overseas Scholars (Chunhui Program)
+- 2025 Seed Track Winner of Changping Digital Economy Science and Technology Innovation Competition (CDIC) 
 - TU Delft-Transport Institute Interdisciplinary Research Award (**10,500 €**)
-- [Chinese Government Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing) (**5,000 $**)
+- [Chinese Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing) (**5,000 $**)
 - [2024 IEEE ITSS New Initiatives Proposal Funding](https://ieee-itss.org/call-for-2024-new-initiatives-proposals/#:~:text=IEEE%20ITSS%20is%20opening%20its,completed%20by%20December%2031%2C%202024) (**5,000 $**)
 - Erasmus + mobility Grants (**Two times**)
 - 2024 IEEE ITSC Conference Support Program for Fostering Diversity (Award of 700 $)
