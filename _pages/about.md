@@ -62,7 +62,7 @@ September 15-18, 2026 – Naples, Italy. We invite high-quality research contrib
 
 Miscellany 
 ======
-Inspired by [Vivian Kong (江旻憓)](https://en.wikipedia.org/wiki/Vivian_Kong) and [her style](https://www.instagram.com/reel/CdSILC1Iadt/), I follow a mostly vegetarian lifestyle (especially when cooking by myself) and embrace minimalism. I enjoy practicing Tai Chi, meditation, reading, and traveling in nature. <br/> 
+Inspired by [Vivian Kong (江旻憓)](https://en.wikipedia.org/wiki/Vivian_Kong) and [her style](https://www.instagram.com/reel/CdSILC1Iadt/), I follow a mostly vegetarian & sustainable lifestyle (especially when cooking by myself) alongside a minimalist mindset. I enjoy practicing Tai Chi, meditation, reading, and traveling in nature. <br/> 
 I view travelling, reading, and meditation all as pathways to explore the world, both externally and internally, and they spark inspiration for my research. <br/>
 
 ***Quotes***:<br/>
