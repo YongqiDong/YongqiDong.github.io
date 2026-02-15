@@ -45,6 +45,7 @@ For more information, please refer to my [CV](https://yongqidong.github.io/files
 
 News 
 ======
+-**01/2026**: I received the RWTH Aachen Theodore von Kármán Fellowship for Outgoing Scholars (7,362 €). It will support my research visit to Monash University, Australia.
 - **10/2025**:🚗 Excited to announce the publication of our new paper, [_Toward Developing Socially Compliant Automated Vehicles: Advances, Expert Insights, and A Conceptual Framework_](https://doi.org/10.1016/j.commtr.2025.100207), in the journal of _Communications in Transportation Research_! The work presents a conceptual framework for socially compliant automated vehicles (SCAVs), paving the way for AVs that not only _drive safely_ but also _drive socially_.  
 [🔗DOI: 10.1016/j.commtr.2025.100207](https://doi.org/10.1016/j.commtr.2025.100207).
 - **09/2025**:🚦Exciting news! We are guest editing a Special Issue on **_AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_** in _IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)_. We invite high-quality research contributions exploring how AI can advance sensing, perception, planning, and control in mixed traffic environments.  
