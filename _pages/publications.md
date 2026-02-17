@@ -57,8 +57,8 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
  
    
 ## Workshops
-1. **Dong, Y.**, Rahmani, S., Martínez, I., Wang, Y., Kattan, L., Pei, X., and Farah, H. (2024). "[Automated Mobility in Emerging Mixed Traffic
-](https://www.itsc2024.mixedtraffic.org/)" in *27th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2024).
+1. **Dong, Y.**, Wang, Y., Rahmani, S., Fu, Z., Martínez, I.,  Zheng, Z., Ngoduy, D., and Li, L. (2025). "[Automated Mobility in Emerging Mixed Traffic: Emerging Mixed Autonomy in the Era of AI
+](https://www.itsc2025.mixedtraffic.org/)" in *28th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2025).
 2. **Dong, Y.**, Rahmani, S., Martínez, I., Wang, Y., Kattan, L., Pei, X., and Farah, H. (2024). "[Automated Mobility in Emerging Mixed Traffic
 ](https://www.itsc2024.mixedtraffic.org/)" in *27th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2024).
 3. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://sites.google.com/berkeley.edu/iv2023/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).  
