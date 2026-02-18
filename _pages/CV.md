@@ -66,7 +66,7 @@ Professional Services
   
   
   **Conferences and Proceedings**<br/>
-  - IEEE Intelligent Transportation Systems Conference (ITSC) \|Associate editor, Session Chair<br/>
+  - IEEE Intelligent Transportation Systems Conference (ITSC) \| Associate editor, Session Chair<br/>
   - IEEE Intelligent Vehicles Symposium (IV) \| Associate editor<br/>
   - Transportation Research Board Annual Meeting (TRB)<br/>
   - World Congress on Intelligent Control and Automation (WCICA)<br/>
