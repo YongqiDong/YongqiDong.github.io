@@ -19,7 +19,7 @@ Education
 
 Professional Services 
 ======
-* **Special Issue Guest Editor** <br/>
+* **Special Issue Leading Guest Editor** <br/>
  	* [IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS) Special Issue Guest Editor](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
  	   Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
 
@@ -66,8 +66,8 @@ Professional Services
   
   
   **Conferences and Proceedings**<br/>
+  - IEEE Intelligent Transportation Systems Conference (ITSC) \|Associate editor<br/>
   - IEEE Intelligent Vehicles Symposium (IV) \| Associate editor<br/>
-  - IEEE Intelligent Transportation Systems Conference (ITSC)<br/>
   - Transportation Research Board Annual Meeting (TRB)<br/>
   - World Congress on Intelligent Control and Automation (WCICA)<br/>
   - COTA International Conference of Transportation Professionals (CICTP)<br/>
