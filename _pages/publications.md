@@ -61,7 +61,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 ](https://www.itsc2025.mixedtraffic.org/)" in *28th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2025).
 2. **Dong, Y.**, Rahmani, S., Martínez, I., Wang, Y., Kattan, L., Pei, X., and Farah, H. (2024). "[Automated Mobility in Emerging Mixed Traffic
 ](https://www.itsc2024.mixedtraffic.org/)" in *27th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2024).
-3. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://sites.google.com/berkeley.edu/iv2023/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).  
+3. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://www.iv2023.mixedtraffic.org/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).  
 4. Wang, Y., **Dong, Y.**, Rahmani, S., Martínez, I., Farah, H., Pei, X., Jia, Sh., Yu, R., Zhu M., and Stern, R. (2023). "[Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/)" in *26th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2023).  
 
 
