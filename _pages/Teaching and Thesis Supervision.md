@@ -11,6 +11,7 @@ My group is <mark style="background-color: SpringGreen">actively seeking PhD stu
 - Mixed-Autonomy Traffic 
 - Driving Risk Modelling
 - Transport & Traffic Safety
+- World Model for Automated Driving
 - Socially Compliant Decision-making
 - Multi-agent Deep Reinforcement Learning
 - Shared Smart & Sustainable Mobility
