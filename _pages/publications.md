@@ -39,7 +39,7 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
 16. **Dong, Y.**, Zhang, Z., Fu, R., & Xie, N. (2016). [Revealing New York Taxi Drivers' Operation Patterns Focusing on the Revenue Aspect](https://doi.org/10.1109/WCICA.2016.7578771). In *12th World Congress on Intelligent Control and Automation* (WCICA), (pp. 1052-1057). IEEE. 
  	
 ## Working Papers
-1. Zeng, R., & **Dong, Y.**\* (2026). "Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges". _Under Review_ by _IEEE Transactions on Intelligent Transportation Systems_, [Preprint](https://doi.org/10.48550/arXiv.2603.09086).
+1. Zeng, R., & **Dong, Y.**\* (2026). "Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges". **Accepted by CVPR 2026** workshop on World Models & VLA for Embodied Intelligence; _Under Review_ by _IEEE Transactions on Intelligent Transportation Systems_, [Preprint](https://doi.org/10.48550/arXiv.2603.09086).
 2. Huang, Y.<sup>#</sup>, **Dong, Y.**<sup>#,</sup>\*, Tang, Y., & Li, L. (2025). "Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Spatio-Temporal Inverted Transformer". _Under Review_ by _Transportation Research Part E: Logistics and Transportation Review_, [Preprint](https://doi.org/10.48550/arXiv.2509.04362).
 3.  **Dong, Y.**<sup>#,</sup>\*, Reyna, C.F.<sup>#</sup>, Klunder, G., Liao, F., & Rasouli, S. (2025). "Benchmarking Emerging and Established Traffic Microsimulation Platforms for Dynamic Speed Limit Applications: A Comparative Study on Dutch Motorways". (Joint first author, corresponding author, **accepted** by the _29th International Conference of Hong Kong Society for Transportation Studies (HKSTS)_  for poster presentation, to be submitted to _Transportation Research Part C: Emerging Technologies_).
 4. **Dong, Y.**, Saadeh, B., Kemper, D., & García-Hernandez, A. (2025). "Developing Socially Compliant Automated Vehicles in Mixed Traffic: Findings from A Questionnaire Survey". To be submitted to _Transportation Research Part F: Traffic Psychology and Behaviour_.
@@ -58,12 +58,11 @@ My publications will be regularly updated on [Google Scholar](https://scholar.go
  
    
 ## Workshops
-1. **Dong, Y.**, Wang, Y., Rahmani, S., Fu, Z., Martínez, I.,  Zheng, Z., Ngoduy, D., and Li, L. (2025). "[Automated Mobility in Emerging Mixed Traffic: Emerging Mixed Autonomy in the Era of AI
-](https://www.itsc2025.mixedtraffic.org/)" in *28th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2025).
-2. **Dong, Y.**, Rahmani, S., Martínez, I., Wang, Y., Kattan, L., Pei, X., and Farah, H. (2024). "[Automated Mobility in Emerging Mixed Traffic
-](https://www.itsc2024.mixedtraffic.org/)" in *27th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2024).
-3. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://www.iv2023.mixedtraffic.org/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).  
-4. Wang, Y., **Dong, Y.**, Rahmani, S., Martínez, I., Farah, H., Pei, X., Jia, Sh., Yu, R., Zhu M., and Stern, R. (2023). "[Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/)" in *26th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2023).  
+1. Ji, J., **Dong, Y.**, Chen, D., Zheng, Z., Saunier, N., and Wu, C. (2026). "[Trustworthy and Open Science for Intelligent Vehicles Datasets, Benchmarks, and Testbeds](https://www.itsc2025.mixedtraffic.org/)" in *2026 IEEE Intelligent Vehicles Symposium* (IV 2026).
+2. **Dong, Y.**, Wang, Y., Rahmani, S., Fu, Z., Martínez, I.,  Zheng, Z., Ngoduy, D., and Li, L. (2025). "[Automated Mobility in Emerging Mixed Traffic: Emerging Mixed Autonomy in the Era of AI](https://www.itsc2025.mixedtraffic.org/)" in *28th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2025).
+3. **Dong, Y.**, Rahmani, S., Martínez, I., Wang, Y., Kattan, L., Pei, X., and Farah, H. (2024). "[Automated Mobility in Emerging Mixed Traffic](https://www.itsc2024.mixedtraffic.org/)" in *27th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2024).
+4. **Dong, Y.**, Farah, H., Tang, C., Huang, P., Ferranti, L., and de Groot, O. (2023). "[Development of socially-compliant driving behaviour for automated vehicles to enhance safety and efficiency in mixed traffic](https://www.iv2023.mixedtraffic.org/)" in *IEEE Intelligent Vehicles Symposium* (IV 2023).  
+5. Wang, Y., **Dong, Y.**, Rahmani, S., Martínez, I., Farah, H., Pei, X., Jia, Sh., Yu, R., Zhu M., and Stern, R. (2023). "[Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/)" in *26th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2023).  
 
 
 ## Patents
