@@ -42,6 +42,7 @@ Professional Services
   * International Journal of Computer Vision<br/>
   * Pattern Recognition
   * Accident Analysis & Prevention
+  * Journal of Intelligent and Connected Vehicles
   * IEEE Intelligent Transportation Systems Magazine<br/>
   * IEEE Transactions on Intelligent Transportation Systems<br/>
   * IEEE Open Journal of Intelligent Transportation Systems<br/>
@@ -68,6 +69,7 @@ Professional Services
   **Conferences and Proceedings**<br/>
   - IEEE Intelligent Transportation Systems Conference (ITSC) \| Associate editor, Session Chair<br/>
   - IEEE Intelligent Vehicles Symposium (IV) \| Associate editor<br/>
+  - IEEE International Conference on Systems, Man, and Cybernetics (SMC)<br/>
   - Transportation Research Board Annual Meeting (TRB)<br/>
   - World Congress on Intelligent Control and Automation (WCICA)<br/>
   - COTA International Conference of Transportation Professionals (CICTP)<br/>
