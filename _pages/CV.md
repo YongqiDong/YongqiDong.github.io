@@ -54,6 +54,7 @@ Professional Services
   * Journal of Advanced Transportation<br/>
   * IET Intelligent Transport Systems<br/>
   * Applied Ergonomics<br/>
+  * Safety Science<br/>
   * Journal of Internet Technology<br/>
   * European Transport Research Review<br/>
   * Discover Artificial Intelligence<br/>
