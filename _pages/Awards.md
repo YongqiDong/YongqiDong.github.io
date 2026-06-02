@@ -9,7 +9,7 @@ author_profile: true
 
 - 2025-2026 RWTH Aachen Theodore von Kármán Fellowship for Outgoing Scholars (**7,362 €**)
 - [2026 IEEE ITSS New Initiatives Proposal Funding](https://ieee-itss.org/2025/12/call-for-2026-new-initiatives-proposals/) (**5,000 $**)
-- 2025 Entrepreneurs Next Star & Million Prize Global Challenge (German AI+ Deep-Tech) Third Price (**6,000 €**)
+- 2025 Entrepreneurs Next Star & Million Prize Global Challenge (German AI+ Deep-Tech) Third Price (**50,000 ￥**)
 - 2025 Outstanding Innovation & Entrepreneurship Award for Chinese Overseas Scholars (Chunhui Program)
 - 2025 Seed Track Winner of Changping Digital Economy Science and Technology Innovation Competition (CDIC) 
 - TU Delft-Transport Institute Interdisciplinary Research Award (**10,500 €**)
