@@ -28,8 +28,10 @@ Professional Services
  	   Establishing the interdisciplinary TC community of "[Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/)" <br/>
      
 * **Workshop Organizer** <br/>
- 	* IEEE Intelligent Vehicles Symposium ([IV 2023](https://2023.ieee-iv.org/)) <br/> 
+ 	* IEEE Intelligent Vehicles Symposium ([IV 2026](https://www.rerite.org/ivs-2026/), [IV 2023](https://2023.ieee-iv.org/)) <br/> 
  	   [Development of Socially-compliant Driving Behaviour for Automated Vehicles to Enhance Safety and Efficiency in Mixed Traffic](https://sites.google.com/view/mixedtraffic-iv2023/) <br/>
+     [Trustworthy and Open Science for Intelligent Vehicles: _Datasets, Benchmarks, and Testbeds_](https://www.rerite.org/ivs-2026/) <br/>
+
  	* IEEE International Conference on Intelligent Transportation Systems ([ITSC 2025](https://www.itsc2025.mixedtraffic.org/), [ITSC 2024](https://ieee-itsc.org/2024/), and [ITSC 2023](https://2023.ieee-itsc.org/) ) <br/>
      [Automated Mobility in Mixed Traffic: Emerging Mixed Autonomy in the Era of AI](https://www.itsc2025.mixedtraffic.org/) <br/>
      [Automated Mobility in Emerging Mixed Traffic](https://www.itsc2024.mixedtraffic.org/) <br/>
