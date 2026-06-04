@@ -38,7 +38,6 @@ Professional Services
      [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
 
 
-
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>  
   * International Journal of Computer Vision<br/>
