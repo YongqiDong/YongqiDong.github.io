@@ -15,11 +15,12 @@ Our group is <mark style="background-color: SpringGreen">actively seeking PhD st
 - Mixed-Autonomy Traffic 
 - Driving Risk Modelling
 - Transport & Traffic Safety
-- World Model for Automated Driving
+- World (Action) Model for Automated Driving
 - Socially Compliant Decision-making
 - Multi-agent Deep Reinforcement Learning
 - Shared Smart & Sustainable Mobility
 - Smart Logistics & Delivery Robots
+- Efficient AI for Sensing & Perception
 - Lane Detection, Object Detection & Tracking
 - Multi-modal Data Fusion & Data Mining in Transportation Research
 - Vision-Language Model (VLM) and Vision-Language-Action (VLA)
