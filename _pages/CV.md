@@ -42,13 +42,13 @@ Professional Services
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>  
   * International Journal of Computer Vision<br/>
-  * Pattern Recognition
-  * Accident Analysis & Prevention
+  * Pattern Recognition<br/>
+  * Accident Analysis & Prevention<br/>
   * Journal of Intelligent and Connected Vehicles
   * IEEE Intelligent Transportation Systems Magazine<br/>
   * IEEE Transactions on Intelligent Transportation Systems<br/>
   * IEEE Open Journal of Intelligent Transportation Systems<br/>
-  * Transportation Research Part C: Emerging Technologies
+  * Transportation Research Part C: Emerging Technologies<br/>
   * Transportation Letters: the International Journal of Transportation Research<br/>
   * Journal of Intelligent Transportation Systems: Technology, Planning, and Operations<br/>   	
   * Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
