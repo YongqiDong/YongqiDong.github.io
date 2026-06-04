@@ -11,17 +11,19 @@ My group is <mark style="background-color: SpringGreen">actively seeking PhD stu
 - Mixed-Autonomy Traffic 
 - Driving Risk Modelling
 - Transport & Traffic Safety
-- World Model for Automated Driving
+- World (Action) Model for Automated Driving
 - Socially Compliant Decision-making
 - Multi-agent Deep Reinforcement Learning
 - Shared Smart & Sustainable Mobility
 - Smart Logistics & Delivery Robots
+- Efficient AI for Sensing & Perception
 - Lane Detection, Object Detection & Tracking
 - Multi-modal Data Fusion & Data Mining in Transportation Research
 - Vision-Language Model (VLM) and Vision-Language-Action (VLA)
 - Retrieval-Augmented Generation (RAG) for Domain Knowledge Embedding
 - Deep Learning/Reinforcement Learning/VLM & VLA + RAG for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
+
   
 **Opening Master Thesis Project Topics**  
 - [Robust Lane Detection using Spatial-temporal Sequential Attention Based Transformer Model](https://yongqidong.github.io/files/ResearchTopics/Robust_Lane_Detection_using_Spatial-temporal_Sequential_Attention_Based_Transformer_Model.pdf) <br/>
