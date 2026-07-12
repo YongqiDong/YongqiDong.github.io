@@ -53,6 +53,7 @@ Professional Services
   * International Journal of Human-Computer Interaction<br/>
   * Journal of Advanced Transportation<br/>
   * IET Intelligent Transport Systems<br/>
+  * Journal of Field Robotics<br/>
   * Applied Ergonomics<br/>
   * Safety Science<br/>
   * Journal of Internet Technology<br/>
