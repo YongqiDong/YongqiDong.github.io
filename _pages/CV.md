@@ -79,7 +79,7 @@ Professional Services
   - The International Symposium on Transport Network Resilience (INSTR)<br/>
   
 * 2024.06-Present: **Research Group Leader**, AI & Automated Mobility Group, RWTH Aachen University<br/>
-* 2026.08-2026.09: **Visiting Scholar**, Department of Civil and Environmental Engineering, Monash University
+* 2026.08-2026.09: **Visiting Scholar**(RWTH Aachen Theodore von Kármán Fellowship - Outgoing Scholars), Department of Civil and Environmental Engineering, Monash University
 * 2025.05-Present: **Guest Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
 * 2023.05-2023.10: **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
 * 2019.12-2024.06: **Ph.D. Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
