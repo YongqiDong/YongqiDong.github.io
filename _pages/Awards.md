@@ -16,13 +16,13 @@ author_profile: true
 - 2025 Seed Track Winner of Changping Digital Economy Science and Technology Innovation Competition (CDIC) 
 - TU Delft-Transport Institute Interdisciplinary Research Award (**10,500 €**)
 - [2024 IEEE ITSS New Initiatives Proposal Funding](https://ieee-itss.org/call-for-2024-new-initiatives-proposals/#:~:text=IEEE%20ITSS%20is%20opening%20its,completed%20by%20December%2031%2C%202024) (**5,000 $**)
-- Erasmus + mobility Grants (**Two times**)
 - 2024 IEEE ITSC Conference Support Program for Fostering Diversity (Award of 700 $)
 - [2023 Fellowships for Young Researchers, Promoting Diversity and Leadership in ITS](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/)
 - [2023 IEEE SMC Conference Grant](https://ieeesmc2023.org/grants/)
 - [2023 IEEE TAB Committee on Standards (TCoS) Seed Funding](https://ta.ieee.org/operations/standards-activities/tab-committee-on-standards-seed-funding-opportunities) (**6,000 $**; ~Only 10 recipients in the Netherlands)
 - [2022 Chinese Award for Outstanding Self-financed Students Abroad](https://drive.google.com/file/d/1zrHTIQhMNcBKcoxLTLDQSYjm9AmOT9us/view?usp=sharing) (**6,000 $**)
 - [IEEE ITSS Young Professionals Travelling Fellowship](https://ieee-itss.org/yp-travelling-fellowship-program-2022/#:~:text=Young%20Professionals%20Travelling%20Fellowship%20Program%202022&text=Selected%20Young%20Professionals%20will%20receive,be%20reimbursed%20by%20IEEE%20ITSS.), November 2022. [[Certificate]](https://drive.google.com/file/d/156tSlTas2NeUuQX51yEB96wWb9xEnzVF/view)
+- Erasmus + mobility Grants (**Two times**)
 - Outstanding College Graduates of Beijing (**Top 1‰**)
 - First Class Tsinghua University RONG Scholarship
 - **National Scholarship (Top 1%)**
