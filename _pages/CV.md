@@ -43,7 +43,8 @@ Professional Services
   * International Journal of Computer Vision<br/>
   * Pattern Recognition<br/>
   * Accident Analysis & Prevention<br/>
-  * Journal of Intelligent and Connected Vehicles
+  * Transportmetrica A: Transport Science<br/>
+  * Journal of Intelligent and Connected Vehicles<br/>
   * IEEE Intelligent Transportation Systems Magazine<br/>
   * IEEE Transactions on Intelligent Transportation Systems<br/>
   * IEEE Open Journal of Intelligent Transportation Systems<br/>
