@@ -50,7 +50,7 @@ Professional Services
   * Transportation Research Part C: Emerging Technologies<br/>
   * Transportation Letters: the International Journal of Transportation Research<br/>
   * Journal of Intelligent Transportation Systems: Technology, Planning, and Operations<br/>   	
-  * Journal of Transportation Research Record: Journal of the Transportation Research Board<br/>
+  * Transportation Research Record: Journal of the Transportation Research Board<br/>
   * International Journal of Human-Computer Interaction<br/>
   * Journal of Advanced Transportation<br/>
   * IET Intelligent Transport Systems<br/>
@@ -72,6 +72,7 @@ Professional Services
   **Conferences and Proceedings**<br/>
   - IEEE Intelligent Transportation Systems Conference (ITSC) \| Associate editor, Session Chair<br/>
   - IEEE Intelligent Vehicles Symposium (IV) \| Associate editor<br/>
+  - IEEE International Conference on Robotics & Automation (ICRA)
   - IEEE International Conference on Systems, Man, and Cybernetics (SMC)<br/>
   - Transportation Research Board Annual Meeting (TRB)<br/>
   - World Congress on Intelligent Control and Automation (WCICA)<br/>
