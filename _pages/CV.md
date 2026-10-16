@@ -19,13 +19,15 @@ Education
 
 Professional Services 
 ======
+* **Technical Committee Leadership** <br/>
+ 	* Technical Committee Chair | [Automated Mobility in Mixed Traffic | IEEE ITSS](https://ieee-itss.org/chapters-committees/automated-mobility-in-mixed-traffic/) | _Jun.2025-Present_ <br/> 
+ 	   Established and Chair the interdisciplinary TC community of "[Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/)" <br/>
+
 * **Special Issue Leading Guest Editor** <br/>
  	* [IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS) Guest Editor](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
  	   Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
 
-* **Technical Committee Chair** <br/>
- 	* [Automated Mobility in Mixed Traffic | IEEE ITSS](https://ieee-itss.org/chapters-committees/automated-mobility-in-mixed-traffic/) | _Jun.2025-Present_ <br/> 
- 	   Establishing the interdisciplinary TC community of "[Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/)" <br/>
+
      
 * **Workshop Organizer** <br/>
  	* IEEE Intelligent Vehicles Symposium ([IV 2026](https://www.rerite.org/ivs-2026/) and [IV 2023](https://2023.ieee-iv.org/)) <br/> 
