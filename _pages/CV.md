@@ -74,8 +74,8 @@ Academic and Professional Services
   
   
   **Conferences and Proceedings**<br/>
-  - IEEE Intelligent Transportation Systems Conference (ITSC) \| Associate editor, Session Chair<br/>
-  - IEEE Intelligent Vehicles Symposium (IV) \| Associate editor<br/>
+  - IEEE Intelligent Transportation Systems Conference (ITSC) \| **Associate Editor, Session Chair**<br/>
+  - IEEE Intelligent Vehicles Symposium (IV) \| **Associate Editor**<br/>
   - IEEE International Conference on Robotics & Automation (ICRA)
   - IEEE International Conference on Systems, Man, and Cybernetics (SMC)<br/>
   - Transportation Research Board Annual Meeting (TRB)<br/>
