@@ -23,8 +23,8 @@ Professional Services
  	* Technical Committee Chair | [Automated Mobility in Mixed Traffic | IEEE ITSS](https://ieee-itss.org/chapters-committees/automated-mobility-in-mixed-traffic/) | _Jun.2025-Present_ <br/> 
  	   Established and Chair the interdisciplinary TC community of "[Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/)" <br/>
 
-* **Special Issue Leading Guest Editor** <br/>
- 	* [IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS) Guest Editor](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
+* **Journal Editorial Leadership** <br/>
+ 	* [Lead Guest Editor | IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS)](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
  	   Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
 
 
