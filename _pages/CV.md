@@ -24,7 +24,7 @@ Professional Services
  	   Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
 
 * **Technical Committee Chair** <br/>
- 	* [Automated Mobility in Mixed Traffic | IEEE ITSS](https://ieee-itss.org/chapters-committees/automated-mobility-in-mixed-traffic/) | _Mar.2025-Present_ <br/> 
+ 	* [Automated Mobility in Mixed Traffic | IEEE ITSS](https://ieee-itss.org/chapters-committees/automated-mobility-in-mixed-traffic/) | _Jun.2025-Present_ <br/> 
  	   Establishing the interdisciplinary TC community of "[Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/)" <br/>
      
 * **Workshop Organizer** <br/>
