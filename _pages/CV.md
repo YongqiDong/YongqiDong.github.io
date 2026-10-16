@@ -31,14 +31,14 @@ Academic and Professional Services
      
 * **Conference Workshop and Invited Session Organization** <br/>
  	* IEEE Intelligent Vehicles Symposium ([IV 2026](https://www.rerite.org/ivs-2026/) and [IV 2023](https://2023.ieee-iv.org/)) <br/> 
- 	   - [Development of Socially-compliant Driving Behaviour for Automated Vehicles to Enhance Safety and Efficiency in Mixed Traffic](https://sites.google.com/view/mixedtraffic-iv2023/) <br/>
- 	   - [Trustworthy and Open Science for Intelligent Vehicles: _Datasets, Benchmarks, and Testbeds_](https://www.rerite.org/ivs-2026/) <br/>
+ 	   -- [Development of Socially-compliant Driving Behaviour for Automated Vehicles to Enhance Safety and Efficiency in Mixed Traffic](https://sites.google.com/view/mixedtraffic-iv2023/) <br/>
+ 	   -- [Trustworthy and Open Science for Intelligent Vehicles: _Datasets, Benchmarks, and Testbeds_](https://www.rerite.org/ivs-2026/) <br/>
  	* IEEE International Conference on Intelligent Transportation Systems ([ITSC 2026](https://www.itsc2026.mixedtraffic.org/), [ITSC 2025](https://www.itsc2025.mixedtraffic.org/), [ITSC 2024](https://ieee-itsc.org/2024/), and [ITSC 2023](https://2023.ieee-itsc.org/))<br/>
- 	   - [Invited Session: AI-Empowered Automated Driving in Mixed Traffic](https://ieee-itsc.org/2026/accepted-invited-sessions/) <br/>
-     - [Automated Mobility in Mixed Traffic: _Toward Robust, Human-Centric, and Trustworthy Systems_](https://www.itsc2026.mixedtraffic.org/) <br/>
- 	   - [Automated Mobility in Mixed Traffic: _Emerging Mixed Autonomy in the Era of AI_](https://www.itsc2025.mixedtraffic.org/) <br/>
- 	   - [Automated Mobility in Emerging Mixed Traffic](https://www.itsc2024.mixedtraffic.org/) <br/>
- 	   - [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
+ 	   -- [Invited Session: AI-Empowered Automated Driving in Mixed Traffic](https://ieee-itsc.org/2026/accepted-invited-sessions/) <br/>
+     -- [Automated Mobility in Mixed Traffic: _Toward Robust, Human-Centric, and Trustworthy Systems_](https://www.itsc2026.mixedtraffic.org/) <br/>
+ 	   -- [Automated Mobility in Mixed Traffic: _Emerging Mixed Autonomy in the Era of AI_](https://www.itsc2025.mixedtraffic.org/) <br/>
+ 	   -- [Automated Mobility in Emerging Mixed Traffic](https://www.itsc2024.mixedtraffic.org/) <br/>
+ 	   -- [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
 
 
 * **Ad-hoc Reviewer Services**<br/>
