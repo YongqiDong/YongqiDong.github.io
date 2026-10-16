@@ -40,7 +40,7 @@ Academic and Professional Services
  	   -- [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
 
 * **Other Scholarly Leadership and Service** <br/>
- 	* Ambassador | IEEE Western European Students and Young Professionals ([WESYP](https://wesyp.ieeer8.org/the-team/#:~:text=the%20regular%20meetings.-,Yongqi%20Dong,-Germany%20Ambassador%20(IEEE))) | _Jun.2025-Present_ <br/>
+ 	* Ambassador | IEEE Western European Students and Young Professionals ([WESYP](https://wesyp.ieeer8.org/the-team/#:~:text=the%20regular%20meetings.-,Yongqi%20Dong,-Germany%20Ambassador%20)) | _Jun.2025-Present_ <br/>
  	* Project Leader (PI) | IEEE TAB Committee on Standards (TCoS) Seeding Project | _Mar.2023-Dec.2023_ <br/>
 
 * **Ad-hoc Reviewer Services**<br/>
