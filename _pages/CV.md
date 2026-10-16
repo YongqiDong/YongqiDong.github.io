@@ -84,7 +84,7 @@ Academic and Professional Services
   - The International Symposium on Transport Network Resilience (INSTR)<br/>
 
 * **Other Scholarly Leadership and Service** <br/>
-* Ambassador | IEEE Western European Students and Young Professionals ([WESYP](https://wesyp.ieeer8.org/the-team/#:~:text=the%20regular%20meetings.-,Yongqi%20Dong,-Germany%20Ambassador%20(IEEE)) | _Jun.2025-Present_ <br/> 
+ * Ambassador | IEEE Western European Students and Young Professionals ([WESYP](https://wesyp.ieeer8.org/the-team/#:~:text=the%20regular%20meetings.-,Yongqi%20Dong,-Germany%20Ambassador%20(IEEE)) | _Jun.2025-Present_ <br/> 
 
 * 2024.06-Present: **Research Group Leader**, AI & Automated Mobility Group, RWTH Aachen University<br/>
 * 2026.08-2026.09: **Visiting Scholar** (RWTH Theodore von Kármán Fellowship - Outgoing Scholar), Department of Civil and Environmental Engineering, Monash University
