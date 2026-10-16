@@ -27,7 +27,6 @@ Academic and Professional Services
  	* [Lead Guest Editor | IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS)](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
  	   -- Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
 
-
      
 * **Conference Workshop and Invited Session Organization** <br/>
  	* IEEE Intelligent Vehicles Symposium ([IV 2026](https://www.rerite.org/ivs-2026/) and [IV 2023](https://2023.ieee-iv.org/)) <br/> 
@@ -41,7 +40,7 @@ Academic and Professional Services
  	   -- [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/) <br/>
 
 * **Other Scholarly Leadership and Service** <br/>
- * Ambassador | IEEE Western European Students and Young Professionals ([WESYP](https://wesyp.ieeer8.org/the-team/#:~:text=the%20regular%20meetings.-,Yongqi%20Dong,-Germany%20Ambassador%20(IEEE)) | _Jun.2025-Present_ <br/> 
+ 	* Ambassador | IEEE Western European Students and Young Professionals ([WESYP](https://wesyp.ieeer8.org/the-team/#:~:text=the%20regular%20meetings.-,Yongqi%20Dong,-Germany%20Ambassador%20(IEEE)) | _Jun.2025-Present_ <br/> 
 
 * **Ad-hoc Reviewer Services**<br/>
 **Journals**<br/>  
