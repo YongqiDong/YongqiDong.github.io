@@ -87,7 +87,7 @@ Academic and Professional Services
 
 
 
-* 2024.06-Present: **Research Group Leader**, AI & Automated Mobility Group, RWTH Aachen University<br/>
+* 2024.06-Present: **Research Group Leader/Postdoctoral Researcher**, AI & Automated Mobility Group, RWTH Aachen University<br/>
 * 2026.08-2026.09: **Visiting Scholar** (RWTH Theodore von Kármán Fellowship - Outgoing Scholar), Department of Civil and Environmental Engineering, Monash University
 * 2025.05-Present: **Guest Researcher**, [Traffic and Transportation Safety Lab](https://www.tudelft.nl/citg/tts-lab), Delft University of Technology<br/>
 * 2023.05-2023.10: **Visiting Scholar**, [Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley<br/>
