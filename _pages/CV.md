@@ -27,6 +27,9 @@ Academic and Professional Services
  	* [Lead Guest Editor | IEEE Transactions on Intelligent Transportation Systems (IEEE-T-ITSS)](https://ieee-itss.org/pub/t-its/special-issues/) | _Sep.2025-Present_ <br/> 
  	   -- Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
 
+* **Research Grant Review** <br/>
+ 	* Invited Grant Reviewer | [German Research Foundation (DFG)](https://www.dfg.de/en/research-funding/funding-opportunities/programmes) | _Mar.2026-Sep.2026_ <br/> 
+ 	   -- Special Issue on _AI-Empowered Automated Driving in Mixed Traffic: From Sensing, Perception, to Planning and Control_ <br/>
      
 * **Conference Workshop and Invited Session Organization** <br/>
  	* IEEE Intelligent Vehicles Symposium ([IV 2026](https://www.rerite.org/ivs-2026/) and [IV 2023](https://2023.ieee-iv.org/)) <br/> 
