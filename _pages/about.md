@@ -18,9 +18,7 @@ Our group is <mark style="background-color: SpringGreen">actively seeking PhD st
 
 I am actively seeking new academic and research opportunities, including **Assistant Professor (tenure-track or equivalent), Senior Postdoctoral Researcher, and Research Group Leader** positions at leading universities and research institutions worldwide, with availability starting **January 2027**.
 
-My research interests span **Artificial Intelligence, Autonomous Driving and Robotics, Intelligent Transportation Systems, Risk-Aware World Models, Reinforcement Learning, Predictive Control, Human-Centred Mobility, Traffic Safety, and Digital Twins**.
-
-Typical research areas include:
+My research interests span **Artificial Intelligence, Autonomous Driving and Robotics, Intelligent Transportation Systems, Risk-Aware World Models, Reinforcement Learning, Predictive Control, Human-Centred Mobility, Traffic Safety, and Digital Twins**. Typical research areas include:
 - Connected Automated Vehicles
 - Mixed-Autonomy Traffic 
 - Driving Risk Modelling
