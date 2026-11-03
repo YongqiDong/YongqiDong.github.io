@@ -20,10 +20,6 @@ I am actively seeking new academic and research opportunities, including **Assis
 
 My research interests span **Artificial Intelligence, Autonomous Driving and Robotics, Intelligent Transportation Systems, Risk-Aware World Models, Reinforcement Learning, Predictive Control, Human-Centred Mobility, Traffic Safety, and Digital Twins**.
 
-I am also open to **international research collaborations, joint funding applications, and externally funded research positions**, including opportunities to develop and host **DFG research proposals** and other competitive research projects.
-
-I welcome discussions with prospective hosts, research groups, and institutions regarding suitable positions and collaborative opportunities. Please feel free to contact me at **yongqi.dong@rwth-aachen.de**.
-
 Typical research areas include:
 - Connected Automated Vehicles
 - Mixed-Autonomy Traffic 
@@ -42,7 +38,11 @@ Typical research areas include:
 - Deep Learning/Reinforcement Learning/VLM & VLA + RAG for Automated Mobility
 - Explainable AI Applications in Mobility & Interdisciplinary Problems
 
-Feel free to email me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aachen.de) for research discussion and possible collaboration! 
+I am also open to **international research collaborations, joint funding applications, and externally funded research positions**, including opportunities to develop and host **DFG research proposals** and other competitive research projects.
+
+I welcome discussions with prospective hosts, research groups, and institutions regarding suitable positions and collaborative opportunities. 
+
+Feel free to contact me at [yongqi.dong@rwth-aachen.de](mailto:yongqi.dong@rwth-aachen.de) for research discussions and possible collaboration! 
 
 <br/>
 
