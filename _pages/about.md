@@ -10,7 +10,21 @@ redirect_from:
 
 I am Yongqi Dong, a Research Group Leader (AI & Automated Mobility) at RWTH Aachen University, a guest researcher at TU Delft, and previously a visiting scholar at UC Berkeley. With a broad interdisciplinary background, my ultimate goal is to employ Artificial Intelligence (AI) and multidisciplinary research as tools to shape a better world. To achieve this, I have focused on the transportation domain and explored various aspects of shared, smart, sustainable, and automated mobility. 
 
-Our group is <mark style="background-color: SpringGreen">actively seeking PhD students, (self-funded, e.g., <a href="https://www.csc.edu.cn/article/3296"><span style="color:blue">CSC</span></a>, <a href="https://www.daad.de/en/the-daad/postdocnet/short-term-research-stay/"><span style="color:blue">DAAD</span></a>, <a href="https://www.rwth-aachen.de/cms/root/studium/im-studium/stipendien-foerderung/~fhgwb/advanced-research-opportunities-program/?lidx=1"><span style="color:blue">RWTH-AROP</span></a>, <a href="https://www.rwth-aachen.de/go/id/rcph/lidx/1"><span style="color:blue">RWTH-Theodore von Kármán Fellowship</span></a>) visiting PhDs/RAs/Scholars, and Master's students (thesis projects)</mark> in the wide domain of Transportation & Traffic Engineering, Intelligent Transportation Systems, AI, Data Science, and Digital Twins. Typical research areas include:
+---
+Our group is <mark style="background-color: SpringGreen">actively seeking PhD students, (self-funded, e.g., <a href="https://www.csc.edu.cn/article/3296"><span style="color:blue">CSC</span></a>, <a href="https://www.daad.de/en/the-daad/postdocnet/short-term-research-stay/"><span style="color:blue">DAAD</span></a>, <a href="https://www.rwth-aachen.de/cms/root/studium/im-studium/stipendien-foerderung/~fhgwb/advanced-research-opportunities-program/?lidx=1"><span style="color:blue">RWTH-AROP</span></a>, <a href="https://www.rwth-aachen.de/go/id/rcph/lidx/1"><span style="color:blue">RWTH-Theodore von Kármán Fellowship</span></a>) visiting PhDs/RAs/Scholars, and Master's students (thesis projects)</mark> in the wide domain of Transportation & Traffic Engineering, Intelligent Transportation Systems, AI, Data Science, and Digital Twins. 
+---
+
+### Open to Academic & Research Opportunities (From January 2027)
+
+I am actively seeking new academic and research opportunities, including **Assistant Professor (tenure-track or equivalent), Senior Postdoctoral Researcher, and Research Group Leader** positions at leading universities and research institutions worldwide, with availability starting **January 2027**.
+
+My research interests span **Artificial Intelligence, Autonomous Driving and Robotics, Intelligent Transportation Systems, Risk-Aware World Models, Reinforcement Learning, Predictive Control, Human-Centred Mobility, Traffic Safety, and Digital Twins**.
+
+I am also open to **international research collaborations, joint funding applications, and externally funded research positions**, including opportunities to develop and host **DFG research proposals** and other competitive research projects.
+
+I welcome discussions with prospective hosts, research groups, and institutions regarding suitable positions and collaborative opportunities. Please feel free to contact me at **yongqi.dong@rwth-aachen.de**.
+
+Typical research areas include:
 - Connected Automated Vehicles
 - Mixed-Autonomy Traffic 
 - Driving Risk Modelling
