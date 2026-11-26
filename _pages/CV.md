@@ -70,6 +70,7 @@ Academic and Professional Services
   * European Transport Research Review<br/>
   * Discover Artificial Intelligence<br/>
   * Signal, Image and Video Processing<br/>
+  * Machine Learning with Applications<br/>
   * Systems Science & Control Engineering<br/>
   * Archives of Computational Methods in Engineering<br/>
   * Engineering Applications of Artificial Intelligence<br/>  
